@@ -17,7 +17,7 @@ author = "J. Christopher Westland"
 description = "Chris Westland's personal website"
 keywords = "blog,developer,personal"
 info = ["Professor - University of Illinois Chicago", "Data Analytics, Finance, Accounting, Law"]
-avatarURL = "images/westland.jpg"
+avatarURL = "https://avatars.githubusercontent.com/u/3118689?v=4"
 #gravatar = "westland@uic.edu"
 dateFormat = "Oct 21, 2023"
 since = 2023
