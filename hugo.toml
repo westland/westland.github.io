@@ -154,7 +154,7 @@ languageName = ":us:"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 1
-url = "cv/"
+url = "content/cv/"
 
 [[languages.en.menu.main]]
 name = "Books"
