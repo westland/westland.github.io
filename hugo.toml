@@ -154,7 +154,7 @@ languageName = ":us:"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 1
-url = "content/cv/"
+url = "https://westland.github.io/cv/"
 
 [[languages.en.menu.main]]
 name = "Books"
