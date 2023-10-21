@@ -126,26 +126,26 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://westland.github.io"
+url = "https://github.com/westland/auditanalytics"
 
 [[params.social]]
 name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
+icon = "fa fa-2x fa-facebook"
 weight = 2
-url = "https://westland.github.io"
+url = "https://www.facebook.com/chris.westland/"
 
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/chriswestland/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/j-christopher-westland-4782b49/"
 
 
 [languages.en]
