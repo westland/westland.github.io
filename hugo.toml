@@ -147,59 +147,27 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/johndoe/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":us:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "CV"
 weight = 1
-url = "about/"
+url = "cv/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Books"
 weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Research"
 weight = 3
-url = "projects/"
+url = "research/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Hobbies"
 weight = 5
-url = "contact/"
+url = "hobbies/"
 
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-weight = 1
-url = "about/"
-
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.pt-br.menu.main]]
-name = "Projetos"
-weight = 3
-url = "projects/"
-
-[[languages.pt-br.menu.main]]
-name = "Contato"
-weight = 5
-url = "contact/"
