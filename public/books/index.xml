@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on chris westland&#39;s personal website</title>
+    <link>http://westland.github.io/books/</link>
+    <description>Recent content in Books on chris westland&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Oct 2023 16:18:49 -0500</lastBuildDate><atom:link href="http://westland.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structural_equation_models</title>
+      <link>http://westland.github.io/books/structural_equation_models/</link>
+      <pubDate>Sat, 21 Oct 2023 16:18:49 -0500</pubDate>
+      
+      <guid>http://westland.github.io/books/structural_equation_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditanalytics</title>
+      <link>http://westland.github.io/books/auditanalytics/</link>
+      <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
+      
+      <guid>http://westland.github.io/books/auditanalytics/</guid>
+      <description>Today, information technology plays a pivotal role in financial control and audit: most financial data is now digitally recorded and dispersed among servers, clouds and networks over which the audited firm has no control. Additionally, a firm�s data�particularly in the case of finance, software, insurance and biotech firms� comprises most of the audited value of the firm. Financial audits are critical mechanisms for ensuring the integrity of information systems and the reporting of organizational finances.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -15,7 +15,7 @@ noClasses = false
 author = "J. Christopher Westland"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Chris Westland's personal website"
-keywords = "blog,developer,personal"
+keywords = "researcher, finance, information technology,personal"
 info = ["Professor - University of Illinois Chicago", "Data Analytics, Finance, Accounting, Law"]
 avatarURL = "https://avatars.githubusercontent.com/u/3118689?v=4"
 #gravatar = "westland@uic.edu"
@@ -152,22 +152,27 @@ url = "https://www.linkedin.com/in/j-christopher-westland-4782b49/"
 languageName = ":us:"
 
 [[languages.en.menu.main]]
-name = "CV"
+name = "Academics"
 weight = 1
-url = "https://westland.github.io/cv/cv.md"
+url = "/academics/"
 
 [[languages.en.menu.main]]
 name = "Books"
 weight = 2
-url = "posts/"
+url = "/books/"
 
 [[languages.en.menu.main]]
 name = "Research"
 weight = 3
-url = "research/"
+url = "/research/"
 
 [[languages.en.menu.main]]
 name = "Hobbies"
+weight = 4
+url = "/hobbies/"
+
+[[languages.en.menu.main]]
+name = "Music"
 weight = 5
-url = "hobbies/"
+url = "/music/"
 
