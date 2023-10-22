@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hobbies on chris westland&#39;s personal website</title>
+    <link>http://westland.github.io/hobbies/</link>
+    <description>Recent content in Hobbies on chris westland&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Oct 2023 20:14:21 -0500</lastBuildDate><atom:link href="http://westland.github.io/hobbies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astrophotograpy</title>
+      <link>http://westland.github.io/hobbies/astrophotograpy/</link>
+      <pubDate>Sat, 21 Oct 2023 20:14:21 -0500</pubDate>
+      
+      <guid>http://westland.github.io/hobbies/astrophotograpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New_orleans</title>
+      <link>http://westland.github.io/hobbies/new_orleans/</link>
+      <pubDate>Sat, 21 Oct 2023 16:19:34 -0500</pubDate>
+      
+      <guid>http://westland.github.io/hobbies/new_orleans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

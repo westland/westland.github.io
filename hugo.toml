@@ -162,17 +162,14 @@ weight = 2
 url = "/books/"
 
 [[languages.en.menu.main]]
-name = "Research"
+name = "Inquiries"
 weight = 3
-url = "/research/"
+url = "/inquiries/"
 
 [[languages.en.menu.main]]
 name = "Hobbies"
 weight = 4
 url = "/hobbies/"
 
-[[languages.en.menu.main]]
-name = "Music"
-weight = 5
-url = "/music/"
+
 

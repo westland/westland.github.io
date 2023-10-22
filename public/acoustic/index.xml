@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acoustics on chris westland&#39;s personal website</title>
+    <link>http://westland.github.io/acoustic/</link>
+    <description>Recent content in Acoustics on chris westland&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Oct 2023 20:13:02 -0500</lastBuildDate><atom:link href="http://westland.github.io/acoustic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>http://westland.github.io/acoustic/music/</link>
+      <pubDate>Sat, 21 Oct 2023 20:13:02 -0500</pubDate>
+      
+      <guid>http://westland.github.io/acoustic/music/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
