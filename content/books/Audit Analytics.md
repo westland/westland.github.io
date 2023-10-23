@@ -11,7 +11,7 @@ draft = false
 | ardvark | box | car |
 | ark | book | cook |
 
-Today, information technology plays a pivotal role in financial control and audit
+Today, _information technology_ plays a pivotal role in __financial control and audit__
 
 -  most financial data is now digitally recorded and dispersed among servers, clouds and networks over which the audited firm has no control
 
