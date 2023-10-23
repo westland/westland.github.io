@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 21 Oct 2023 20:28:09 -0500</lastBuildDate><atom:link href="http://westland.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>http://westland.github.io/inquiries/research/</link>
+      <link>http://westland.github.io/inquiries/current-projects/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
       
-      <guid>http://westland.github.io/inquiries/research/</guid>
+      <guid>http://westland.github.io/inquiries/current-projects/</guid>
       <description></description>
     </item>
     
@@ -27,38 +27,21 @@
     
     <item>
       <title>Music</title>
-      <link>http://westland.github.io/acoustic/music/</link>
-      <pubDate>Sat, 21 Oct 2023 20:13:02 -0500</pubDate>
-      
-      <guid>http://westland.github.io/acoustic/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New_orleans</title>
-      <link>http://westland.github.io/hobbies/new_orleans/</link>
+      <link>http://westland.github.io/hobbies/music/</link>
       <pubDate>Sat, 21 Oct 2023 16:19:34 -0500</pubDate>
       
-      <guid>http://westland.github.io/hobbies/new_orleans/</guid>
+      <guid>http://westland.github.io/hobbies/music/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New_orleans</title>
-      <link>http://westland.github.io/music/new_orleans/</link>
-      <pubDate>Sat, 21 Oct 2023 16:19:34 -0500</pubDate>
-      
-      <guid>http://westland.github.io/music/new_orleans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structural_equation_models</title>
-      <link>http://westland.github.io/books/structural_equation_models/</link>
+      <title>Structural Equation Models</title>
+      <link>http://westland.github.io/books/structural-equation-models/</link>
       <pubDate>Sat, 21 Oct 2023 16:18:49 -0500</pubDate>
       
-      <guid>http://westland.github.io/books/structural_equation_models/</guid>
-      <description></description>
+      <guid>http://westland.github.io/books/structural-equation-models/</guid>
+      <description>Purchase on Amazon
+Motivation for this Book Link to heading Since publication of the first edition of Structural Equation Models, I have been fortunate to maintain an active dialog on structural equations modeling (SEM) with many of my colleagues around the world. I never cease to be surprised with the broad divergence of opinions and myriad applications of SEM methodologies. Statistical methods such as regression and ANOVA rely on datasets of objectively measured constructs.</description>
     </item>
     
     <item>
@@ -81,23 +64,68 @@
     
     <item>
       <title>Curriculum_Vitae</title>
-      <link>http://westland.github.io/academics/curriculum_vitae/</link>
+      <link>http://westland.github.io/academics/curriculum-vitae/</link>
       <pubDate>Sat, 21 Oct 2023 16:06:53 -0500</pubDate>
       
-      <guid>http://westland.github.io/academics/curriculum_vitae/</guid>
+      <guid>http://westland.github.io/academics/curriculum-vitae/</guid>
       <description>address: Information &amp;amp; Decision Systems, University of Illinoise @ Chicago phone: US +1.312.860.0587 \ \ \ China +86.182.1088.7352 position: Professor twitter: chriswestland www: uic.edu/~westland
 Education Link to heading Ph.D., Computers &amp;amp; Information Systems, University of Michigan, 1987 MBA, Accounting, Indiana University, 1973 BA, Mathematics (Physics &amp;amp; Chemistry minors), Indiana University, 1971 Languages: English, Mandarin Chinese Certifications and Organizations Link to heading Certified Public Accountant (Illinois License 065.035982) Illinois CPA Society Beta Gamma Sigma (Business Honorary Society) Mensa International; American Mensa Career History Link to heading Professor, IDS, University of Illinois � Chicago, 2007-present High-level Foreign Expert, P.</description>
     </item>
     
     <item>
-      <title>Auditanalytics</title>
-      <link>http://westland.github.io/books/auditanalytics/</link>
+      <title>Audit Analytics</title>
+      <link>http://westland.github.io/books/audit-analytics/</link>
       <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
       
-      <guid>http://westland.github.io/books/auditanalytics/</guid>
-      <description>a b c ardvark box car ark book cook Today, information technology plays a pivotal role in financial control and audit
-most financial data is now digitally recorded and dispersed among servers, clouds and networks over which the audited firm has no control Additionally, a firm&amp;rsquo;s data
-particularly in the case of finance, software, insurance and biotech firms comprises most of the audited value of the firm. Financial audits are critical mechanisms for ensuring the integrity of information systems and the reporting of organizational finances.</description>
+      <guid>http://westland.github.io/books/audit-analytics/</guid>
+      <description>Purchase on Amazon
+How this book came about Link to heading I began my career in 1973 as a staff accountant in the Chicago office of Touche Ross (a predecessor firm to Deloitte Touche Tohmatsu). Computers were new to accounting in those days. IBM had introduced its System 360 in 1964 (S/360 referred to the architecture&amp;rsquo;s wide scope: 360 degrees to cover the entire circle of possible uses). By 1973, these were becoming fixtures in the accounting systems of large corporations.</description>
+    </item>
+    
+    <item>
+      <title>Financial Dynamics</title>
+      <link>http://westland.github.io/books/financial-dynamics/</link>
+      <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
+      
+      <guid>http://westland.github.io/books/financial-dynamics/</guid>
+      <description>Purchase on Amazon</description>
+    </item>
+    
+    <item>
+      <title>Global Electronic Commerce</title>
+      <link>http://westland.github.io/books/global-electronic-commerce/</link>
+      <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
+      
+      <guid>http://westland.github.io/books/global-electronic-commerce/</guid>
+      <description>Purchase on Amazon</description>
+    </item>
+    
+    <item>
+      <title>Global Innovation Management</title>
+      <link>http://westland.github.io/books/global-innovation-managment/</link>
+      <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
+      
+      <guid>http://westland.github.io/books/global-innovation-managment/</guid>
+      <description>Purchase on Amazon
+Motivation for this Book Link to heading This second edition of Global Innovation Management updates materials I have been using in classes taught at Hong Kong University of Science and Technology, University of Illinois – Chicago, the Vietnam EMBA and the University of Science and Technology in China. It addresses a question that I have encoun- tered for at least a decade now: ‘If you think you have invented a winning innovation, how can you bring your innovation out of the labo- ratory and turn it into a commercially success- ful product?</description>
+    </item>
+    
+    <item>
+      <title>Valuing Technology</title>
+      <link>http://westland.github.io/books/valuing-technology/</link>
+      <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
+      
+      <guid>http://westland.github.io/books/valuing-technology/</guid>
+      <description>Purchase on Amazon</description>
+    </item>
+    
+    <item>
+      <title>Red Wired</title>
+      <link>http://westland.github.io/books/red-wired/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://westland.github.io/books/red-wired/</guid>
+      <description>Purchase on Amazon</description>
     </item>
     
   </channel>

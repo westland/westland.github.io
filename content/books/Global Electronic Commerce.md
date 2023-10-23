@@ -9,5 +9,5 @@ draft = false
 
 
 ![Global Electronic Commerce](/GEC.jpg)
-
+[Purchase on Amazon](https://www.amazon.com/Global-Electronic-Commerce-Theory-Studies/dp/0262232057/ref=sr_1_9?crid=1W04C84ZBA77I&keywords=j.+christopher+Westland&qid=1698076663&sprefix=j.+christopher+westland%2Caps%2C97&sr=8-9)
 
