@@ -1,5 +1,5 @@
 +++
-title = 'Curriculum_Vitae'
+title = 'Curriculum Vitae'
 date = 2023-10-21T16:06:53-05:00
 draft = false
 +++
