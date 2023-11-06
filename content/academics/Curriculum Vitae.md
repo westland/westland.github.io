@@ -5,11 +5,12 @@ draft = false
 +++
 
 
-address: Information & Decision Systems, University of Illinoise @ Chicago
-phone: US +1.312.860.0587   \ \ \       China +86.182.1088.7352
-position: Professor
-twitter: chriswestland
-www: uic.edu/~westland
+# James Christopher Westland
+
+Professor, Information & Decision Systems, University of Illinoise Chicago
+
+- phone: US +1.312.860.0587  
+- www: https://westland.github.io/
 
 
 ## Education
@@ -26,18 +27,20 @@ www: uic.edu/~westland
 1. Illinois CPA Society
 1. Beta Gamma Sigma (Business Honorary Society)
 1. Mensa International; American Mensa
+1. Appointment to the Fulbright Specialist Roster by the U.S. Department of State
+
 
 
 ## Career History
 
-1. Professor, IDS, University of Illinois – Chicago, 2007-present
+1. Professor, IDS, University of Illinois Chicago, 2007-present
 1. High-level Foreign Expert, P.R.China (under 1000-Talents Plan) Beihang University (Project 985 University, in Key Lab for Complex Decision making), 2012-2017
 1. Adjunct Professor, XiDian University, Xian, P.R.China, 2017-present
 1. Adjunct Professor, Shanghai University, Shanghai, P.R.China, 2019
 1. Adjunct Professor, University of Science and Technology of China, Hefei, P.R.China (C9 League University), 2013-2016
 1. Adjunct Professor, Key Center for e-Health, Harbin Institute of Technology, Harbin, P.R.China (C9 League University), 2011-present
 1. Adjunct Professor, Key Lab of Financial Intelligence and Financial Engineering (FIFE) at SWUFE (Project 985), Chengdu, P.R.China, 2007-Present
-1. Head, IDS, University of Illinois – Chicago, 2000-2007
+1. Head, IDS, University of Illinois Chicago, 2000-2007
 1. Professor, Information and Systems Management (Adjunct Professor in 2008-9), HK University of Science & Technology, 1995-2007
 Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing, 2002-2003
 1. Visiting Professor (on Sabbatical Leave from HKUST), Nanyang Technological University, Singapore, 2002
@@ -53,8 +56,9 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 
 ## Editorial 
 
-1. Electronic Commerce Research (Editor-in-Chief, 2013-present) _Impact factor: 2.507 (2019); 5-year IF: 2.643 (2019); Acceptance: 14%; articles/yr: 40; downloads: ~100K/yr_
+1. Electronic Commerce Research (Editor-in-Chief, 2013-present) _Impact factor: 3.9 (2022), Five year impact factor 4.3 (2022); Acceptance: 14%; articles/yr: 140; hybrid publishing model, submission to first decision (median) 9 days, annual downloads 245,608 (2022)_
 2. Electronic Commerce Research and Applications (Editor, 2006-2014)
+3. Scientific Reports, Associate Editor (IF  4.6, 5th most-cited journal in the world)
 3. Information and Management (2011) , Associate Editor
 4. Social Science Research Network: Information Systems & eBusiness (2004- 2014) , Board 
 5. Management Science (1995-2002)  , Associate Editor
@@ -78,12 +82,12 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 
 ## Books and Software 
 
-1. Audit Analytics: Data Science for the Accounting Profession (in R. Gentleman, et al. "Use R!" series), Springer 2020
+1. Audit Analytics: Data Science for the Accounting Profession (in R. Gentleman, et al. "Use R!" series), Springer 2021; 2nd edition 2024; Python version forthcoming in 2024
 2. Structural Equation Modeling: from paths to networks, Springer, 2nd edition (2019); reviewed in Sarstedt, Marko, and Christian M. Ringle. "Structural Equation Models" Psychometrika (2020): 1-4. https://doi.org/10.1007/s11336-020-09719-0 
 3. Global Innovation Management: A Strategic Approach (2nd ed.)  London:  Palgrave / Macmillan 2018. 
 1. Structural Equation Modeling: from paths to networks, Springer, 1st ed. (2016)
 4. Financial Auditing with Information Technology, Creder Press, ISBN-13: 978-1490448732; ISBN-10:149044873X, 2015
-5. Red Wired: China’s Internet Revolution, London: Cyan (Marshall Cavendish), 2010  (with S. So); Kindle edition, 2012
+5. Red Wired: China's Internet Revolution, London: Cyan (Marshall Cavendish), 2010  (with S. So); Kindle edition, 2012
 6. Global Innovation Management: A Strategic Approach  London:  Palgrave / Macmillan 2008; Companion Websites at http://www.palgrave.com/business/westland/, Simplified Chinese translation by Chinese University of Science & Technology Press, Hefei, Anhui, China.
 7. Financial Dynamics: A System for Valuing Technology Companies, New York: John Wiley & Sons, June 2003 with Financial Dynamics software (versions 1 and 2) 
 8. Valuing Technology: The New Science of Wealth in the Knowledge Economy, New York: John Wiley & Sons, 2002; reviewed in Xu, X., and E. W. K. See-To. "What is knowledge and the technology to support it worth to the firm? Review of Westland, Christopher, Valuing Technology: the new science of wealth in the knowledge economy, John Wiley and Sons (Asia) Pte Ltd, 2002." Journal of Information Technology Theory and Application 4.1 (2002): 65-67.
@@ -92,10 +96,19 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 
 ## Refereed Publications 
 
-1. Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv, Journal of the AIS, forthcoming 2020 (with K. Zhao, Y. Hu)
-1. Assessing Privacy and Security of Information Systems from Audit Data, Information Systems Frontiers (forthcoming 2020)
-1. When all Products are Digital: Complexity and Intangible Value in the Ecosystem of Digitizing Firms, Information Systems Research (forthcoming 2020) (w/ Pouya Rahmati, Ali Tafti and Cesar Hidalgo)
-1. Predicting Credit Card Fraud with Sarbanes-Oxley Assessments and Fama-French Risk Factors, Intelligent Systems in Accounting, Finance and Management, DOI: 10.1002/isaf.1472 (forthcoming 2020)
+1. PLS Papers, Electronic Commerce Research 23 (3), 1361-1366,	2023
+1. Introduction: Special Issue on digital marketing and eCommerce, Electronic Commerce Research, 1-2		2023 (w/ LF Martinez, FJ Martinez-Lopez)
+1. Introduction to the special issue on strategic planning for e-commerce business environment, Electronic Commerce Research 23 (1), 1-1, 2023
+1. Determinants of liquidity in cryptocurrency markets, Digital Finance, 1-33, 2023
+1. Blockchain for sustainable supply chain management: trends and ways forward, Electronic Commerce Research Published: May 2022 DOI: https://www.doi.org/10.1007/s10660-022-09569-1 (w / Saumyaranjan Sahoo, Satish Kumar, Uthayasankar Sivarajah, Weng Marc Lim,  Ashwani Kumar)
+1. Determinants of Liquidity in Cryptocurrency Markets, Digital Finance (forthcoming 2022)
+1. A comparative study of frequentist vs Bayesian A/B testing in the detection of E-commerce fraud, Journal of Electronic Business & Digital Economics, Vol. 1 No. 1/2, pp. 3-23. https://doi.org/10.1108/JEBDE-07-2022-0020
+1. Information loss and bias in likert survey responses. PLoS ONE 17(7): e0271949. https://doi.org/10.1371/journal.pone.0271949, July 2022
+1. Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv, Journal of the AIS, forthcoming 2022 (with K. Zhao, Y. Hu)
+1. Assessing Privacy and Security of Information Systems from Audit Data, Information Systems Frontiers, 24 (5), 1417-1434, 2021-05-27
+1. Trade informativeness and liquidity in Bitcoin markets. PLoS ONE 16(8): e0255515, August 12, 2021, https://doi.org/10.1371/journal.pone.0255515
+1. When all Products are Digital: Complexity and Intangible Value in the Ecosystem of Digitizing Firms, Information Systems Research, DOI: 10.25300/MISQ/2021/15384, September 2021 (w/ Pouya Rahmati, Ali Tafti and Cesar Hidalgo)
+1. Predicting Credit Card Fraud with Sarbanes-Oxley Assessments and Fama-French Risk Factors, Intelligent Systems in Accounting, Finance and Management, DOI: 10.1002/isaf.1472 DOI: 2020-04-10
 1. The information content of Sarbanes-Oxley in predicting security breaches. Computers & Security. 2020 Mar 1;90:101687
 1. Demand cycles and market segmentation in bicycle sharing. Information Processing & Management 56.4 (2019): 1592-1604 (with Jian Mou, and Dafei Yin)
 1. A two-sided matching model in the context of B2B export cross-border e-commerce. Electronic Commerce Research 19.4 (2019): 841-861 (with Miao, Yumeng, et al.)
@@ -113,8 +126,8 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 1. Convolutional Neural Network Deep-Learning Models for Prediction of Shared Bicycle Demand (Westland, J. Christopher, Jian Mou, and Dafei Yin. ") book chapter, International Conference on Applications and Techniques in Cyber Security and Intelligence. Springer, Cham, 2018.
 1. Transaction risk management in China-US trade e-markets. (Westland, J. Christopher, and Ye Di) Proceedings of the 14th Annual International Conference on Electronic Commerce. ACM, 2012.
 1. Introduction to the special issue on Big Data in finance and business." Electronic Commerce Research 18.2 (2018): 201-201.
-1. Economics of eBay’s buyer protection plan." Financial Innovation 1.1 (2015): 7.
-1. The moderating role of income on consumers’ preferences and usage for online and offline payment methods (See-To, Eric WK, Savvas Papagiannidis, and J. Christopher Westland.) Electronic Commerce Research 14.2 (2014): 189-213.
+1. Economics of eBay's buyer protection plan." Financial Innovation 1.1 (2015): 7.
+1. The moderating role of income on consumers' preferences and usage for online and offline payment methods (See-To, Eric WK, Savvas Papagiannidis, and J. Christopher Westland.) Electronic Commerce Research 14.2 (2014): 189-213.
 1. The adoption of social networking technologies in cinema releases." Information Technology and Management 13.3 (2012): 167-181.
 1. Chinese E-Commerce Introduction (Westland, J. Christopher, Guoqing Chen, and Sulin Ba) (2013): 297-298.
 1. The information content of financial survey response data." Financial Innovation 1.1 (2015): 10
@@ -125,7 +138,7 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 4. Affective Technologies in Survey Research; Information Technology and Management, https://springerlink3.metapress.com/content/x52716m719127430/resource-secured/?target=fulltext.pdf&sid=jahv2wfekzeq2nn4hpdzifyx&sh=www.springerlink.com 2012
 5. Electrodermal Response in Gaming, Journal of Computer Networks and Communications, vol. 2011, Article ID 610645, 2011. doi:10.1155/2011/610645. 
 6. Lower Bounds on Sample Size in Structural Equation Modeling, Electronic Commerce Research and Applications, Dec 2010, PII:S1567-4223(10)00054-2, DOI: 10.1016/j.elerap.2010.07.003 (with software downloadable from Elsevier) in Top Ten Most Downloaded papers on ECRA 
-7. Divorce Insurance: Mitigating the Adjudication Period Financial Crisis, Journal of Divorce & Remarriage, 52:1–38, 2011, ISSN: 1050-2556 print/1540-4811 online, DOI: 10.1080/10502556.2011.585084 (lead article)Data Mining for Credit Card Fraud, Decision Support Systems (with Sid Battacharyya and Sanjeev Jha) 2010  DOI: 10.1016/j.dss.2010.08.008
+7. Divorce Insurance: Mitigating the Adjudication Period Financial Crisis, Journal of Divorce & Remarriage, 52:1-38, 2011, ISSN: 1050-2556 print/1540-4811 online, DOI: 10.1080/10502556.2011.585084 (lead article)Data Mining for Credit Card Fraud, Decision Support Systems (with Sid Battacharyya and Sanjeev Jha) 2010  DOI: 10.1016/j.dss.2010.08.008
 8. Critical mass and willingness to pay for social networks, Electronic Commerce Research and Applications, Dec 2009 (lead article, with comment by Andrew Odlyzko)
 9. Incentives for Mobile-Online Gaming with Competing Electronic Cash Services, International Journal of Electronic Business (with E.W.K. See-To), 2009
 10. Short-run Price-Performance Dynamics in Microcomputer Technologies, Research Policy  (with E.W.K. See-To) volume 36, Issue 5, Pages 591-806, June 2007
@@ -154,7 +167,7 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 32. The COCOMO 2.0 Software Cost Estimation Model, American Programmer, Cutter Information Corp., July 1996, and reprinted in Software Management, Fifth Edition, IEEE Computer Society Press, Washington D.C., 1996(with B.Boehm, B. Clark, E. Horowitz, R. Madachy and R. Selby), 1996
 33. Cost Models for Future Software Life Cycle Processes: COCOMO 2.0, Annals of Software Engineering, Vol. 1, Software Process and Product Measurement, J.D. Arthur and S.M. Henry (eds.), J.C. Baltzer AG, Science Publishers, Amsterdam, The Netherlands, 1995, pp. 57-94 (with B. Boehm, B. Clark, E. Horowitz, R. Madachy and R. Selby)
 34. Bayesian Alternatives to Neural Computing, IEEE Transactions on Systems, Man and Cybernetics, November 1994  
-35. Reporting Strategies for ‘Events’ Accounting, Journal of Information Systems, Fall 1994
+35. Reporting Strategies for 'Events' Accounting, Journal of Information Systems, Fall 1994
 36. Business Process Reengineering at Pacific Bell, Planning Review, May/June, 28-33(with) Housel, Thomas and Christopher  Morris) 
 37. Congestion and Network Externalities in the Short Run Pricing of Information Systems Services, Management Science, v. 38(6) July 1992, 992-1099
 38. CASE as Negotiation: Goals for Systems Design and Management of Group Learning in an Automated Systems Design Process, Sistemica, v.1(2), 131-143 (English version) 145159 (Spanish version) 
@@ -199,7 +212,7 @@ Information Society v.7(1), 33-50
 1. Electronic Delivery of Convenience: A Service Innovation at the 7-Eleven Retail Chain in Hong Kong, 2002 (with Lange, Karl) 
 2. Privatization of Electrical Networks in Chile: A Case Study to Serve as a Model for Information Networks of Today, 2000 
 3. The Moscow Stock Exchange, 1997 
-4. The Shanghai Stock Exchange, 1997 China’s Brokerage Rooms, 1997 
+4. The Shanghai Stock Exchange, 1997 China's Brokerage Rooms, 1997 
 5. Electronic Securities Trading at the Bolsa de Comercio de Santiago, 1994 
 6. Chilgener: Pricing of Network Services, 1994 
 7. Philippines Telephone & Telegraph, 1994 
@@ -227,7 +240,7 @@ Information Society v.7(1), 33-50
 
 ## Selected Trade Publications
 1. Valuing Tech, Benchmark, October 2003, Vol. 1, No. 10, p. 34-40 
-2. The Internet’s Challenge to Accounting, The Hong Kong Management Accountants, Fall
+2. The Internet's Challenge to Accounting, The Hong Kong Management Accountants, Fall
 3. Cyberport is the wrong way to promote E-commerce, The Hong Kong Economic Journal,  Mar 29, 1999 
 4. Cyber Wet-Markets: an idea whose time has come?, The Hong Kong Economic Journal,  May 3, 1999 Knowledge 
 5. Workers and Hong Kong's E-commerce Infrastructure, The Hong Kong Management Accountants, Spring 1999 
@@ -241,11 +254,15 @@ Information Society v.7(1), 33-50
 13. Tinbergen Lectures on Organization Theory, Interfaces, v. 19(6), November-December 
 
 ## Ph.D. Students
+
+1. Keran Zhao (graduated 2021)
+1. Pouya Rahmati (graduated 2020)
 1. Poornima Krishnan (graduated 2010)
 2. Sanjeev Jha (graduated 2009), University of New Hampshire
 3. Kirill Yurov  (graduated 2009), Nova University
-4. Carsten Paasch (graduated 2008) Senior VP –  Information Security, Standard Chartered Bank
+4. Carsten Paasch (graduated 2008) Senior VP -  Information Security, Standard Chartered Bank
 5. Wendy Hui, (graduated 2005), Nottingham University
 6. Eric See-to  (graduated 2005).Research Fellow. University of Lancaster Business School, U.K.
 7. Hilton Chan, (graduated 2000), Hong Kong Police, Head of Special Investigations
 8. Eric Law, (graduated 1999)  CEO, Boncle, Inc. (secure internet platforms) Santa Clara, CA 
+ platforms) Santa Clara, CA 
