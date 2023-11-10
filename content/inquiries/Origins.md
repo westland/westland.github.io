@@ -1,7 +1,11 @@
 +++
 title = 'Origins'
 date = 2023-10-21T20:28:09-05:00
-draft = false
+draft = true
 +++
 
-I was born towards the end of 1949 when the World was a vastly different place.
+I was born towards the end of 1949 when the World was a vastly different place.  I came from a military and sales family (no academics ... not one).  My grandfather fought in WWI and was Bernard Baruch's logistics assistant in the European reconstruction (he spoke nine European languages, an invaluable skill in that line of work).  His son received the Silver Star and that side of the family has had two West Point graduates. My Dad served in the Army Air Force and then became a sales manager for Westinghouse power systems.  Both of my parents were polio survivors, a grim reminder to me that we live in an age of miracles, where so many of the scourges of history have been eradicated.
+
+I grew up in Bloomington Indiana and was fortunate to attend Indiana University's lab school -- University School.  In fourth grade, I was allowed to take high school chemistry (where I'd wear my Cub Scout uniform among students 7 years my senior) and in 7th grade I was allowed to test out of all of my high school mathematics, and start attending math classes at Indiana University.  I can't see any school today allowing this sort of curriculum flexibility, and feel blessed to have had the engaged and innovative instructors at that school.  I went to Indiana University for a BA degree (statistics) and an MBA (accounting) then worked in industry for eight years before returning for my PhD.  I was employed first as a CPA for Touche Ross in Chicago, and then in a series of jobs where I maingly worked on special projects for corporate executives.  
+
+In my PhD program at the University of Michigan I was fortunate to have Manfred Kochen as my thesis advisor.  Kochen is most famous for co-authoring (with Derek de Solla Price, of Antikythera mechanism fame) the "Six Degrees of Separation" paper that has been the theme of movies and popular books.  Kochen was also John von Neumann's last research assistant, and brought his colleague Benoit Mandelbrot from France to IBM's New York laboritories in the US.  My dissertation was on one of Kochen's passions, the Semantic Network, which has recently been promoted by Tim Berners-Lee as Web 3.0: the evolution of hypertext.  
