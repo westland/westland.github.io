@@ -8,12 +8,30 @@
     <language>en</language>
     <lastBuildDate>Sat, 21 Oct 2023 20:28:09 -0500</lastBuildDate><atom:link href="http://westland.github.io/inquiries/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Current Research Projects</title>
-      <link>http://westland.github.io/inquiries/current-projects/</link>
+      <title>Career</title>
+      <link>http://westland.github.io/inquiries/career/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
       
-      <guid>http://westland.github.io/inquiries/current-projects/</guid>
-      <description>2023-10-21T20:28:09-05:00</description>
+      <guid>http://westland.github.io/inquiries/career/</guid>
+      <description>I began my career in 1973 as a staff accountant in the Chicago office of Touche Ross (a predecessor firm to Deloitte Touche Tohmatsu). Computers were new to accounting in those days. IBM had introduced its System 360 in 1964 (S/360 referred to the architecture’s wide scope: 360 degrees to cover the entire circle of possible uses). By 1973, these were becoming fixtures in the accounting systems of large corporations. Prior to Touche Ross, I had earned a large portion of my college expenses providing assistance in the use of the Compustat tapes (they were actually physical 9-track tapes in those days and also came as decks of 80-column Hollerith punched cards) on a Control Data 6600.</description>
+    </item>
+    
+    <item>
+      <title>My Story</title>
+      <link>http://westland.github.io/inquiries/my-story/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      
+      <guid>http://westland.github.io/inquiries/my-story/</guid>
+      <description>I began my career in 1973 as a staff accountant in the Chicago office of Touche Ross (a predecessor firm to Deloitte Touche Tohmatsu). Computers were new to accounting in those days. IBM had introduced its System 360 in 1964 (S/360 referred to the architecture’s wide scope: 360 degrees to cover the entire circle of possible uses). By 1973, these were becoming fixtures in the accounting systems of large corporations. Prior to Touche Ross, I had earned a large portion of my college expenses providing assistance in the use of the Compustat tapes (they were actually physical 9-track tapes in those days and also came as decks of 80-column Hollerith punched cards) on a Control Data 6600.</description>
+    </item>
+    
+    <item>
+      <title>Worldview</title>
+      <link>http://westland.github.io/inquiries/worldview/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      
+      <guid>http://westland.github.io/inquiries/worldview/</guid>
+      <description>I am 74 years old now, and continue working and discovering new things. My worldview has evolved, influenced by many experiences, some learning, and my greying years.</description>
     </item>
     
   </channel>
