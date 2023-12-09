@@ -4,6 +4,7 @@ date = 2023-10-21T16:19:34-05:00
 draft = false
 +++
 
+![@ the piano](/me_piano_1.jpg)
 
 I've played piano since I was a kid; originally classical, but more recently pop and jazz.  For a long time I owned my grandmother's August Forster grand piano, but a few years ago while downsizing traded it for a Casio GP-500 digital piano.  I also own a few bass guitars that I occasionally play; they sound nice, but the piano is a more complex and satisfying instrument. 
 
