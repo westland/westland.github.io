@@ -4,9 +4,17 @@ date = 2023-10-21T20:14:21-05:00
 draft = false
 +++
 
-Ask many amateur astronomers why they are in the hobby and you may be compelled to listen to romantic soliloquies on "our place is in the stars" or  ....
+Ask many amateur astronomers why they are in the hobby and you may be compelled to listen to romantic soliloquies like:
 
-Mine is a more pedestrian, but I believe a more interesting fascination -- _light_.  Light is the substance that conceptually binds the quantum to the relativistic worlds.  A perspective of relative reference frames has been around since Galileo, but light (or the constancy of its speed in all reference frames) is what allowed the Einsteinian revolution in physics. Newton thought that light was made of particles; but a century after Newton's _Opticks_ the prodigy Thomas Young conducted his two-slit experiment to support a wave nature of light.  Today we accept light as being both wave and particle, as with all matter.  
+- "Man must rise above the Earth—to the top of the atmosphere and beyond—for only thus will he fully understand the world in which he lives." (Socrates)
+
+- "Astronomy compels the soul to look upward, and leads us from this world to another." (Plato)
+
+- "The purpose of life is the investigation of the Sun, the Moon, and the heavens." (Anaxagoras)
+
+- "Mortal as I am, I know that I am born for a day, but when I follow the serried multitude of the stars in their circular course, my feet no longer touch the earth; I ascend to Zeus himself to feast me on ambrosia, the food of the gods." (Ptolemy)
+
+Mine motivation is a more pedestrian, but I believe a more interesting fascination -- _light_.  Light is the substance that conceptually binds the quantum to the relativistic worlds.  A perspective of relative reference frames has been around since Galileo, but light (or the constancy of its speed in all reference frames) is what allowed the Einsteinian revolution in physics. Newton thought that light was made of particles; but a century after Newton's _Opticks_ the prodigy Thomas Young conducted his two-slit experiment to support a wave nature of light.  Today we accept light as being both wave and particle, as with all matter.  
 
 Humans are fortunate to live in a world with an atmosphere that provides us energy and life; but one that is transparent, and a window to other worlds far away.  Compare our providence with the watery world provided by our lakes and oceans.  Fish, cephalopods and marine mammals might (or might not) have brains complex enough to imagine space travel and modern physics.  But they can't clearly see the stars through the surface of the water.  Tey would have little motivation or information to construct even a fraction of Babylonian cosmology, let alone anything resembling modern space physics and engineering.  Telescopes and rockets are inaccessible technologies for creatures living under water.
 
