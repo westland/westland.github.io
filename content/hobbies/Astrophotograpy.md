@@ -4,7 +4,7 @@ date = 2023-10-21T20:14:21-05:00
 draft = false
 +++
 
-Ask many amateur astronomers why they are in the hobby and you may be compelled to listen to romantic soliloquies like:
+Ask amateur astronomers why they are in the hobby and you may be compelled to listen to romantic soliloquies like:
 
 - "Man must rise above the Earth—to the top of the atmosphere and beyond—for only thus will he fully understand the world in which he lives." (Socrates)
 
