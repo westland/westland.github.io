@@ -25,6 +25,6 @@ There will be agonizing over 'free will' but when you are being mindlessly led a
 
 The future will _not_ be a Star-Trekkian space opera that reenacts seafaring discovery mythologies of the 19th century.  Space is not the ocean; it's devoid of life; we can not swim in space; distances are limited by the speed of light, with no Warp Drive in sight.  Space travel is boring and dangerous to boot. In a realistic future, human insecurity and war will play reduced roles, and creativity and self-expression expanded roles.  Humans with their machines will become Gods, creating and ruling their mini-worlds.  The ultimate science will be art, and artists will rule.  Plastic surgery and tattoos are the crude shadows of what future humans will be able to do with gene editing, 3D biological printing, machine learning, and numerous other technologies that we can't even imagine.  
 
-Post-singularity, this is how life will look. I am fortunate that I will, with luck, be able to see the beginning of the time during my life.
+Post-singularity, this is how life will look. I am fortunate that I will, with any luck, witness the beginning of this new and improved world during my lifetime.
 
 
