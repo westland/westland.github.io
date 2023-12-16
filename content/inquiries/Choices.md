@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-_New organs of perception come about from necessity. Therefore, O man, increase your necessity, so that you many increase your perception!_  (Rūmī, 13 century) 
+_New organs of perception come about from necessity. Therefore, O man, increase your necessity, so that you many increase your perception!_  (Rūmī, 13th century) 
 
 
 I began my career in 1973 as a staff accountant in the Chicago office of Touche Ross (a predecessor firm to Deloitte Touche
