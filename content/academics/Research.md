@@ -6,7 +6,7 @@ draft = false
 
 
 
-## **Stream #1** 
+## **Market Microstructure for Blockchain Assets** 
 
 I continue to investigate the microstructure of markets for blockchain based assets:
 (1) cryptocurrencies, and (2) smart contracts and their important implementations, e.g., the
@@ -26,7 +26,7 @@ for me to pursue over the next few years.
 
 
 
-## **Stream #2**
+## **Prescriptive Analytics**
 
 Prescriptive analytics based on applications of graph theory to comorbidities,
 chronic diseases and healthcare management
@@ -62,7 +62,7 @@ two Chinese databases, from Sichuan and Heilongjiang provincial hospital systems
 
 
 
-## **Stream #3**
+## **Security Audits**
 
 Prediction of firm-level security threats through the use of published financial
 data from the US SEC EDGAR repository, asset exchanges, and additional derivative metrics,
@@ -78,7 +78,7 @@ be analyzing in research using my machine learning suite, with the intention of 
 papers.
 
 
-## **Stream #4**
+## **Auditing**
 
 My recent work in auditing data analytics, SOX auditing with machine learning, and assessment of compliance and internal controls is becoming recognized in the industry. In particular, the Certified Public
 Accountant’s examination will in 2024 move to a data analytics centric focus where all CPAs are expected
