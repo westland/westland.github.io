@@ -5,24 +5,6 @@ draft = false
 +++
 
 
-## Entrepreneurship in Innovative Firms
-
-This course provides the student with a survey and case studies of successful innovations that have led to new ventures, their components, strategies and financial structure. The course combines entrepreneurial, strategic, marketing, legal, societal and financial themes in support of innovative businesses and products. Students who intend to start up their own businesses and those planning on extending the product lines of established firms will benefit from the material in this class.
-
-The course addresses the design of effective strategies given particular technological capabilities and competitive markets; and provides tools for the financial analysis that are essential for obtaining venture capital. The competitive landscape in business has changed dramatically over the past decade. New technologies and marketing channels have pushed competition into realms that are both incredibly complex, and incredibly profitable – more than any time in the past. Rates of return on successful Internet start-ups average over 50%, compared to those of traditional business that average in the range of 15%. Improved profits come with elevated risk – business and technological – that confront investors and managers with new challenges. Even when Internet marketing is successful, it may be difficult to figure out exactly why.
-
-This course provides the student with a survey and case studies of successful new venture models, their components, strategies and financial structure. Students who intend to pursue entrepreneurial ventures, or those who interested in ‘intrapreneurship’ within established firms will benefit from the material in this class. The course addresses the design of effective strategies given particular technological capabilities and competitive markets; and provides tools for the financial analysis that are essential for obtaining venture capital. Course innovations to respond to the current environment
-
-### Learning Outcomes
-
-- Students will be adept at generating profitable business models themselves and assessing the business models of others. Their assessment and models should comprehensively incorporate components needed for profitable, sustainable business
-- Students will be able to conduct a prior art investigation and write a patent application
-- Students will be able to generate believable pro forma financial statements, with emphasis on market forecasts and associated supporting channel costs
-- Students will be able to fully describe the objective and operation of the channel operations that support their business, and use this as a basis for cost assessment
-- Students will be able to present a novel business plan which addresses the Framing, Venture Capital and Communications challenges, and is a potentially investable business
-
-**Text:** Westland, Global Innovation Management 2nd Edition
-
 
 ## Audit Analytics: Data Science for the Accounting Profession
 
@@ -38,6 +20,7 @@ Information technology plays a pivotal role in financial control and audit. Most
 
 
 **Text:** Westland,  Audit Analytics: Data Science for the Accounting Profession (Springer, 2nd edition, 2024)
+
 
 
 
@@ -63,4 +46,26 @@ At the end of this course, students should be able to:
 
 **Text:** SEO Strategy & Skills: Wiideman and Cowley + Handouts
 **Software:** Mimic Pro
+
+
+
+## Entrepreneurship in Innovative Firms
+
+This course provides the student with a survey and case studies of successful innovations that have led to new ventures, their components, strategies and financial structure. The course combines entrepreneurial, strategic, marketing, legal, societal and financial themes in support of innovative businesses and products. Students who intend to start up their own businesses and those planning on extending the product lines of established firms will benefit from the material in this class.
+
+The course addresses the design of effective strategies given particular technological capabilities and competitive markets; and provides tools for the financial analysis that are essential for obtaining venture capital. The competitive landscape in business has changed dramatically over the past decade. New technologies and marketing channels have pushed competition into realms that are both incredibly complex, and incredibly profitable – more than any time in the past. Rates of return on successful Internet start-ups average over 50%, compared to those of traditional business that average in the range of 15%. Improved profits come with elevated risk – business and technological – that confront investors and managers with new challenges. Even when Internet marketing is successful, it may be difficult to figure out exactly why.
+
+This course provides the student with a survey and case studies of successful new venture models, their components, strategies and financial structure. Students who intend to pursue entrepreneurial ventures, or those who interested in ‘intrapreneurship’ within established firms will benefit from the material in this class. The course addresses the design of effective strategies given particular technological capabilities and competitive markets; and provides tools for the financial analysis that are essential for obtaining venture capital. Course innovations to respond to the current environment
+
+### Learning Outcomes
+
+- Students will be adept at generating profitable business models themselves and assessing the business models of others. Their assessment and models should comprehensively incorporate components needed for profitable, sustainable business
+- Students will be able to conduct a prior art investigation and write a patent application
+- Students will be able to generate believable pro forma financial statements, with emphasis on market forecasts and associated supporting channel costs
+- Students will be able to fully describe the objective and operation of the channel operations that support their business, and use this as a basis for cost assessment
+- Students will be able to present a novel business plan which addresses the Framing, Venture Capital and Communications challenges, and is a potentially investable business
+
+**Text:** Westland, Global Innovation Management 2nd Edition
+
+
 
