@@ -19,7 +19,7 @@ Information technology plays a pivotal role in financial control and audit. Most
 - Students will learn how to use existing evidence to construct the Sarbanes-Oxley report which management will sign
 
 
-**Text:** Westland,  Audit Analytics: Data Science for the Accounting Profession (Springer, 2nd edition, 2024)
+**Text:** [Westland,  Audit Analytics: Data Science for the Accounting Profession](https://www.amazon.com/Audit-Analytics-Science-Accounting-Profession/dp/3030490904/ref=sr_1_1?crid=VRD9EUY1S4JC&keywords=westland+audit+analytics&qid=1702687628&sprefix=westland+audit+anaytic%2Caps%2C189&sr=8-1&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d) (Springer, 2nd edition, 2024)
 
 
 
@@ -65,7 +65,7 @@ This course provides the student with a survey and case studies of successful ne
 - Students will be able to fully describe the objective and operation of the channel operations that support their business, and use this as a basis for cost assessment
 - Students will be able to present a novel business plan which addresses the Framing, Venture Capital and Communications challenges, and is a potentially investable business
 
-**Text:** Westland, Global Innovation Management 2nd Edition
+**Text:** [Westland, Global Innovation Management](https://www.amazon.com/Global-Innovation-Management-Christopher-Westland/dp/1137520183/ref=sr_1_1?crid=2I6W9328A74EQ&keywords=westland+global+innovation+management&qid=1702687694&sprefix=westland+global+innovaiton+mangemtn%2Caps%2C176&sr=8-1&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d) 2nd Edition
 
 
 
