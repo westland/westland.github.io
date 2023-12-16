@@ -4,7 +4,7 @@ date = 2023-10-21T20:28:09-05:00
 draft = false
 +++
 
-_New organs of percepion come about from necessity. Therefore, O man, increase your necessity, so that you many increase your perception!_  (Jalāl al-Dīn Muḥammad Rūmī, 13 century) 
+
 
 
 My worldview has evolved over the years, influenced by experience and observation.  My 'worldview' today is informed by my perspectives on tribes, empire and technology.   From these I have synthesized my personal prediction of a near future that I hope to live to see.
