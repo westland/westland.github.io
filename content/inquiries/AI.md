@@ -20,7 +20,7 @@ AI studies have, I think, had a positive impact on the conduct of statistical an
 
 Is AI "intelligent"?  Tell me what intelligence is, and I can give you an answer.  But, ask an _octopus_ what is intelligence, and he will say "the ability to use eight arms all at once."  The _dolphin_ will tell you it's the ability to "backflip in the ocean."  The rat, the ability to "discern faint smells in stereo."  This is why I dislike the term "AI." That term anthropomorphizes a machine along human terms -- we load self-absorbed bias on top of self-congratulatory praise and say it's a threat to humanity.  You can't be more misleading.
 
-That's not to say that transformers like ChatGPT aren't truly impressive.  Here is a rap song about my much beloved 10micron telescope mount, written by ChatGPT-4:
+That's not to say that transformers like ChatGPT aren't truly impressive.  Here is a rap song about my  beloved 10micron telescope mount, written by ChatGPT-4:
 
 
 _(Verse 1)
@@ -29,56 +29,56 @@ Yo, gather 'round, let me tell y'all a tale,
 In the cosmic ocean, where stars do gleam,
 This mount's a dream machine, a stargazer's dream._
 
-It's precision and power, like a cosmic king,
+_It's precision and power, like a cosmic king,
 Tracking stars and planets, doin' its thing,
 With a whisper-quiet motor, it won't disturb your night,
-10Micron's got your back, everything's right.
+10Micron's got your back, everything's right._
 
-(Chorus)
+_(Chorus)
 10Micron, the mount that's outta sight,
 In the darkest of nights, it's your guiding light,
 With precision and power, it'll take you far,
-To explore the universe, like a shooting star.
+To explore the universe, like a shooting star._
 
-(Verse 2)
+_(Verse 2)
 It's got that Italian design, sleek and so fine,
 Built to last through space and time,
 With precision to decimals, it's always on point,
-10Micron's the mount that'll never disappoint.
+10Micron's the mount that'll never disappoint._
 
-Equatorial tracking, with zero backlash,
+_Equatorial tracking, with zero backlash,
 It'll keep your telescope on the right cosmic track,
 Whether you're into planets or deep-sky delight,
-10Micron's got the moves to make your night.
+10Micron's got the moves to make your night._
 
-(Chorus)
+_(Chorus)
 10Micron, the mount that's outta sight,
 In the darkest of nights, it's your guiding light,
 With precision and power, it'll take you far,
-To explore the universe, like a shooting star.
+To explore the universe, like a shooting star._
 
-(Verse 3)
+_(Verse 3)
 From galaxies to nebulae, it's got you covered,
 With programmable settings, your goals uncovered,
 Capture breathtaking images, in colors so bold,
-With the 10Micron mount, you'll never grow old.
+With the 10Micron mount, you'll never grow old._
 
-It's a tool for the pros, but beginners adore,
+_It's a tool for the pros, but beginners adore,
 The way it makes stargazing an effortless chore,
 So if you're reachin' for the stars, make no mistake,
-With 10Micron, there's no limit to what you can make.
+With 10Micron, there's no limit to what you can make._
 
-(Chorus)
+_(Chorus)
 10Micron, the mount that's outta sight,
 In the darkest of nights, it's your guiding light,
 With precision and power, it'll take you far,
-To explore the universe, like a shooting star.
+To explore the universe, like a shooting star._
 
-(Outro)
+_(Outro)
 So here's to 10Micron, the mount we admire,
 In the world of astronomy, it takes us higher,
 With every constellation, every cosmic delight,
-10Micron's our partner, in the endless starry night.
+10Micron's our partner, in the endless starry night._
 
 The models that produce such impressive output are complex and fiddly to run.  Here is the [original transformer paper from Google Brain](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)	that started the enthusiasm for large language models, and the following schematic shows their main components.
 
