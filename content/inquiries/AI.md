@@ -80,9 +80,7 @@ In the world of astronomy, it takes us higher,
 With every constellation, every cosmic delight,
 10Micron's our partner, in the endless starry night._
 
-The models that produce such impressive output are complex and fiddly to run.  Here is the [original transformer paper from Google Brain](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)	that started the enthusiasm for large language models, and the following schematic shows their main components.
-
-![](/tform.png)
+The models that produce such impressive output are complex and fiddly to run.  Here is the [original transformer paper from Google Brain](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)	that started the enthusiasm for large language models.
 
 My own experience with AI models that have more than a few layers is that they require a lot of adjustment and "tuning" to work well.  I'm sure this is where they incur much of the labor and expense at organizations like Open.ai and Google Brain.  I used to have a computer with three NVidia graphics cards for about 30,000 computing cores.  I was lucky if I could ever use 10% of them in my machine learning models (I eventually dropped to just one card).  And the problems with getting models to produce interpretable output grows exponentially with their complexity.  I don't envy the programmers working on these large complex transformers.
 
