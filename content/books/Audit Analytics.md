@@ -9,7 +9,7 @@ draft = false
 
 ## The crisis in accounting
 
-Modern auditing was mandated for all publicly listed corporations after the Crash of 1929.  The idea was that the reported book value, suitably audited to validate its truthfulness, would provide an accurate guide to the firm's stock price.   And indeed auditing did provide such assurances, up until the early 1980s.  But since that time, the audited measure of "Book Value" of a firm has steadily diverged from the actual market capitalization of that same firm.  Investors seem to be ignoring the hard work of accountants; indeed they are concluding that auditors and accountants are not really providing useful information for the valuation of a firm.  Look for example at the ratio of book value to market capitalization for the most valuable firms in the US:
+Modern auditing was mandated for all publicly listed corporations after the Crash of 1929.  The idea was that the reported book value, suitably audited to validate its truthfulness, would provide an accurate guide to the firm's stock price.   And indeed auditing did provide such assurances, up until the early 1980s.  But since that time, the audited measure of "Book Value" of a firm has steadily diverged from the actual market capitalization of that same firm.  Investors seem to be ignoring the hard work of accountants; indeed they are concluding that auditors and accountants are not really providing useful information for the valuation of a firm.  Look for example at the ratio of book value to market capitalization for the most valuable firms in the US in December 2023:
 
 - Meta/Facebook   17.6%
 - Amazon  7.0%
