@@ -7,6 +7,24 @@ draft = false
 ![Audit Analytics](/audit_analytics_book_cover.jpg)
 [Purchase on Amazon](https://www.amazon.com/Audit-Analytics-Science-Accounting-Profession-ebook/dp/B08NYB2GCQ/ref=sr_1_3?crid=1417UNCLJH3IZ&keywords=audit+analytics&qid=1698079694&sprefix=audit+analytis%2Caps%2C104&sr=8-3)
 
+## The crisis in accounting
+
+Modern auditing was mandated for all publicly listed corporations after the Crash of 1929.  The idea was that the reported book value, suitably audited to validate its truthfulness, would provide an accurate guide to the firm's stock price.   And indeed auditing did provide such assurances, up until the early 1980s.  But since that time, the audited measure of "Book Value" of a firm has steadily diverged from the actual market capitalization of that same firm.  Investors seem to be ignoring the hard work of accountants; indeed they are concluding that auditors and accountants are not really providing useful information for the valuation of a firm.  Look for example at the ratio of book value to market capitalization for the most valuable firms in the US:
+
+- Meta/Facebook   17.6%
+- Amazon  7.0%
+- Apple  2.7%
+- Netflix 5.6
+- Alphabet/Google 10.1%
+- Microsoft 5.3%
+- Saudi Aramco  13.2%
+- NVIDIA 2.65
+- Tesla 0.8%
+- Eli Lilly 5.1%
+
+Clearly, most of the value and operations of these cornerstones of the economy are not being reported.   
+
+
 ## How this book came about
 
 I began my career in 1973 as a staff accountant in the Chicago office of Touche Ross (a predecessor firm
