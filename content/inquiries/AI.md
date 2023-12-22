@@ -17,7 +17,7 @@ AI takes datasets as inputs, and distills them into estimates or decisions.  Thi
 
 -- _Risk / Loss functions_ beyond least squares, that allow us to perfectly engineer the focus of the decision.  These become especially involved in large language models (transformers) where subtle social biases must be engineered into the responses of AIs.
 
--- _Data curation_ has evolved to embrace non-quantitative data like text and images using methods like one-hot-encoding that have only been possible with massive computing power (though similar procedures have been explored since the 1940s, first by I.J. Good using a multinomial-Dirichlet conjugate family in statistics)
+-- _Data curation_ has evolved to embrace non-quantitative data like text and images using methods like one-hot-encoding that have only been possible with massive computing power (though similar procedures have been explored since the 1940s, originally by I.J. Good using a multinomial-Dirichlet conjugate family)
 
 AI studies have, I think, had a positive impact on the conduct of statistical analyses in the social sciences.  These have traditionally suffered from researcher "cherry picking" -- not the wholescale manufacturing of data seen in, for example, Francesca Gino's papers.  Rather the more subtle problem of running 20 analyses at 95% confidence with similar models to see which one fits the researchers particular biases and hypotheses.  This is a problem that plagues all of social science research, business topics included.  Machine learning, which has a tradition of datasets that are much larger than found in many social science studies, has adopted a requirement of cross-validation -- running models on subsets of data to see how stable are your estimates / decisions.  
 
@@ -83,7 +83,7 @@ In the world of astronomy, it takes us higher,
 With every constellation, every cosmic delight,
 10Micron's our partner, in the endless starry night._
 
-The models that produce such impressive output are complex and fiddly to run.  Here is the [original transformer paper from Google Brain](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)	that started the enthusiasm for large language models.
+Google produced the [original transformer paper from Google Brain](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)	that kicked off enthusiasm for large language models.  The models that produce such impressive output are complex and fiddly to run.
 
 
 My own experience with AI models that have more than a few layers is that they require a lot of adjustment and "tuning" to work well.  I'm sure this is where Open.ai and Google Brain need hundreds of employees.  I used to have a computer with three NVIDIA graphics cards for about 30,000 computing cores dedicated to AI computing.  I would be lucky if I could ever use 10% of them in any particular machine learning model (I eventually dropped to just one card).  And the problems with getting models to produce interpretable output grows exponentially with their complexity.  I don't envy the programmers working on these large complex transformers.
