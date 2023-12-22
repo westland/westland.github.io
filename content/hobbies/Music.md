@@ -22,3 +22,7 @@ Here are some of my random keyboard doodlings
 
 [Random Cocktail](https://www.facebook.com/chris.westland/videos/10158359844328313)
 
+
+
+
+![@home](/piano.jpg)
