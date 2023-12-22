@@ -162,7 +162,7 @@ weight = 2
 url = "/books/"
 
 [[languages.en.menu.main]]
-name = "My Story"
+name = "Stories"
 weight = 3
 url = "/inquiries/"
 
