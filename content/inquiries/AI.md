@@ -9,15 +9,17 @@ _Artificial intelligence_ you say?  I prefer the term "machine learning" which m
 
 I regularly use AI in my research.  Not transformers like ChatGPT, Bard or Claude that take 100 millions of tokens to train. Rather I employ feedforward and recurrent neural nets, random forests and autoencoders -- models that can be trained with the small datasets that I encounter in business research.  
 
-AI takes datasets as inputs, and distills them into estimates or decisions.  This is basically what statistical decision models do, and indeed the language of AI borrows heavily from statistics.  The social science statistics of Pearson and Fisher employed numerous shortcuts to make hard calculation simple -- e.g.,     differential calculus optimization that linearized solutions under least-squares loss.  In the past decade, we've replaced calculus with massive computational power, and we can use any risk-minimization function we want.  We've innovated throughout the statistical framework with:	  
+AI takes datasets as inputs, and distills them into estimates or decisions.  This is basically what statistical decision models do, and indeed the language of AI borrows heavily from statistics.  The social science statistics of Pearson and Fisher employed numerous shortcuts to simplify difficult calculations -- e.g.,     differential calculus optimization that linearized solutions under least-squares loss.  In the past decade, we've replaced calculus with massive computational power, and we can use any risk-minimization function we want.  We've innovated throughout the statistical framework with:	  
 
 -- _Activation functions_ that define how signals from the data are propagated through the neural network
 
 -- _Optimization procedures_ that replaced simple calculus minimization with clever search functions mainly based on gradient descent
 
--- _Risk / Loss functions_ beyond least squares, that allow us to perfectly engineer the focus of the decision.  These become especially involved in large language models (transformers) where subtle social biases must be engineered into the responses of AIs.
+-- _Risk / Loss functions_ beyond least squares, that allow us to perfectly engineer the focus of the decision.  These become especially involved in large language models (e.g., transformers) where subtle social biases must be engineered into the responses of AIs and applied at various points in the model.
 
 -- _Data curation_ has evolved to embrace non-quantitative data like text and images using methods like one-hot-encoding that have only been possible with massive computing power (though similar procedures have been explored since the 1940s, originally by I.J. Good using a multinomial-Dirichlet conjugate family)
+
+-- _Interpretation_ of the output of AI can be confusing, but data scientist are continually innovating on ways to [make complex outcomes meaningful](https://christophm.github.io/interpretable-ml-book/) for the humans that must use them.
 
 AI studies have, I think, had a positive impact on the conduct of statistical analyses in the social sciences.  These have traditionally suffered from researcher "cherry picking" -- not the wholescale manufacturing of data seen in, for example, Francesca Gino's papers.  Rather the more subtle problem of running 20 analyses at 95% confidence with similar models to see which one fits the researchers particular biases and hypotheses.  This is a problem that plagues all of social science research, business topics included.  Machine learning, which has a tradition of datasets that are much larger than found in many social science studies, has adopted a requirement of cross-validation -- running models on subsets of data to see how stable are your estimates / decisions.  
 
