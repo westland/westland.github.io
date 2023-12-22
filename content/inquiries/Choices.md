@@ -86,6 +86,6 @@ limited information maximum likelihood. Eleven Cowles associates ultimately rece
 The days of bespoke auditing software have passed; platforms, systems, and standards are too varied and change too
 quickly for this small market to be attractive to developers. The good news is that readily available open-source software
 now has much more power, flexibility, and ease-of-use than has ever been available, and these can be applied in the support of
-audit tasks. Circa 2020, Python, Java, and the R statistical packages are widely used open-source platforms for data analytics;
+audit tasks. Circa 2024, Python, Java, and the R statistical packages are widely used open-source platforms for data analytics;
 TensorFlow and PyTorch are open-source packages for machine learning; and open-source packages such as LibreOffice
 provide spreadsheet capabilities. 
