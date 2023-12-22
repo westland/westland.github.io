@@ -24,5 +24,4 @@ Here are some of my random keyboard doodlings
 
 
 
-
-![@home](/piano.jpg)
+![@home](/piano.png)
