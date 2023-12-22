@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-I prefer the term "machine learning" which more accurately describes this technology, but artificial intelligence (AI) is what has caught on in the sensationalist news.  It's been either a theme or McGuffin in science fiction plots since William Grove's 1889 novel _Wreck of the World_.  AI in fiction is too often rendered as a competing species that facilitates the human apocalypse. Doomsday sells -- it's a lot more exciting than reality. 
+I prefer the term "machine learning" which more accurately describes this technology, but artificial intelligence (AI) is what has caught on in the sensationalist news.  It's been either a theme or McGuffin in science fiction plots since William Grove's 1889 novel _Wreck of the World_.  AI in fiction is too often anthropomorphized as a competing species that facilitates the human apocalypse. Doomsday sells -- it's a lot more exciting than reality. 
 
 I regularly use AI in my research.  Not transformers like ChatGPT, Bard or Claude that take 100 millions of tokens to train. Rather I employ feedforward and recurrent neural nets, random forests and autoencoders -- models that can be trained with the small datasets that I encounter in business research.  
 
