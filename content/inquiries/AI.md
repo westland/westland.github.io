@@ -5,15 +5,15 @@ draft = false
 +++
 
 
-_Artificial intelligence_ you say?  I prefer the term "machine learning" which more accurately describes this technology.  But artificial intelligence (AI) is what has caught on the attention of the sensationalist press.  It's been either a theme or McGuffin in science fiction plots since William Grove's 1889 novel _Wreck of the World_.  AI in fiction is too often anthropomorphized as a competing species that facilitates the human apocalypse. Doomsday sells -- it's a lot more exciting than reality. 
+_Artificial intelligence_ you say?  I prefer the term "machine learning" which more accurately describes this technology.  But "artificial intelligence" or "AI" is what has caught the attention of the sensationalist press, and it's been either a theme or McGuffin in science fiction plots since William Grove's 1889 novel _Wreck of the World_.  AI in fiction is too often anthropomorphized as a competing species that facilitates the human apocalypse. Doomsday sells -- it's a lot more exciting than reality. 
 
-I regularly use AI in my research.  Not transformers like ChatGPT, Bard or Claude that take 100 millions of tokens to train. Rather I employ feedforward and recurrent neural nets, random forests and autoencoders -- models that can be trained with the small datasets that I encounter in business research.  
+I regularly use AI in my research.  Not transformers like ChatGPT, Bard or Claude trained with 100 millions of tokens. Rather I employ feedforward and recurrent neural nets, random forests and autoencoders -- models that can be trained with the small datasets encountered in business research.  
 
-AI takes datasets as inputs, and distills them into estimates or decisions.  This is basically what statistical decision models do, and indeed the language of AI borrows heavily from statistics.  The social science statistics of Pearson and Fisher employed numerous shortcuts to simplify difficult calculations -- e.g.,     differential calculus optimization that linearized solutions under least-squares loss.  In the past decade, we've replaced calculus with massive computational power, and we can use any risk-minimization function we want.  We've innovated throughout the statistical framework with:	  
+AI takes datasets as inputs, and distills them into estimates or decisions.  This is basically what statistical decision models do, and indeed the language of AI borrows heavily from statistics.  The social science statistics of Pearson and Fisher employed numerous shortcuts to simplify difficult calculations -- e.g.,  differential calculus optimization that linearized solutions under least-squares loss.  In the past decade, we've augmented calculus with massive computational power that allows us to use any risk-minimization function we want.  AI innovates throughout the statistical framework with:	  
 
 -- _Activation functions_ that define how signals from the data are propagated through the neural network
 
--- _Optimization procedures_ that replaced simple calculus minimization with clever search functions mainly based on gradient descent
+-- _Optimization procedures_ that replaces simple calculus minimization with clever search functions mainly based on gradient descent
 
 -- _Risk / Loss functions_ beyond least squares, that allow us to perfectly engineer the focus of the decision.  These become especially involved in large language models (e.g., transformers) where subtle social biases must be engineered into the responses of AIs and applied at various points in the model.
 
