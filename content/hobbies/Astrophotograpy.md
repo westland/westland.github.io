@@ -26,7 +26,7 @@ _My Equipment_
 
 [Hubble Optics CDK 10"](https://hubble-optics.com/cdk.html) + [UL14 f/4.6 (w/SiTech GoTo)](https://www.hubble-optics.com/UL14.html) + [Meade 8" & 10"SCT](https://www.meade.com/advanced-coma-free-telescopes.idx) + [RASA 8](https://www.celestron.com/products/8-rowe-ackermann-schmidt-astrograph-rasa-8-optical-tube-assembly-cge-dovetail) + [Lunt 50mm Ha Double Stack](https://luntsolarsystems.com/product/lunt-50-mm-dedicated-hydrogen-alpha-solar-telescope/)
 
-[10Micron GM1000HPS](https://www.10micron.com/en/product/gm1000-hps/) + [iOptron  AZ Pro](https://www.ioptron.com/product-p/8900.htm) + EQ platform 
+[10Micron GM1000HPS](https://www.10micron.com/en/product/gm1000-hps/) + [iOptron  AZ Pro](https://www.ioptron.com/product-p/8900.htm) + [EQ platform](http://www.equatorialplatforms.com/) 
 
 [FLI ML11002M](https://www.flicamera.com/spec_sheets/archive/ML11002.pdf) +  [ZWO ASI294MC Pro  & ASI1600MM & 7x2 EFW](https://www.zwoastro.com/buying-guide) + [Atik 414EX](https://www.atik-cameras.com/long-exposure-ccd/atik-414ex/) 
 
