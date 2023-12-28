@@ -90,7 +90,10 @@ Google produced the [original transformer paper](https://proceedings.neurips.cc/
 
 Psychologist Frank Rosenblatt originated neural computing in the 1950s, and successfully tested ResNet models similar to modern transformers in the 1960s.  But influential computer scientists Marvin Minsky and Seymour Papert critiqued Rosenblatt's models leaving them to be ignored for five decades, while they moved the field towards decision trees.  Their research attracted massive investment, failed to provide results, and incited two decades of profound cynicism known as the "AI Winter."  Rediscoveries of Rosenblatt's neural models have dominated the field over the past decade, delivering substantial advances in image and language processing.  
 
-I doubt that  AI's ultimate structure will be neural networks.  The tasks we are assigning them are ones that recreate the very human innovations of language and image interpretation, which depend on humans' five senses and the way the brain processes them.  Neural networks, by mimicking brain structure, are uniquely qualified to produce outputs that are similar to those from real humans (e.g., sentence completion and fake images). Neural network AIs may not be the best for problem solving or 'thinking' but they are very good at mimicking the way that humans turn sensory data into language and art.
+I doubt that  AI's ultimate structure will be neural networks.  The tasks we are assigning them are ones that recreate the very human innovations of language and image interpretation, which depend on humans' five senses and the way the brain processes them.  Neural networks, by mimicking brain structure, are uniquely qualified to produce outputs that are similar to those from real humans (e.g., sentence completion and fake images). Neural network AIs may not be the best for problem solving or 'thinking' but they are really good at replicating behavior that humans call "intelligent."
+
+
+
 
 
 
