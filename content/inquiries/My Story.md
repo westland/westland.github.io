@@ -17,5 +17,3 @@ At the time I graduated, information systems was the realm of crusty old curmudg
 ![Randa and I, c. 1986](/r&c.jpg)
 
 
-
-date = 2023-10-21T20:28:09-05:00
