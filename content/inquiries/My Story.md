@@ -1,6 +1,5 @@
 +++
 title = 'My Origins'
-date = 2023-10-21T20:28:09-05:00
 draft = false
 +++
 
@@ -16,3 +15,7 @@ I ultimately graduated from IU with a statistics degree.  At that time, statisti
 At the time I graduated, information systems was the realm of crusty old curmudgeons who wrote COBOL, took seven or eight years to finish a project, and didn't have much use for statistics or technical studies.  Information systems academics tended to do a lot of hand waving to impress these curmudgeons, but otherwise in the 1980s contributed little of lasting importance.  From the mid-1990s on, the field steadily embraced statistics, data analytics and machine learning as databases, communications and computer power evolved.  My choice of an academic career has been wonderful for myself and family.  My first job, where I received tenure, was at the University of Southern California. I worked with Barry Boehm's software labs, and met quite a number of influential leaders in aerospace.  I moved to Hong Kong University of Science and Technology in 1995, where my friend Yuk-shee Chan had taken the deanship of the business school. This is when I started writing business books.  I did a good deal of executive education and public speaking arranged by my friend Sam Moon, who also handled Asian tours for Bill Clinton, Colin Powell and Mahathir Mohamad.   My children grew up in Hong Kong, and we travelled widely during our 12 years in Hong Kong.  During China's economic rise I had the opportunity to work with many Chinese universities, and had a ringside seat at one of the most remarkable and successful periods in history.  Randa and I have since moved back to the US where we can be closer to our three children and three grandchildren.  
 
 ![Randa and I, c. 1986](/r&c.jpg)
+
+
+
+date = 2023-10-21T20:28:09-05:00
