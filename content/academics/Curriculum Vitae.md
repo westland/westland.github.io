@@ -101,7 +101,6 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 1. Introduction to the special issue on strategic planning for e-commerce business environment, Electronic Commerce Research 23 (1), 1-1, 2023
 1. Determinants of liquidity in cryptocurrency markets, Digital Finance, 1-33, 2023
 1. Blockchain for sustainable supply chain management: trends and ways forward, Electronic Commerce Research Published: May 2022 DOI: https://www.doi.org/10.1007/s10660-022-09569-1 (w / Saumyaranjan Sahoo, Satish Kumar, Uthayasankar Sivarajah, Weng Marc Lim,  Ashwani Kumar)
-1. Determinants of Liquidity in Cryptocurrency Markets, Digital Finance (forthcoming 2022)
 1. A comparative study of frequentist vs Bayesian A/B testing in the detection of E-commerce fraud, Journal of Electronic Business & Digital Economics, Vol. 1 No. 1/2, pp. 3-23. https://doi.org/10.1108/JEBDE-07-2022-0020
 1. Information loss and bias in likert survey responses. PLoS ONE 17(7): e0271949. https://doi.org/10.1371/journal.pone.0271949, July 2022
 1. Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv, Journal of the AIS, forthcoming 2022 (with K. Zhao, Y. Hu)
@@ -112,7 +111,7 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 1. The information content of Sarbanes-Oxley in predicting security breaches. Computers & Security. 2020 Mar 1;90:101687
 1. Demand cycles and market segmentation in bicycle sharing. Information Processing & Management 56.4 (2019): 1592-1604 (with Jian Mou, and Dafei Yin)
 1. A two-sided matching model in the context of B2B export cross-border e-commerce. Electronic Commerce Research 19.4 (2019): 841-861 (with Miao, Yumeng, et al.)
-1. Introduction to the special issue: electronic commerce in China’s Belt and Road Initiative. Electronic Commerce Research 19.4 (2019): 747-748.
+1. Introduction to the special issue: electronic commerce in China s Belt and Road Initiative. Electronic Commerce Research 19.4 (2019): 747-748.
 1. Microlending on mobile social credit platforms: an exploratory study using Philippine loan contracts. Electronic Commerce Research (2019): 1-24 (with Mou, Jian, et al.)
 1. Introduction to the special issue on Big Data in finance and business. Electronic Commerce Research 18.2 (2018): 201-201.
 1. Convolutional Neural Network Deep-Learning Models for Prediction of Shared Bicycle Demand. International Conference on Applications and Techniques in Cyber Security and Intelligence. Springer, Cham, 2018 (with Jian Mou, and Dafei Yin)
