@@ -35,5 +35,5 @@ _My Equipment_
 
 
 
-![M31](/astro_1.png)
+![My 20" Obsession Dobsonian c. 1990](/dob.jpg)
 
