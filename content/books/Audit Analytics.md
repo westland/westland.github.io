@@ -7,6 +7,15 @@ draft = false
 ![Audit Analytics](/audit_analytics_book_cover.jpg)
 [Purchase on Amazon](https://www.amazon.com/Audit-Analytics-Science-Accounting-Profession-ebook/dp/B08NYB2GCQ/ref=sr_1_3?crid=1417UNCLJH3IZ&keywords=audit+analytics&qid=1698079694&sprefix=audit+analytis%2Caps%2C104&sr=8-3)
 
+
+I had the opportunity to share my thoughts on Auditing and this book with Mike Fallat of Million Dollar Stories Podcast.  Here is the link to the episode!  It includes the link to Spotify and your book on Amazon.  
+
+[Audit Analytics on  Million Dollar Stories](https://blog.milliondollarbookagency.com/j-christopher-westland-author-of-audit-analytics-data-science-for-the-accounting-profession-use-r/)
+
+Please follow them on @milliondollarbookman.  
+
+
+
 ## The crisis in accounting
 
 Modern auditing was mandated for all publicly listed corporations after the Crash of 1929.  The idea was that the reported book value, suitably audited to validate its truthfulness, would provide an accurate guide to the firm's stock price.   And indeed auditing did provide such assurances, up until the early 1980s.  But since that time, the audited measure of "Book Value" of a firm has steadily diverged from the actual market capitalization of that same firm.  Investors seem to be ignoring the hard work of accountants; indeed they are concluding that auditors and accountants are not really providing useful information for the valuation of a firm.  Look for example at the ratio of book value to market capitalization for the most valuable firms in the US in December 2023:
