@@ -14,6 +14,8 @@ I had the opportunity to share my thoughts on auditing and this book with Mike F
 
 Please follow them on @milliondollarbookman.  
 
+The [2nd edition of Audit Analytics](https://www.amazon.com/Audit-Analytics-Science-Accounting-Profession-dp-3031474635/dp/3031474635/ref=dp_ob_title_bk) will be out in February 2024
+
 
 
 ## The crisis in accounting
