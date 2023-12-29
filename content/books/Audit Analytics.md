@@ -8,7 +8,7 @@ draft = false
 [Purchase on Amazon](https://www.amazon.com/Audit-Analytics-Science-Accounting-Profession-ebook/dp/B08NYB2GCQ/ref=sr_1_3?crid=1417UNCLJH3IZ&keywords=audit+analytics&qid=1698079694&sprefix=audit+analytis%2Caps%2C104&sr=8-3)
 
 
-I had the opportunity to share my thoughts on Auditing and this book with Mike Fallat of Million Dollar Stories Podcast.  Here is the link to the episode!  It includes the link to Spotify and your book on Amazon.  
+I had the opportunity to share my thoughts on auditing and this book with Mike Fallat of Million Dollar Stories Podcast.  Here is the link to the episode!  It includes the link to Spotify and your book on Amazon.  
 
 [Audit Analytics on  Million Dollar Stories](https://blog.milliondollarbookagency.com/j-christopher-westland-author-of-audit-analytics-data-science-for-the-accounting-profession-use-r/)
 
