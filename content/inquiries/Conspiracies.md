@@ -15,5 +15,5 @@ Why do we devote so much of our time and attention to alleged conspiratorial act
 
 Lizard people, Illuminati, Bilderberg barons  and urban legends jockey for our attention.  Did NASA  land astronauts on the moon?  Was 9/11 an inside job?  Are MacDonald's burgers filled with earthworms?  Max Born observed that there are no truths, only probabilities.  Though the probability of any conspiracy theory may be low, we can never be certain it is zero.  So ... maybe.  
 
-Why do we allot time and attention to such gossipy tales?  That's the easy part.   Because they're great fun, effective 'ice breakers,' and captivating cocktail banter around the modern firepit.  
+Why do we allot time and attention to gossipy tales?  That's the easy part.   Because they're great fun, effective 'ice breakers,' and captivating cocktail banter around the modern firepit.  
 
