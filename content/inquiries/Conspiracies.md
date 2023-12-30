@@ -13,7 +13,7 @@ Successful recipes for a tasty, sticky, influential conspiracy theory require a 
 Why do we subscribe to conspiratorial narratives that have no impact on our daily lives, and where we would have next to zero influence?  Maybe these are constructed of the same substance as origin myths, theologies and local gossip.  Maybe they are a low consequence strategy in the competition for revenge and social status.  Scratch the surface of popular conspiracies, and you too often find religion.  Conspiracy theories are made of the same stuff as faith and superstition, and demand Orwellian feats of "doublethink",  "thoughtcrime", and "2 + 2 = 5".  
 
 
-On social media, lizard people, Illuminati, Bilderberg barons and urban legends jockey for our attention.  Did NASA  land astronauts on the moon?  Was 9/11 an inside job?  Are MacDonald's burgers filled with earthworms?  Max Born observed that there are no truths, only probabilities.  Though the probability of any conspiracy theory may be low, we can never be certain it is zero.  So ... maybe, just maybe.  
+On social media, lizard people, Illuminati, Bilderberg barons and urban legends jockey for our attention.  Did NASA really land astronauts on the moon?  Was 9/11 an inside job?  Are MacDonald's burgers filled with earthworms?  Max Born observed that there are no truths, only probabilities.  Though the probability of any conspiracy theory may be low, we can never be certain it is zero.  So ... maybe, just maybe.  
 
 Why do we allot time and attention to gossipy tales?  That's the easy part.   Because they're great fun, effective 'ice breakers,' and captivating cocktail banter around the modern firepit.  
 
