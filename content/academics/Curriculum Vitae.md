@@ -10,7 +10,8 @@ draft = false
 Professor, Information & Decision Systems, University of Illinoise Chicago
 
 - phone: US +1.312.860.0587  
-- www: https://westland.github.io/
+- Personal Web: https://westland.github.io/
+- UIC Web: https://business.uic.edu/profiles/westland-james-christopher/
 
 
 ## Education
@@ -97,9 +98,9 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 ## Refereed Publications 
 
 1. PLS Papers, Electronic Commerce Research 23 (3), 1361-1366,	2023
-1. Introduction: Special Issue on digital marketing and eCommerce, Electronic Commerce Research, 1-2		2023 (w/ LF Martinez, FJ Martinez-Lopez)
+1. Introduction: Special Issue on digital marketing and eCommerce, Electronic Commerce Research, 1-2 2023 (w/ LF Martinez, FJ Martinez-Lopez)
 1. Introduction to the special issue on strategic planning for e-commerce business environment, Electronic Commerce Research 23 (1), 1-1, 2023
-1. Determinants of liquidity in cryptocurrency markets, Digital Finance, 1-33, 2023
+1. Determinants of liquidity in cryptocurrency markets, Digital Finance, 1-33, 2023 (https://twitter.com/Springernomics/status/1724356495725535234)
 1. Blockchain for sustainable supply chain management: trends and ways forward, Electronic Commerce Research Published: May 2022 DOI: https://www.doi.org/10.1007/s10660-022-09569-1 (w / Saumyaranjan Sahoo, Satish Kumar, Uthayasankar Sivarajah, Weng Marc Lim,  Ashwani Kumar)
 1. A comparative study of frequentist vs Bayesian A/B testing in the detection of E-commerce fraud, Journal of Electronic Business & Digital Economics, Vol. 1 No. 1/2, pp. 3-23. https://doi.org/10.1108/JEBDE-07-2022-0020
 1. Information loss and bias in likert survey responses. PLoS ONE 17(7): e0271949. https://doi.org/10.1371/journal.pone.0271949, July 2022
