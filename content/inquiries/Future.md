@@ -1,5 +1,5 @@
 +++
-title = 'My Worldview'
+title = 'The Future'
 date = 2023-10-21T20:28:09-05:00
 draft = false
 +++
@@ -7,7 +7,7 @@ draft = false
 
 
 
-My worldview has evolved over the years, influenced by experience and observation.  My 'worldview' today is informed by my perspectives on tribes, empire and technology.   From these I have synthesized my personal prediction of a near future that I hope to live to see.
+My predictions for our long-term future evolved over the years, influenced by technology, experience and observation.  My 'worldview' today is informed by my perspectives on tribes, empire and technology.   From these I have synthesized my personal prediction of a near future that I hope to live to see.
 
 **Tribes:** Humans in their current form have lived on Earth for around 200,000 years, in what Paul Seabright called a society of [‘murder, reciprocity, trust, hoarding and stealing’](https://www.amazon.com/Company-Strangers-Natural-History-Economic/dp/0691146462) that arose when early man was forced from the trees into the more brutal environment of the savannahs.  To understand the [soap opera](https://www.nytimes.com/1956/08/28/archives/the-political-soap-opera.html) enveloping modern politics, academe, celebrity gossip, and war, look no further than these societies of [150](https://en.wikipedia.org/wiki/Dunbar%27s_number) or so naked apes.  Take away the technology and little has changed today.  Our brains have shrunk about 10% over this period, so if anything we are a bit stupider than our forebears.  If we had truly advanced beyond primitive society, we would be solving our problems and looking for efficient ways to implement those solutions.  Instead, our first choice as the arbiter of social problems is tribal warfare.  Mechanized war gives us the power to act out our grievances from the comfort of our La-Z-Boy.  We declare war on countries, but also on arbitrary "terrorists and criminals" who somehow inconvenience us, and even bizarrely, on abstractions (cancer, drugs, foreign religions).  Our greatest and most expensive innovations have been arbitrary, amorphous and ever more bloody conflicts of choice.  In the boredom of modern life, [War Is a Force that Gives Us Meaning](https://www.amazon.com/War-Force-that-Gives-Meaning/dp/1400034639).
 
