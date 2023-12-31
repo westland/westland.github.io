@@ -138,7 +138,7 @@ url = "https://www.facebook.com/chris.westland/"
 name = "Instagram"
 icon = "fa fa-2x fa-instagram"
 weight = 2
-url = "https://www.facebook.com/chris.westland/"
+url = "https://www.instagram.com/chris.westland/?hl=en"
 
 [[params.social]]
 name = "Twitter"
