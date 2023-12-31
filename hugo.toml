@@ -129,11 +129,16 @@ weight = 1
 url = "https://github.com/westland/auditanalytics"
 
 [[params.social]]
-name = "Gitlab"
+name = "Facebook"
 icon = "fa fa-2x fa-facebook"
 weight = 2
 url = "https://www.facebook.com/chris.westland/"
 
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 2
+url = "https://www.facebook.com/chris.westland/"
 
 [[params.social]]
 name = "Twitter"
@@ -164,7 +169,7 @@ url = "/books/"
 [[languages.en.menu.main]]
 name = "Viewpoints"
 weight = 3
-url = "/inquiries/"
+url = "/viewpoints/"
 
 [[languages.en.menu.main]]
 name = "Hobbies"
