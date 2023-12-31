@@ -19,7 +19,7 @@ Here is what AI _is_ doing -- it takes datasets as inputs, and distills them int
 
 -- _Data curation_ has evolved to embrace non-quantitative data like text and images using methods like one-hot-encoding that have only been possible with massive computing power (though similar procedures have been explored since the 1940s, originally by I.J. Good using a Bayesian multinomial-Dirichlet conjugate family)
 
--- _Interpretation_ of the output of AI can be confusing, but data scientist are always inventing new ways to [make complex outcomes meaningful](https://christophm.github.io/interpretable-ml-book/) for the humans that must use them.
+-- _Interpretation_ of the output of AI can be confusing, but data scientists are constantly inventing new ways to [make complex outcomes meaningful](https://christophm.github.io/interpretable-ml-book/) for the humans that must use them.
 
 I think AI developments have had a positive impact on the conduct of statistical analyses in the social sciences.  These have traditionally suffered from researcher "cherry picking" -- not the wholescale manufacturing of data seen in, for example, Francesca Gino's papers.  Rather the more subtle problem of running 20 analyses at 95% confidence with similar models to see which one fits the researchers particular biases and hypotheses, or calling a correlation a cause.  This is a problem that plagues all of social science research, business topics included.  Machine learning, which has a tradition of datasets that are much larger than found in social science studies, has adopted a requirement of cross-validation -- running models on subsets of data to see how stable are your estimates / decisions.  
 
