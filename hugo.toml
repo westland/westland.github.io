@@ -178,7 +178,7 @@ url = "/hobbies/"
 
 [[languages.en.menu.main]]
 name = "Stories"
-weight = 4
+weight = 5
 url = "/stories/"
 
 
