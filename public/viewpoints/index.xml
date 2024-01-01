@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viewpoints on chris westland&#39;s personal website</title>
+    <link>http://westland.github.io/viewpoints/</link>
+    <description>Recent content in Viewpoints on chris westland&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Oct 2023 20:28:09 -0500</lastBuildDate><atom:link href="http://westland.github.io/viewpoints/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://westland.github.io/viewpoints/ai/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      
+      <guid>http://westland.github.io/viewpoints/ai/</guid>
+      <description>Artificial intelligence you say? I prefer the term &amp;ldquo;machine learning&amp;rdquo; which more accurately describes this technology. But &amp;ldquo;artificial intelligence&amp;rdquo; or &amp;ldquo;AI&amp;rdquo; is what has caught the attention of the sensationalist press, and it&amp;rsquo;s been either a theme or McGuffin in science fiction plots since William Grove&amp;rsquo;s 1889 novel Wreck of the World. AI in fiction is too often anthropomorphized as a competing species that facilitates the human apocalypse. Doomsday sells &amp;ndash; it&amp;rsquo;s a lot more exciting than reality.</description>
+    </item>
+    
+    <item>
+      <title>Computers and Analytics</title>
+      <link>http://westland.github.io/viewpoints/choices/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      
+      <guid>http://westland.github.io/viewpoints/choices/</guid>
+      <description>New organs of perception come about from necessity. Therefore, O man, increase your necessity, so that you many increase your perception! (Rūmī, 13th century)
+I began my career in 1973 as a staff accountant in the Chicago office of Touche Ross (a predecessor firm to Deloitte Touche Tohmatsu). Computers were new to accounting in those days. IBM had introduced its System 360 in 1964 (S/360 referred to the architecture’s wide scope: 360 degrees to cover the entire circle of possible uses).</description>
+    </item>
+    
+    <item>
+      <title>The Future</title>
+      <link>http://westland.github.io/viewpoints/future/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      
+      <guid>http://westland.github.io/viewpoints/future/</guid>
+      <description>My predictions for our long-term future evolved over the years, influenced by technology, experience and observation. My &amp;lsquo;worldview&amp;rsquo; today is informed by my perspectives on tribes, empire and technology. From these I have synthesized my personal prediction of a near future that I hope to live to see.
+Tribes: Humans in their current form have lived on Earth for around 200,000 years, in what Paul Seabright called a society of ‘murder, reciprocity, trust, hoarding and stealing’ that arose when early man was forced from the trees into the more brutal environment of the savannahs.</description>
+    </item>
+    
+    <item>
+      <title>Conspiracies</title>
+      <link>http://westland.github.io/viewpoints/conspiracies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://westland.github.io/viewpoints/conspiracies/</guid>
+      <description>10,000 years ago, societies of ~150 hunted, gathered, subsistence farmed, and at the end of the day, sat around the firepit exchanging stories. Everyone could contribute in this egalitarian contest of fabulist tales, the most entertaining conferring status and legitimacy on their narrators. Science, law, ethics thus gleaned were unreliable and fluid, captive in a Gossip Trap where influence trumped fact. Egyptian priests melded stories with nilometers to predict crop yield, and elaborate cosmologies to predict heavenly events.</description>
+    </item>
+    
+    <item>
+      <title>My Origins</title>
+      <link>http://westland.github.io/viewpoints/my-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://westland.github.io/viewpoints/my-story/</guid>
+      <description>I was born towards the end of 1949 when the World was a vastly different place. I come from a military and sales family, and to my knowledge, am the first in my extended family to receive a PhD and to find a home in academia. My grandfather fought in WWI and was Bernard Baruch&amp;rsquo;s logistics assistant in the European reconstruction (he spoke nine European languages, an invaluable skill in that line of work).</description>
+    </item>
+    
+  </channel>
+</rss>
