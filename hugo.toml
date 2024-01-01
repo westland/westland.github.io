@@ -177,6 +177,12 @@ weight = 4
 url = "/hobbies/"
 
 
+[[languages.en.menu.main]]
+name = "Stories"
+weight = 5
+url = "/stories/"
+
+
 
 
 

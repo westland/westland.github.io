@@ -13,9 +13,9 @@ Here is what AI _is_ doing -- it takes datasets as inputs, and distills them int
 
 -- _Activation functions_ that define how signals from the data are propagated through the neural network
 
--- _Optimization procedures_ that replaces simple calculus minimization with backpropagation and clever gradient descent search 
+-- _Optimization procedures_ that replaces simple calculus minimization with backpropagation and clever gradient descent search
 
--- _Risk / Loss functions_ beyond least squares, that allow us to tightly engineer the focus of the decision.  These become especially involved in large language models (e.g., transformers) where subtle social biases must be engineered into the responses of AIs and applied at various points in the model.
+-- _Risk / Loss functions_ beyond least squares, that allow us to tightly engineer the focus of the decision.  These become especially involved in large language models (e.g., transformers) where subtle social biases must be engineered into the responses of AIs and applied at various points in the model. LLM biases are leading us beyond the traditional closed-form loss functions, e.g., squared-error, towards loss algorithms -- software code that gives us much more latitude to define the objectives on which we optimize.
 
 -- _Data curation_ has evolved to embrace non-quantitative data like text and images using methods like one-hot-encoding that have only been possible with massive computing power (though similar procedures have been explored since the 1940s, originally by I.J. Good using a Bayesian multinomial-Dirichlet conjugate family)
 
