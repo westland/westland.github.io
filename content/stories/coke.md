@@ -1,5 +1,5 @@
 +++
-title = 'Coca-Cola's Devious Competitors'
+title = "Coca-Cola's Devious Competitors"
 date = 2023-10-21T20:28:09-05:00
 draft = false
 +++
