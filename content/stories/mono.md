@@ -12,4 +12,4 @@ network to challenge Bell Telephone. In AT&T’s 1908 annual report Vail argued 
 
 A telephone without a connection at the other end of the line is … one of the most useless things in the world. Its value depends on the connection with other telephones – and increases with the number of connections.
 
-Vail’s ideas about the power of network effects were central to arguments he used to justify AT&T’s acquisi- tion of smaller competitors throughout the 1920s and 1930s, and to justify its defence of ‘universal service’ and ‘natural monopoly,’ similar to the post office or rail- ways, up until Bell’s breakup in 1982.
+Vail’s ideas about the power of network effects were central to arguments he used to justify AT&T’s acquisition of smaller competitors throughout the 1920s and 1930s, and to justify its defence of ‘universal service’ and ‘natural monopoly,’ similar to the post office or railways, up until Bell’s breakup in 1982.
