@@ -10,7 +10,7 @@ I've played piano since I was a kid; originally classical, but more recently pop
 
 I've sat at the piano sporadically for most of my life, but more recently have gotten back into practicing and playing. For a long time I owned my grandmother's August Forster grand piano, but a few years ago while downsizing traded it for a Casio GP-500 digital piano.  I also own a few bass guitars that I occasionally play; they sound nice, but the piano is a more complex and satisfying instrument. 
 
-Here are some of my random keyboard doodlings
+Here are some of my experiments with various styles:
 
 [Pomp & Circumstances](https://www.facebook.com/chris.westland/videos/10159218564418313/)
 
