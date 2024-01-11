@@ -1,5 +1,5 @@
 +++
-title = 'The Elephant in the Drawing Room'
+title = 'Elephant in the Drawing Room'
 date = 2023-10-21T20:28:09-05:00
 draft = false
 +++
