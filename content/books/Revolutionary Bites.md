@@ -11,5 +11,3 @@ Revolutionary Bites: Bite-Size Tales from Science, Industry and Politics, a set 
 
 With this book, I am hoping to engage teenage readers, just as I was fascinated by such books when I was growing up. To capture young minds, you need a bit of “sex, drugs and rock’n’roll” but in family-friendly form (sorry, no NSFW content). I originally envisioned this as a children’s book for adults, using slightly larger print and vivid, fanciful, hallucinatory illustrations leading each of the 60 stories. But then I found that according to a January 2023 WordsRated statistics, 51% of young adult (YA) books are purchased by people between the ages of 30 and 44, and 78% of those buyers said that they intended to read the books themselves. In recent years, librarians report that more middle grade readers (traditionally eight- to 12-year-olds) are “reading up” to YA books.
 
-## The Cover Blurb
-
