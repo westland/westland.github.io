@@ -4,7 +4,7 @@ date = 2023-10-21T15:58:37-05:00
 draft = false
 +++
 
-![Revolutionary Bites: Bite-Size Tales from Science, Industry and Politics](/revbite.jpg)
+![Revolutionary Bites: Bite-Size Tales from Science, Industry and Politics](/revbite.PNG)
 [Purchase on Amazon](https://www.amazon.com/dp/B0CS79VZC9?psc=1&ref=ppx_yo2ov_dt_b_product_details&fbclid=IwAR3kAQnIWscFV2E8M9SkqxQlr2gnPthThEszEx50_ufQwSbe_Z0l24812GM)
 
 I’ve just completed this new book Revolutionary Bites: Bite-Size Tales from Science, Industry and Politics, a set of 60 short stories intended to introduce young readers to STEM (science, technology, engineering, and mathematics), management and finance topics in an engaging way.
