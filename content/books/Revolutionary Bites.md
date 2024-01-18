@@ -1,5 +1,5 @@
 +++
-title = 'Revolutionary Bites: Bite-Size Tales from Science, Industry and Politics'
+title = 'Revolutionary Bites'
 date = 2023-10-21T15:58:37-05:00
 draft = false
 +++
