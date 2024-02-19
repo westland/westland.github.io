@@ -81,28 +81,40 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 21. International Review of Management (2004-present) , Associate Editor
 
 
+
 ## Books and Software 
 
-1. Audit Analytics: Data Science for the Accounting Profession (in R. Gentleman, et al. "Use R!" series), Springer 2021; 2nd edition 2024; Python version forthcoming in 2024
+1. Audit Analytics: Data Science for the Accounting Profession (in R. Gentleman, et al. "Use R!" series), Springer 2021; 2nd edition 2024; Python version forthcoming in 2024; reviewed on Mike Fallet's "Million Dollar Book" podcast (Dec 20, 2023)
 2. Structural Equation Modeling: from paths to networks, Springer, 2nd edition (2019); reviewed in Sarstedt, Marko, and Christian M. Ringle. "Structural Equation Models" Psychometrika (2020): 1-4. https://doi.org/10.1007/s11336-020-09719-0 
 3. Global Innovation Management: A Strategic Approach (2nd ed.)  London:  Palgrave / Macmillan 2018. 
 1. Structural Equation Modeling: from paths to networks, Springer, 1st ed. (2016)
 4. Financial Auditing with Information Technology, Creder Press, ISBN-13: 978-1490448732; ISBN-10:149044873X, 2015
-5. Red Wired: China's Internet Revolution, London: Cyan (Marshall Cavendish), 2010  (with S. So); Kindle edition, 2012
+5. Red Wired: China’s Internet Revolution, London: Cyan (Marshall Cavendish), 2010  (with S. So); Kindle edition, 2012
 6. Global Innovation Management: A Strategic Approach  London:  Palgrave / Macmillan 2008; Companion Websites at http://www.palgrave.com/business/westland/, Simplified Chinese translation by Chinese University of Science & Technology Press, Hefei, Anhui, China.
 7. Financial Dynamics: A System for Valuing Technology Companies, New York: John Wiley & Sons, June 2003 with Financial Dynamics software (versions 1 and 2) 
 8. Valuing Technology: The New Science of Wealth in the Knowledge Economy, New York: John Wiley & Sons, 2002; reviewed in Xu, X., and E. W. K. See-To. "What is knowledge and the technology to support it worth to the firm? Review of Westland, Christopher, Valuing Technology: the new science of wealth in the knowledge economy, John Wiley and Sons (Asia) Pte Ltd, 2002." Journal of Information Technology Theory and Application 4.1 (2002): 65-67.
 9. Global Electronic Commerce: Theory and Case Studies (with Ted Clark) MIT Press, 2000, additional printings 2001-2; Chinese (simplified) from Fudan U. Press Shanghai August 2000; Chinese (full stroke) from Best Wise: Taipai, August 2000; republished by Universities Press (India) Limited for distribution in India, Bangladesh, Bhutan, Nepal, Sri Lanka, the Maldives, and Pakistan, paperback English, 2008
 10. Information Technology Risk: A Guide for Accountants and Auditors, Hong Kong Society of Accountants monograph (HKICPA), 1996
 
+#### Young Adult Books: Westland STEM Series
+
+1. Revolutionary Bites: Bite-Size Tales from Science, Industry and Politics, KDP, Dec 2023
+1. The Book of Light, KDP, Feb 2024
+1. The Teenage Guide to Artificial Intelligence, KDP, March 2024
+
 ## Refereed Publications 
 
+1. Periodicity, Elliott Waves, and Fractals in the NFT Market, Scientific Reports, forthcoming 2024
+1. Predicting the cryptocurrency market using social media metrics and search trends during COVID-19, (with J Mou, W Liu, C Guan,  J Kim) Electronic Commerce Research, 1-27
+1. Data-and management-driven metaverse research (with Z Pan, J Yan, H Takeda, H Lu, S Liu, W Huang, J Mou), Data Science and Management, forthcoming  2024
 1. PLS Papers, Electronic Commerce Research 23 (3), 1361-1366,	2023
-1. Introduction: Special Issue on digital marketing and eCommerce, Electronic Commerce Research, 1-2 2023 (w/ LF Martinez, FJ Martinez-Lopez)
+1. Introduction: Special Issue on digital marketing and eCommerce, Electronic Commerce Research, 1-2		2023 (w/ LF Martinez, FJ Martínez-López)
 1. Introduction to the special issue on strategic planning for e-commerce business environment, Electronic Commerce Research 23 (1), 1-1, 2023
-1. Determinants of liquidity in cryptocurrency markets, Digital Finance, 1-33, 2023 (https://twitter.com/Springernomics/status/1724356495725535234)
-1. Blockchain for sustainable supply chain management: trends and ways forward, Electronic Commerce Research Published: May 2022 DOI: https://www.doi.org/10.1007/s10660-022-09569-1 (w / Saumyaranjan Sahoo, Satish Kumar, Uthayasankar Sivarajah, Weng Marc Lim,  Ashwani Kumar)
+1. Determinants of liquidity in cryptocurrency markets, Digital Finance, 1-33, 2023
 1. A comparative study of frequentist vs Bayesian A/B testing in the detection of E-commerce fraud, Journal of Electronic Business & Digital Economics, Vol. 1 No. 1/2, pp. 3-23. https://doi.org/10.1108/JEBDE-07-2022-0020
+1. Blockchain for sustainable supply chain management: trends and ways forward, Electronic Commerce Research Published: May 2022 DOI: https://www.doi.org/10.1007/s10660-022-09569-1 (w / Saumyaranjan Sahoo, Satish Kumar, Uthayasankar Sivarajah, Weng Marc Lim,  Ashwani Kumar)
+1. Determinants of Liquidity in Cryptocurrency Markets, Digital Finance, Volume 5, pages 261–293, (2023)
+1. Comorbidity Graph for Chronic Disease: A Topological Approach for Estimating Treatment Cost, (with Eric See-to), Proceedings of PACIS 2022
 1. Information loss and bias in likert survey responses. PLoS ONE 17(7): e0271949. https://doi.org/10.1371/journal.pone.0271949, July 2022
 1. Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv, Journal of the AIS, forthcoming 2022 (with K. Zhao, Y. Hu)
 1. Assessing Privacy and Security of Information Systems from Audit Data, Information Systems Frontiers, 24 (5), 1417-1434, 2021-05-27
