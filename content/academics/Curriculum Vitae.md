@@ -104,7 +104,7 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 
 ## Refereed Publications 
 
-1. Periodicity, Elliott Waves, and Fractals in the NFT Market, Scientific Reports, forthcoming 2024
+1. Periodicity, Elliott Waves, and Fractals in the NFT Market, Scientific Reports, https://www.nature.com/articles/s41598-024-55011-x , https://doi.org/10.1038/s41598-024-55011-x , 2024
 1. Predicting the cryptocurrency market using social media metrics and search trends during COVID-19, (with J Mou, W Liu, C Guan,  J Kim) Electronic Commerce Research, 1-27
 1. Data-and management-driven metaverse research (with Z Pan, J Yan, H Takeda, H Lu, S Liu, W Huang, J Mou), Data Science and Management, forthcoming  2024
 1. PLS Papers, Electronic Commerce Research 23 (3), 1361-1366,	2023
