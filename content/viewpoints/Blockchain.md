@@ -17,7 +17,7 @@ Furthermore, what happens if one party doesn't have an account on PigChain? What
 
 Even worse; what happens when the pig becomes part of a sausage?  How will that work?  We will definitely need a BreadcrumbCoin, HerbCoin, NastyBitsOfPigCoin and a market-maker to exchange those for a SausageCoin.  And how does the restaurant or shopper in Walmart casually browsing the raw cutlets validate that the sausage in front of them is the real thing, and safe to eat?  Do they take a photo of the sausage and check it against PigChain?  
 
-All of the details on farm origins, factory data, expiration dates, storage temperatures, and shipping can be faked.  Blockchains don't tell the truth, they just record what someone tells them.  This works fairly well for unique, fungible digital items with efficient markets.  It is a recipe for disaster with perishable, unique items in a food supply chain.  
+All of the details on farm origins, factory data, expiration dates, storage temperatures, and shipping can be faked.  Blockchains don't tell the truth, they just record what someone tells them.  This works fairly well for fungible digital assets with efficient markets.  It is a recipe for disaster with perishable, unique items in a food supply chain.  
 
 Blockchain cheerleaders aren't anything new.  There exists a whole community of consultants, management 'gurus', and out-of-work authors looking for the next fad to exploit.  Blockchain is one of those recent fads.  If you don't look closely, it has specious appeal.  Look closely and it is just more faddish nonsense.
    
