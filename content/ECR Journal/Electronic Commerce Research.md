@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-![Electronic Commerce Research](/ECR.jpg)
+![Electronic Commerce Research](/ECR.png)
 
 [Springer Site](https://link.springer.com/journal/10660)
 
