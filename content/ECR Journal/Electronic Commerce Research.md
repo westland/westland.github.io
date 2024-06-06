@@ -7,7 +7,7 @@ draft = false
 
 ![Electronic Commerce Research](/ECR.png)
 
-[Springer Site](https://link.springer.com/journal/10660)
+[Explore our most recent articles at ECR's home page](https://link.springer.com/journal/10660)
 
 
 _Electronic Commerce Research_ is a peer-reviewed journal that disseminates the latest findings in all aspects of e-commerce.
