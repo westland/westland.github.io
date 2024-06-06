@@ -177,12 +177,12 @@ weight = 3
 url = "/hobbies/"
 
 [[languages.en.menu.main]]
-name = "YA"
+name = "YA Books"
 weight = 6
 url = "/YA/"
 
 [[languages.en.menu.main]]
-name = "ECR"
+name = "ECR Journal"
 weight = 7
 url = "/ECR/"
 
