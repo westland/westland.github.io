@@ -163,18 +163,28 @@ url = "/academics/"
 
 [[languages.en.menu.main]]
 name = "Books"
-weight = 2
+weight = 5
 url = "/books/"
 
 [[languages.en.menu.main]]
 name = "Viewpoints"
-weight = 3
+weight = 2
 url = "/viewpoints/"
 
 [[languages.en.menu.main]]
 name = "Hobbies"
-weight = 4
+weight = 3
 url = "/hobbies/"
+
+[[languages.en.menu.main]]
+name = "YA"
+weight = 6
+url = "/YA/"
+
+[[languages.en.menu.main]]
+name = "ECR"
+weight = 7
+url = "/ECR/"
 
 
 
