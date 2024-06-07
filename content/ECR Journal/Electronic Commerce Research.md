@@ -25,3 +25,18 @@ Editor-in-Chief: J. Christopher Westland
 Submission to first decision: 27 days
 
 Downloads: 473,453 (2023)
+
+
+![Latest Statistics from Electronic Commerce Research](/ECR_qtr1.png)
+
+
+
+Springer Nature now supports researchers from over
+3,700 institutions, across six continents, with open
+access (OA) publication via its Transformative
+Agreements (TA). The continued growth of the
+publisher's TAs underscores the Springer Nature’s in
+accelerating the global transition to OA, ensuring all
+who want to publish OA can do so regardless of
+location or funding.
+
