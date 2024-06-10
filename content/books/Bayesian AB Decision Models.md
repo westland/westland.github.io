@@ -10,7 +10,7 @@ draft = false
 
 ![Bayesian A/B Decision Models](/bayes_book.png)
 
-_forthcoming_
+_forthcoming_ Fall 2024, Singapore: World Scientific
 
 
 Bayesian A/B Decision Models is an applied statistics book that delineates the A/B testing methodologies that I have been using successfully in legal cases and e-commerce consulting over the past several years.
