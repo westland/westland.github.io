@@ -8,7 +8,7 @@ draft = false
 
 
 
-![Bayesian A/B Decision Models](/bayes_book.png)
+![Bayesian A/B Decision Models](/bayes_book_title.png)
 
 _forthcoming_ Fall 2024, Singapore: World Scientific
 
