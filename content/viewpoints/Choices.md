@@ -1,11 +1,8 @@
 +++
-title = 'Computers and Analytics'
+title = 'Auditing & Accounting'
 date = 2023-10-21T20:28:09-05:00
 draft = false
 +++
-
-
-_New organs of perception come about from necessity. Therefore, O man, increase your necessity, so that you many increase your perception!_  (Rūmī, 13th century) 
 
 
 I began my career in 1973 as a staff accountant in the Chicago office of Touche Ross (a predecessor firm to Deloitte Touche
