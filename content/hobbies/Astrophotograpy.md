@@ -22,7 +22,7 @@ When I was growing up, the skies were relatively free of light pollution, and vi
 
 _My Equipment_
 
-[Hubble Optics CDK 10"](https://hubble-optics.com/cdk.html) + [UL14 f/4.6](https://www.hubble-optics.com/UL14.html) + [Meade 8"](https://www.meade.com/advanced-coma-free-telescopes.idx) + [RASA 8](https://www.celestron.com/products/8-rowe-ackermann-schmidt-astrograph-rasa-8-optical-tube-assembly-cge-dovetail) + [Lunt 50mm Ha Double Stack](https://luntsolarsystems.com/product/lunt-50-mm-dedicated-hydrogen-alpha-solar-telescope/)  + [Mewlon 180](http://www.scopeviews.co.uk/TakMewlon180C.htm)
+[Hubble Optics CDK 10"](https://hubble-optics.com/cdk.html) + [UL14 f/4.6](https://www.hubble-optics.com/UL14.html) + [Meade 8"](https://www.meade.com/advanced-coma-free-telescopes.idx) + [RASA 8](https://www.celestron.com/products/8-rowe-ackermann-schmidt-astrograph-rasa-8-optical-tube-assembly-cge-dovetail) + [Lunt 50mm Ha Double Stack](https://luntsolarsystems.com/product/lunt-50-mm-dedicated-hydrogen-alpha-solar-telescope/)  + [Mewlon 180c](http://www.scopeviews.co.uk/TakMewlon180C.htm)
 
 [10Micron GM1000HPS](https://www.10micron.com/en/product/gm1000-hps/) + [iOptron  AZ Pro](https://www.ioptron.com/product-p/8900.htm) + [HAZ31](https://www.ioptron.com/product-p/hz312.htm) 
 
