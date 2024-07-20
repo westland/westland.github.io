@@ -26,7 +26,7 @@ _My Equipment_
 
 [10Micron GM1000HPS](https://www.10micron.com/en/product/gm1000-hps/) + [iOptron  AZ Pro](https://www.ioptron.com/product-p/8900.htm) + [HAZ31](https://www.ioptron.com/product-p/hz312.htm) 
 
-[FLI ML11002M](https://www.flicamera.com/spec_sheets/archive/ML11002.pdf) +  [ZWO ASI2600MC Pro  & ASI183MC & 7x2 EFW](https://www.zwoastro.com/buying-guide) 
+[FLI ML11002M](https://www.flicamera.com/spec_sheets/archive/ML11002.pdf) +  [ZWO ASI2600MC Pro  & ASI183MC & 7x2 EFW](https://www.zwoastro.com) 
 
 [N.I.N.A.](https://nighttime-imaging.eu/), [SharpCap](https://www.sharpcap.co.uk/) and [PixInsight](https://pixinsight.com/), [Model Creator](https://www.astromi.ch/)
 
