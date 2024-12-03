@@ -13,7 +13,7 @@ Professor, Information & Decision Systems, University of Illinoise Chicago
 - Personal Web: https://westland.github.io/
 - UIC Web: https://business.uic.edu/profiles/westland-james-christopher/
 
-[click here to download my Curriculum Vita in PDF](https://drive.google.com/file/d/171Ewc8aBbLiG7o8xp3bN3E11hZUuy3u8/view?usp=sharing)
+[click here to download my Curriculum Vita in PDF](https://drive.google.com/file/d/1sJzSx8C4_XGX5nhj4X-hHhotpANtApRC/view?usp=sharing)
 
 ## Education
 
