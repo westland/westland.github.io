@@ -16,7 +16,7 @@ author = "J. Christopher Westland"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Chris Westland's personal website"
 keywords = "researcher, finance, information technology,personal"
-info = ["Professor - University of Illinois Chicago", "Technology, Analytics, Finance, Accounting, Law"]
+info = ["Professor - University of Illinois Chicago", "Data Scientist: Technology, Analytics, Finance, Accounting, Law"]
 avatarURL = "https://avatars.githubusercontent.com/u/3118689?v=4"
 #gravatar = "westland@uic.edu"
 dateFormat = "Oct 21, 2023"
