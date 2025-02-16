@@ -13,7 +13,7 @@ Professor, Information & Decision Systems, University of Illinoise Chicago
 - Personal Web: https://westland.github.io/
 - UIC Web: https://business.uic.edu/profiles/westland-james-christopher/
 
-
+[click here to download my Curriculum Vita in PDF](https://drive.google.com/file/d/1sJzSx8C4_XGX5nhj4X-hHhotpANtApRC/view?usp=sharing)
 
 ## Education
 
@@ -23,13 +23,14 @@ Professor, Information & Decision Systems, University of Illinoise Chicago
 - **Languages**: English, Mandarin Chinese
 
 
-## Certifications and Organizations
+## Credentials
 
 1. Certified Public Accountant (Illinois License 065.035982)
 1. Illinois CPA Society
 1. Beta Gamma Sigma (Business Honorary Society)
 1. Mensa International; American Mensa
 1. Fulbright Specialist Roster appointment by U.S. Department of State
+1. Stanford University's list of "World's Top 2%" scientists
 
 
 ## Career History
@@ -49,7 +50,7 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 1. Assistant Professor, IOM, Marshall School, University of Southern California, 1985-1988
 1. Assistant Professor, Accounting, Eastern Michigan University, 1986-1987
 1. PhD Student, Computers and Information Systems, University of Michigan, 1981-1987
-1. Database Admin & Security Manager, Rockwell International, Electronic Operations, 1977-1981
+1. Database Admin & Security Manager, Rockwell International, 1977-1981
 1. IS Audit Manager, Republic Life, Dallas, 1976-1977
 1. Accounts Payable / Payroll Manager, Federated Department Stores, Dallas, 1975-1976
 1. Auditor, IS Consultant, Touche Ross, Chicago, 1973-1975
@@ -105,7 +106,8 @@ Visiting Professor (on Sabbatical Leave from HKUST) Tsinghua University, Beijing
 
 ## Refereed Publications 
 
-1. A Stochastic Model of the Economics of Internet Search, Journal of Electronic Business & Digital Economics, forthcoming 2024
+1. Review Valence Impact on Jello Shot Sales. Digital Marketing & eCommerce Conference. Cham: Springer Nature Switzerland, 2024.
+1. A Stochastic Model of the Economics of Internet Search, Journal of Electronic Business & Digital Economics, Volume 3 Issue 3,  2024
 1. Periodicity, Elliott Waves, and Fractals in the NFT Market, Nature: Scientific Reports,  https://doi.org/10.1038/s41598-024-55011-x ; https://www.nature.com/articles/s41598-024-55011-x.pdf 2024
 1. Predicting the cryptocurrency market using social media metrics and search trends during COVID-19, (with J Mou, W Liu, C Guan,  J Kim) Electronic Commerce Research, 1-27
 1. Data-and management-driven metaverse research (with Z Pan, J Yan, H Takeda, H Lu, S Liu, W Huang, J Mou), Data Science and Management, Volume 7, Issue 2, June 2024, Pages 75-78
