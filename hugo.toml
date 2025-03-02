@@ -163,7 +163,7 @@ url = "/academics/"
 
 [[languages.en.menu.main]]
 name = "Podcasts"
-weight = 1
+weight = 2
 url = "/podcasts/"
 
 [[languages.en.menu.main]]
@@ -173,12 +173,12 @@ url = "/books/"
 
 [[languages.en.menu.main]]
 name = "Viewpoints"
-weight = 2
+weight = 3
 url = "/viewpoints/"
 
 [[languages.en.menu.main]]
 name = "Hobbies"
-weight = 3
+weight = 4
 url = "/hobbies/"
 
 [[languages.en.menu.main]]
