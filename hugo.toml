@@ -1,4 +1,4 @@
-baseURL = "http://westland.github.io"
+baseURL = "https://westland.github.io/"
 title = "chris westland's personal website"
 theme = "hugo-coder"
 languageCode = "en"
