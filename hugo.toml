@@ -167,7 +167,7 @@ weight = 2
 url = "/podcasts/"
 
 [[languages.en.menu.main]]
-name = "Books"
+name = "Pubs"
 weight = 5
 url = "/books/"
 
@@ -180,16 +180,6 @@ url = "/viewpoints/"
 name = "Hobbies"
 weight = 4
 url = "/hobbies/"
-
-[[languages.en.menu.main]]
-name = "YA Books"
-weight = 6
-url = "/YA Books/"
-
-[[languages.en.menu.main]]
-name = "ECR Journal"
-weight = 7
-url = "/ECR Journal/"
 
 
 
