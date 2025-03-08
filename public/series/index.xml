@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on chris westland&#39;s personal website</title>
-    <link>http://westland.github.io/series/</link>
+    <link>https://westland.github.io/series/</link>
     <description>Recent content in Series on chris westland&#39;s personal website</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://westland.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://westland.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

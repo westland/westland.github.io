@@ -2,84 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on chris westland&#39;s personal website</title>
-    <link>http://westland.github.io/books/</link>
+    <link>https://westland.github.io/books/</link>
     <description>Recent content in Books on chris westland&#39;s personal website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Oct 2023 16:18:49 -0500</lastBuildDate><atom:link href="http://westland.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Oct 2023 16:18:49 -0500</lastBuildDate>
+    <atom:link href="https://westland.github.io/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Structural Equation Models</title>
-      <link>http://westland.github.io/books/structural-equation-models/</link>
+      <link>https://westland.github.io/books/structural-equation-models/</link>
       <pubDate>Sat, 21 Oct 2023 16:18:49 -0500</pubDate>
-      
-      <guid>http://westland.github.io/books/structural-equation-models/</guid>
-      <description>Purchase on Amazon
-Motivation for this BookLink to headingSince publication of the first edition of Structural Equation Models, I have been fortunate to maintain an active dialog on structural equations modeling (SEM) with many of my colleagues around the world. I never cease to be surprised with the broad divergence of opinions and myriad applications of SEM methodologies. Statistical methods such as regression and ANOVA rely on datasets of objectively measured constructs.</description>
+      <guid>https://westland.github.io/books/structural-equation-models/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://westland.github.io/SEM.jpg&#34; alt=&#34;Structural Equation Models&#34;&gt;&#xA;&lt;a href=&#34;https://www.amazon.com/Structural-Equation-Models-Networks-Decision-ebook/dp/B07QFGSHK8/ref=sr_1_6?crid=1W04C84ZBA77I&amp;amp;keywords=j.&amp;#43;christopher&amp;#43;Westland&amp;amp;qid=1698076663&amp;amp;sprefix=j.&amp;#43;christopher&amp;#43;westland%2Caps%2C97&amp;amp;sr=8-6&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purchase on Amazon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;motivation-for-this-book&#34;&gt;&#xD;&#xA;  Motivation for this Book&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#motivation-for-this-book&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Since publication of the first edition of Structural Equation Models, I have been fortunate&#xA;to maintain an active dialog on structural equations modeling (SEM) with many of my&#xA;colleagues around the world. I never cease to be surprised with the broad divergence&#xA;of opinions and myriad applications of SEM methodologies. Statistical methods such as&#xA;regression and ANOVA rely on datasets of objectively measured constructs. These fail to&#xA;satisfy a widespread need among researchers to analyze data concerning relationships between&#xA;hypothesized but unobservable constructs: aesthetics, perceptions, utilities and other human&#xA;and social constructs. Criticisms of SEM arisen from its lack of fit statistics and indeed&#xA;the lack of defensible sampling strategies. But my argument is that these problems can be&#xA;repaired while retaining the desirable features of SEM.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Audit Analytics</title>
-      <link>http://westland.github.io/books/audit-analytics/</link>
+      <link>https://westland.github.io/books/audit-analytics/</link>
       <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
-      
-      <guid>http://westland.github.io/books/audit-analytics/</guid>
-      <description>Purchase on Amazon
-I had the opportunity to share my thoughts on auditing and this book with Mike Fallat of Million Dollar Stories Podcast. Here is the link to the episode! It includes the link to Spotify and to my book on Amazon.
-Audit Analytics on Million Dollar Stories
-Please follow them on @milliondollarbookman.
-The 2nd edition of Audit Analytics will be out in February 2024
-The crisis in accountingLink to headingModern auditing was mandated for all publicly listed corporations after the Crash of 1929.</description>
+      <guid>https://westland.github.io/books/audit-analytics/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://westland.github.io/audit_analytics_book_cover.jpg&#34; alt=&#34;Audit Analytics&#34;&gt;&#xA;&lt;a href=&#34;https://www.amazon.com/Audit-Analytics-Science-Accounting-Profession-ebook/dp/B08NYB2GCQ/ref=sr_1_3?crid=1417UNCLJH3IZ&amp;amp;keywords=audit&amp;#43;analytics&amp;amp;qid=1698079694&amp;amp;sprefix=audit&amp;#43;analytis%2Caps%2C104&amp;amp;sr=8-3&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purchase on Amazon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I had the opportunity to share my thoughts on auditing and this book with Mike Fallat of Million Dollar Stories Podcast.  Here is the link to the episode!  It includes the link to Spotify and to my book on Amazon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blog.milliondollarbookagency.com/j-christopher-westland-author-of-audit-analytics-data-science-for-the-accounting-profession-use-r/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audit Analytics on  Million Dollar Stories&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Please follow them on @milliondollarbookman.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://www.amazon.com/Audit-Analytics-Science-Accounting-Profession-dp-3031474635/dp/3031474635/ref=dp_ob_title_bk&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2nd edition of Audit Analytics&lt;/a&gt; will be out in February 2024&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-crisis-in-accounting&#34;&gt;&#xD;&#xA;  The crisis in accounting&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-crisis-in-accounting&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Modern auditing was mandated for all publicly listed corporations after the Crash of 1929.  The idea was that the reported book value, suitably audited to validate its truthfulness, would provide an accurate guide to the firm&amp;rsquo;s stock price.   And indeed auditing did provide such assurances, up until the early 1980s.  But since that time, the audited measure of &amp;ldquo;Book Value&amp;rdquo; of a firm has steadily diverged from the actual market capitalization of that same firm.  Investors seem to be ignoring the hard work of accountants; indeed they are concluding that auditors and accountants are not really providing useful information for the valuation of a firm.  Look for example at the ratio of book value to market capitalization for the most valuable firms in the US in December 2023:&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Bayesian A/B Decision Models</title>
+      <link>https://westland.github.io/books/bayesian-ab-decision-models/</link>
+      <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
+      <guid>https://westland.github.io/books/bayesian-ab-decision-models/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://westland.github.io/bayes.png&#34; alt=&#34;Bayesian A/B Decision Models&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;forthcoming&lt;/em&gt; Fall 2024, Singapore: World Scientific&lt;/p&gt;&#xA;&lt;p&gt;Bayesian A/B Decision Models is an applied statistics book that delineates the A/B testing methodologies that I have been using successfully in legal cases and e-commerce consulting over the past several years.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Financial Dynamics</title>
-      <link>http://westland.github.io/books/financial-dynamics/</link>
+      <link>https://westland.github.io/books/financial-dynamics/</link>
       <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
-      
-      <guid>http://westland.github.io/books/financial-dynamics/</guid>
-      <description>Purchase on Amazon
-Financial Dynamics and Valuing Technology were my responses to many of the silly theorys, fads and flawed concepts surrounding e-commerce and e-commerce investment in the late 1990s. Most of this material is significantly out of date (20 years out of date). But I believe my perspective on e-commerce and the technology investment market were correct at the time, and have fared well over time.</description>
+      <guid>https://westland.github.io/books/financial-dynamics/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://westland.github.io/financial_dyn.jpg&#34; alt=&#34;Financial Dynamics&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Financial-Dynamics-Technology-Companies-2003-09-25/dp/B01JXTVC6O&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purchase on Amazon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Financial Dynamics and Valuing Technology were my responses to many of the silly theorys, fads and flawed concepts surrounding e-commerce and e-commerce investment in the late 1990s.  Most of this material is significantly out of date (20 years out of date).  But I believe my perspective on e-commerce and the technology investment market were correct at the time, and have fared well over time.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Global Electronic Commerce</title>
-      <link>http://westland.github.io/books/global-electronic-commerce/</link>
+      <link>https://westland.github.io/books/global-electronic-commerce/</link>
       <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
-      
-      <guid>http://westland.github.io/books/global-electronic-commerce/</guid>
-      <description>Purchase on Amazon
-I have studied market micro-structure since the early 1990s, and was enthused when Netscape started promoting &amp;lsquo;Electronic Commerce&amp;rsquo; in the mid-1990s, offering platforms inspired by electronic securities markets (the term and concepts themselves dated from the mid-1980s and the Columbus based Compuserver). I shifted my studies to the consumer product oriented e-commerce platforms. Global Electronic Commerce was a collection of writings I had done, along with my coauthor Ted Clark, concerning our predicted evolution of e-commerce, and the particular competencies, technologies and market structures that were appropriate.</description>
+      <guid>https://westland.github.io/books/global-electronic-commerce/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://westland.github.io/GEC.jpg&#34; alt=&#34;Global Electronic Commerce&#34;&gt;&#xA;&lt;a href=&#34;https://www.amazon.com/Global-Electronic-Commerce-Theory-Studies/dp/0262232057/ref=sr_1_9?crid=1W04C84ZBA77I&amp;amp;keywords=j.&amp;#43;christopher&amp;#43;Westland&amp;amp;qid=1698076663&amp;amp;sprefix=j.&amp;#43;christopher&amp;#43;westland%2Caps%2C97&amp;amp;sr=8-9&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purchase on Amazon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have studied market micro-structure since the early 1990s, and was enthused when Netscape started promoting &amp;lsquo;Electronic Commerce&amp;rsquo; in the mid-1990s, offering platforms inspired by electronic securities markets (the term and concepts themselves dated from the mid-1980s and the Columbus based Compuserver).  I shifted my studies to the consumer product oriented e-commerce platforms.  Global Electronic Commerce was a collection of writings I had done, along with my coauthor Ted Clark, concerning our predicted evolution of e-commerce, and the particular competencies, technologies and market structures that were appropriate.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Global Innovation Management</title>
-      <link>http://westland.github.io/books/global-innovation-managment/</link>
+      <link>https://westland.github.io/books/global-innovation-managment/</link>
       <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
-      
-      <guid>http://westland.github.io/books/global-innovation-managment/</guid>
-      <description>Purchase on Amazon
-Motivation for this BookLink to headingThis second edition of Global Innovation Management updates materials I have been using in classes taught at Hong Kong University of Science and Technology, University of Illinois – Chicago, the Vietnam EMBA and the University of Science and Technology in China. It addresses a question that I have encoun- tered for at least a decade now: ‘If you think you have invented a winning innovation, how can you bring your innovation out of the labo- ratory and turn it into a commercially success- ful product?</description>
+      <guid>https://westland.github.io/books/global-innovation-managment/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://westland.github.io/GIM.jpg&#34; alt=&#34;Global Innovation Management&#34;&gt;&#xA;&lt;a href=&#34;https://www.amazon.com/Global-Innovation-Management-Christopher-Westland/dp/1137520183/ref=sr_1_2?crid=DOQ1SYH616RG&amp;amp;keywords=j&amp;#43;christopher&amp;#43;westland&amp;amp;qid=1698076947&amp;amp;s=books&amp;amp;sprefix=j&amp;#43;christopher&amp;#43;westland&amp;#43;%2Cstripbooks%2C85&amp;amp;sr=1-2&amp;amp;ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purchase on Amazon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;motivation-for-this-book&#34;&gt;&#xD;&#xA;  Motivation for this Book&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#motivation-for-this-book&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This second edition of Global Innovation&#xA;Management updates materials I have been&#xA;using in classes taught at Hong Kong University&#xA;of Science and Technology, University of&#xA;Illinois – Chicago, the Vietnam EMBA and the&#xA;University of Science and Technology in China.&#xA;It addresses a question that I have encoun-&#xA;tered for at least a decade now: ‘If you think&#xA;you have invented a winning innovation, how&#xA;can you bring your innovation out of the labo-&#xA;ratory and turn it into a commercially success-&#xA;ful product?’ It is a question that comes up&#xA;often today, in all areas of industry. The ques-&#xA;tion crosses many disciplines, and is one that I&#xA;wish were pursued more actively in business&#xA;schools.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Valuing Technology</title>
-      <link>http://westland.github.io/books/valuing-technology/</link>
+      <link>https://westland.github.io/books/valuing-technology/</link>
       <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
-      
-      <guid>http://westland.github.io/books/valuing-technology/</guid>
-      <description>Purchase on Amazon
-Financial Dynamics and Valuing Technology were my responses to many of the silly theorys, fads and flawed concepts surrounding e-commerce and e-commerce investment in the late 1990s. Most of this material is significantly out of date (20 years out of date). But I believe my perspective on e-commerce and the technology investment market were correct at the time, and have fared well over time.</description>
+      <guid>https://westland.github.io/books/valuing-technology/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://westland.github.io/val_tech.jpg&#34; alt=&#34;Valuing Technology&#34;&gt;&#xA;&lt;a href=&#34;https://www.amazon.com/Valuing-Technology-Science-Knowledge-Economy/dp/047082056X&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purchase on Amazon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Financial Dynamics and Valuing Technology were my responses to many of the silly theories, fads, and flawed concepts surrounding e-commerce and e-commerce investment in the late 1990s.  Most of this material is significantly outdated (20 years outdated).  However, my perspective on e-commerce and the technology investment market was correct then, and it has fared well over time.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Red Wired</title>
-      <link>http://westland.github.io/books/red-wired/</link>
+      <link>https://westland.github.io/books/red-wired/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://westland.github.io/books/red-wired/</guid>
-      <description>Purchase on Amazon
-I wrote this book with Sherman So, who was Technology editor at the South China Morning Post at a time China was investing heavily in the Internet. China lagged about 7 years behind the US in their infrastructure, so in 2010, their boom was just taking off and almost no one in the West was really looking at China&amp;rsquo;s Internet growth. We reviewed what we felt were the most prominent and influential Internet technology companies in China at that time, focusing on what we believed to be their core competencies.</description>
+      <guid>https://westland.github.io/books/red-wired/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://westland.github.io/redwired.jpg&#34; alt=&#34;Red Wired&#34;&gt;&#xA;&lt;a href=&#34;https://www.amazon.com/Red-Wired-Chinas-Internet-Revolution-ebook/dp/B0089EM8DQ/ref=sr_1_5?crid=1W04C84ZBA77I&amp;amp;keywords=j.&amp;#43;christopher&amp;#43;Westland&amp;amp;qid=1698076611&amp;amp;sprefix=j.&amp;#43;christopher&amp;#43;westland%2Caps%2C97&amp;amp;sr=8-5&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Purchase on Amazon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I wrote this book with Sherman So, who was Technology editor at the South China Morning Post at a time China was investing heavily in the Internet.   China lagged about 7 years behind the US in their infrastructure, so in 2010, their boom was just taking off and almost no one in the West was really looking at China&amp;rsquo;s Internet growth.   We reviewed what we felt were the most prominent and influential Internet technology companies in China at that time, focusing on what we believed to be their core competencies.  Jack Ma had agreed to write a Foreword for the book.  But at this time, Alibaba was going public, and Alibaba management and shareholders prohibited Ma from any external commentaries.  I am happy with the choices we made in the particular companies interviewed for the book, as most of them have remained influential players in China&amp;rsquo;s Internet sector.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

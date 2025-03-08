@@ -2,472 +2,375 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stories on chris westland&#39;s personal website</title>
-    <link>http://westland.github.io/stories/</link>
+    <link>https://westland.github.io/stories/</link>
     <description>Recent content in Stories on chris westland&#39;s personal website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Oct 2023 20:28:09 -0500</lastBuildDate><atom:link href="http://westland.github.io/stories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Oct 2023 20:28:09 -0500</lastBuildDate>
+    <atom:link href="https://westland.github.io/stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>19th Century Green Economy</title>
-      <link>http://westland.github.io/stories/green/</link>
+      <link>https://westland.github.io/stories/green/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/green/</guid>
-      <description>Yet, not so long ago, hydrocarbon fuels represented a sustainable alternative to other ongoing environmen- tal disasters. An 18th-century home had two options for lighting at night – dim, foul-smelling, smoky tallow candles, or expensive beeswax candles. By the turn of
-the 19th century, both technologies were supplanted by sperm oil, which burned more brightly and cleanly. By the 1830s the US was importing nearly five million gallons each year; by the 1850s the sperm whale had been hunted nearly to extinction.</description>
+      <guid>https://westland.github.io/stories/green/</guid>
+      <description>&lt;p&gt;Not so long ago, hydrocarbon fuels represented a sustainable alternative to other ongoing environmental disasters. An 18th-century home had two options for lighting at night – dim, foul-smelling, smoky tallow candles, or expensive beeswax candles. By the turn of the 19th century, both technologies were supplanted by sperm oil, which burned more brightly and cleanly. By the 1830s the US was importing nearly five million gallons each year; by the 1850s the sperm whale had been hunted nearly to extinction. The discovery of oil in Pennsylvania made possible the growth of the petro- leum industry whose main product was kerosene – an alternative to sperm oil. John Rockefeller consolidated and expanded this industry around lighting; he had retired from Standard Oil before the first automobile hit the road.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>40 Lives in Bebop</title>
-      <link>http://westland.github.io/stories/40lives/</link>
+      <link>https://westland.github.io/stories/40lives/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/40lives/</guid>
-      <description>Psychiatrist Geoffrey Wills (2003) studied the lives of 40 of the great innovators in the period 1945–1960 (six trumpeters, three trombonists, four alto saxophonists, one alto doubling tenor saxophonist, five tenor saxo- phonists, three baritone saxophonists, five pianists, five bassists, four drummers, one guitarist, one vibraphonist and two arrangers). Some of the jazz musicians suffered from self-medication; for example Miles Davis devel- oped sickle-cell anaemia and used excessive amounts of cocaine and barbiturates to control the arthritic pain.</description>
+      <guid>https://westland.github.io/stories/40lives/</guid>
+      <description>&lt;p&gt;Psychiatrist Geoffrey Wills (2003) studied the lives of 40 of the great innovators in the period 1945–1960 (six trumpeters, three trombonists, four alto saxophonists, one alto doubling tenor saxophonist, five tenor saxophonists, three baritone saxophonists, five pianists, five bassists, four drummers, one guitarist, one vibraphonist and two arrangers). Some of the jazz musicians suffered from self-medication; for example Miles Davis developed sickle-cell anemia and used excessive amounts of cocaine and barbiturates to control the arthritic pain. As a result, he developed paranoid delusions and auditory hallucinations, searching in his house for imaginary people whose voices he thought he heard. Among Wills’ sample there was a high rate (52.5%) of addiction to heroin at some time during the musicians’ lives. This usage was very likely anomalous, as heroin use was widespread and in fashion among jazz musicians after World War II, but as jazz gradually became more accepted, and as younger musicians saw the harm caused to their older colleagues, usage began to fall off. In other psychological parameters, jazz musicians fared similarly to their classical brethren:&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Artificial Intelligence</title>
-      <link>http://westland.github.io/stories/bebop/</link>
+      <title>Automation of Accounting</title>
+      <link>https://westland.github.io/stories/accounting/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/bebop/</guid>
-      <description>Bebop composer and jazz saxophonist Charles ‘Bird’ Parker, Jr. was known for his innovative use of ninths, elevenths and thirteenths, creating a more colourful and rich harmonic sound than past jazz styles epitomized by the danceable swing of Benny Goodman and Glenn Miller.
-‘Bebop’ is an onomatopoetic imitation of a character- istic quick two-note phrase that is played together by the lead instruments to introduce a solo or end a song; its music is distinguished by fast tempos, complex har- monies, intricate melodies and rhythm sections that lay down a steady beat only on the bass and the drum- mer’s ride cymbal.</description>
+      <guid>https://westland.github.io/stories/accounting/</guid>
+      <description>&lt;p&gt;One of the most radical financial innovations in history was introduced on 7 April 1964. IBM revolutionized the industry with its S/360 line of computers that became the mainstays of corporate accounting. The S/360 ven- ture had been up to that time the largest private venture in American history, with $5 billion spent on five new plants and an additional 60,000 employees. The subsequent decade was marked by a sea change in the structure of corporate accounting departments. Within a decade, corporate accounting departments at Sears, Ford, GM, DuPont and other giants dwindled from huge ‘bullpens’ accommodating hundreds of clerks, to warrens of cubicles housing only 10% to 20% of their original number. The employees who retained their jobs found them dedicated to the care and feeding of computerized accounting systems rather than the actual accounting itself.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Bebop</title>
+      <link>https://westland.github.io/stories/bebop/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/bebop/</guid>
+      <description>&lt;p&gt;Bebop composer and jazz saxophonist Charles ‘Bird’ Parker, Jr. was known for his innovative use of ninths, elevenths and thirteenths, creating a more colourful and rich harmonic sound than past jazz styles epitomized by the danceable swing of Benny Goodman and Glenn Miller.&lt;/p&gt;&#xA;&lt;p&gt;‘Bebop’ is an onomatopoetic imitation of a characteristic quick two-note phrase that is played together by the lead instruments to introduce a solo or end a song; its music is distinguished by fast tempos, complex har- monies, intricate melodies and rhythm sections that lay down a steady beat only on the bass and the drum- mer’s ride cymbal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brains of Great Bolsheviks</title>
+      <link>https://westland.github.io/stories/bolshevik/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/bolshevik/</guid>
+      <description>&lt;p&gt;Leon Trotsky was the first to speak of the need to create the “communist man,” a “super-human” who would represent the highest stage of human evolution. The average Soviet citizen, Trotsky declared, would rise to the creative level of an “Aristotle, Goethe, or Marx.”   Trotsky&amp;rsquo;s call was heeded.  In 1927, Vladimir Bekhterev, a Russian neurologist and rival of Ivan Pavlov, envisioned the Soviets&amp;rsquo; very own &amp;ldquo;Pantheon of Brains.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Lenin’s brain joined those of other proclaimed geniuses in a “Pantheon of Brains,” which displayed the Soviet Union’s finest minds in glass cases.  After Lenin’s death in 1924, Uncle Vlad&amp;rsquo;s brain was dissected by the German neuroscientist Oskar Vogt, then the world’s leading expert in cytoarchitectonics (don&amp;rsquo;t ask &amp;hellip; please). The brain dissection, along with the mummification of Lenin’s body, became part of the effort to uphold the leader’s remains as the infallible foundation of the Soviet state.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Business Strategy</title>
-      <link>http://westland.github.io/stories/strategy/</link>
+      <link>https://westland.github.io/stories/strategy/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/strategy/</guid>
-      <description>As overused as the word strategy is today, its prove- nance as a business term is remarkably recent. Perhaps the first widely read treatise that incorporated strategy as a business concept was historian Alfred DuPont Chandler’s 1962 book Strategy and Structure that pro- filed the relationship between the strategy and corporate departments at General Motors and Sears. A scion of the DuPont family, Chandler used his pedigree and access to determine how the department and organizational struc- ture of a firm relate to its mission – its ‘strategy’.</description>
+      <guid>https://westland.github.io/stories/strategy/</guid>
+      <description>&lt;p&gt;As overused as the word strategy is today, its provenance as a business term is remarkably recent. Perhaps the first widely read treatise that incorporated strategy as a business concept was historian Alfred DuPont Chandler’s 1962 book Strategy and Structure that profiled the relationship between the strategy and corporate departments at General Motors and Sears. A scion of the DuPont family, Chandler used his pedigree and access to determine how the department and organizational structure of a firm relate to its mission – its ‘strategy’. Chandler presciently devoted chapters to technological and market innovation and to the roles of functional departments (the latter had a defining influence on the curriculum and departmental structure of today’s business schools).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Coca-Cola&#39;s Devious Competitors</title>
-      <link>http://westland.github.io/stories/coke/</link>
+      <link>https://westland.github.io/stories/coke/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/coke/</guid>
-      <description>Coca-Cola failed both its story and numbers tests when it concocted a sweeter drink, unofficially dubbed New Coke. New Coke was formulated in response to Pepsi&amp;rsquo;s highly successful &amp;lsquo;Pepsi Challenge &amp;rsquo; advertising campaign which took place in malls, shopping centres and other public locations. A Pepsi representative would set up a table with two unmarked cups, one contain- ing Pepsi and one with (Old) Coke. Shoppers were encouraged to sip both colas, and then select which drink they preferred.</description>
+      <guid>https://westland.github.io/stories/coke/</guid>
+      <description>&lt;p&gt;Coca-Cola failed both its story and numbers tests when it concocted a sweeter drink, unofficially dubbed New Coke. New Coke was formulated in response to Pepsi&amp;rsquo;s highly successful  &amp;lsquo;Pepsi Challenge &amp;rsquo; advertising campaign which took place in malls, shopping centres and other public locations. A Pepsi representative would set up a table with two unmarked cups, one contain- ing Pepsi and one with (Old) Coke. Shoppers were encouraged to sip both colas, and then select which drink they preferred. Pepsi regularly won the  &amp;lsquo;Challenge &amp;rsquo; simply because parched, weary shoppers preferred the sweeter drink. If customers were asked within a minute of comparing drinks, they would usually respond that they preferred the illusion of glucose jolt from sipping the sweeter one. If they had been allowed a few more min- utes, controlled laboratory tests revealed that they would complain that the sweeter drink left them queasy, with a bad taste in their mouth. Additionally, some participant recalled that Pepsi was served chilled while Coke was at flops. The subsequent reintroduction of Coke &amp;rsquo;s original room temperature. But the Coca-Cola Company didn&amp;rsquo;t formula led to a significant gain in sales, with Coca- know that; at least not before it replaced its flagshipCola learning a painful lesson along the way: that it soda with a sweeter Pepsi-bashing  &amp;lsquo;New&amp;rsquo; Coke in 1985. should do its own marketing research in the future Public reaction to the change was devastating. New rather than relying on the advertising campaigns of its Coke quickly entered the pantheon of major marketing competitors.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Continuous Improvement in the Mongol Empire</title>
-      <link>http://westland.github.io/stories/mongol/</link>
+      <link>https://westland.github.io/stories/mongol/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/mongol/</guid>
-      <description>12th-century Mongols were known for dramatic entrances. Under Genghis Khan, their army was incom- parably superior to any other force on earth, wiping out, in their time, most of the European nobility, and sub- duing the powerful armies of the Caliph of Baghdad. Genghis was a great innovator in psychological war- fare, generating his own propaganda which exagger- ated the brutality and decisiveness of his conquests to frighten future opponents. He instituted a professional class of bookkeepers to inventory his spoils and to impose harsh but efficient taxation on the vanquished.</description>
+      <guid>https://westland.github.io/stories/mongol/</guid>
+      <description>&lt;p&gt;12th-century Mongols were known for dramatic entrances. Under Genghis Khan, their army was incomparably superior to any other force on earth, wiping out, in their time, most of the European nobility, and subduing the powerful armies of the Caliph of Baghdad. Genghis was a great innovator in psychological warfare, generating his own propaganda which exaggerated the brutality and decisiveness of his conquests to frighten future opponents. He instituted a professional class of bookkeepers to inventory his spoils and to impose harsh but efficient taxation on the vanquished. He thrived through superior strategy and mobility, which allowed his army to cover thousands of miles in weeks, and conquer and keep large areas of territory even though often being vastly outnumbered. There was no Mongol infantry to slow them down. Horses outnumbered people five to one in Mongolia, and everyone was born into the cavalry.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Creative Minds</title>
-      <link>http://westland.github.io/stories/creative/</link>
+      <link>https://westland.github.io/stories/creative/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/creative/</guid>
-      <description>Alex Chan, the CEO of Unitech Networks in Hong Kong, encourages his 150 consulting and network engineering employees to constantly seek new busi- ness opportunities. In his market, opportunities arise only if demand exists for a product or service, and if his people have the necessary technical expertise. Because an employee’s education in a particular piece of software or hardware may require a lead time of several months, Alex likes to anticipate mar- kets for new switches, routers, software such as WAP 2.</description>
+      <guid>https://westland.github.io/stories/creative/</guid>
+      <description>&lt;p&gt;Alex Chan, the CEO of Unitech Networks in Hong Kong, encourages his 150 consulting and network engineering employees to constantly seek new busi- ness opportunities. In his market, opportunities arise only if demand exists for a product or service, and if his people have the necessary technical expertise. Because an employee’s education in a particular piece of software or hardware may require a lead time of several months, Alex likes to anticipate mar- kets for new switches, routers, software such as WAP 2.0 for phones and so forth by buying the soft- ware or hardware and making it freely available to all of his engineers (often by sticking it in the centre of his office space or making it available from the com- pany’s network). Employees are allowed 10%–20% of their time to ‘play around’ with new equipment or software that Alex feels might ultimately become a future business. In addition, employees are encour- aged to bring their toys in from home (often robots and remote-controlled cars, planes and helicopters) and play with them during off-hours in the work- place. The idea is to (1) keep his employees’ minds active, but not chain them to a rigid set of problems, and (2) keep employees around the workplace at all hours, so it becomes a second home and social club. The approach has proven very successful for Unitech which has experienced low turnover and a profitable, expanding business throughout its 15 years of existence.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dell&#39;s War on Inventory</title>
-      <link>http://westland.github.io/stories/dell/</link>
+      <link>https://westland.github.io/stories/dell/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/dell/</guid>
-      <description>In less than 20 years, Michael Dell built Dell Computer from a small cluttered University of Texas dorm opera- tion to a $25 billion a year company. Dell’s business model has focused on re-engineering its supply chain to minimize the length of time that any inventory needs to be financed by Dell itself. It takes orders and cash up-front – since the advent of web shopping, from its well-designed and functional online store.</description>
+      <guid>https://westland.github.io/stories/dell/</guid>
+      <description>&lt;p&gt;In less than 20 years, Michael Dell built Dell Computer from a small cluttered University of Texas dorm operation to a $25 billion a year company. Dell’s business model has focused on re-engineering its supply chain to minimize the length of time that any inventory needs to be financed by Dell itself. It takes orders and cash up-front – since the advent of web shopping, from its well-designed and functional online store. It negotiates the best prices from suppliers, and forces many suppliers to hold all inventory until a few hours before Dell assembles the product (firms like Sony for monitors will even ship direct to the consumer, using Dell labelled boxes). To do all of this Dell’s fundamental supply-chain objective is to replace as much inventory in the pipeline with information about supplier inventories and production, logistics, customer preferences and anything else that will minimize the inventory that it needs to finance.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Distance from New York to Boston</title>
+      <link>https://westland.github.io/stories/dist/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/dist/</guid>
+      <description>&lt;p&gt;We take for granted today the ability to pick up a telephone or send an email to anywhere in the world and expect the recipient to have that message immediately. But in times past, messages needed physical transport and their transmission time was restricted by geography. Consider the business dealings between New York and Boston.&lt;/p&gt;&#xA;&lt;p&gt;In the early 19th century, the only way a New Yorker could manage a business in Boston was to send an emissary up by stagecoach. That took a day and a half, and a round trip could consume the better part of a week. Things got better as the roads improved, and even better with rail- ways. Along came the telegraph service in the 1840s and 1850s, dropping the delay for pure exchanges of information (which could include monetary transactions) to zero.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Einstein&#39;s Brain</title>
-      <link>http://westland.github.io/stories/einstein/</link>
+      <link>https://westland.github.io/stories/einstein/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/einstein/</guid>
-      <description>Albert Einstein was considered by many to pos- sess the smartest brain on the planet. But for more than two decades after his death in 1955, no one, not even Einstein’s family, knew the whereabouts of that famous brain. Only in 1978, did reporter Steven Levy track Einstein’s brain to one Thomas Harvey, the pathologist who performed the autopsy, removed the brain, dissected it into 240 pieces, and embedded the pieces in a plastic-like substance called celoidin.</description>
+      <guid>https://westland.github.io/stories/einstein/</guid>
+      <description>&lt;p&gt;Albert Einstein was considered by many to pos- sess the smartest brain on the planet. But for more than two decades after his death in 1955, no one, not even Einstein’s family, knew the whereabouts of that famous brain. Only in 1978, did reporter Steven Levy track Einstein’s brain to one Thomas Harvey, the pathologist who performed the autopsy, removed the brain, dissected it into 240 pieces, and embedded the pieces in a plastic-like substance called celoidin. Levy tracked Harvey to his home in Wichita, Kansas, and after a long conversation, Harvey admitted that he had the brain. Out of a box labelled ‘Costa Cider’ he pulled the two Mason jars that contained the brain that had brought about a revolution in science.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Electrical Standards</title>
-      <link>http://westland.github.io/stories/electrical/</link>
+      <link>https://westland.github.io/stories/electrical/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/electrical/</guid>
-      <description>Standards are critical, yet often set haphazardly. Nicola Tesla’s experiments in the 1860s determined that electric motors ran most efficiently with alternating cur- rent at 220 volts and 60 cycles per second. George Westinghouse, the original champion of alternating current, developed his system of generators and trans- formers to run at 133 cycles, but depended on Tesla for motors. For all their efforts, Westinghouse’s engineers were unable to adapt it to 133 cycles, and were instead forced to switch all of their generators to 220 volts at 60 cycles per second.</description>
+      <guid>https://westland.github.io/stories/electrical/</guid>
+      <description>&lt;p&gt;Standards are critical, yet often set haphazardly. Nicola Tesla’s experiments in the 1860s determined that electric motors ran most efficiently with alternating cur- rent at 220 volts and 60 cycles per second. George Westinghouse, the original champion of alternating current, developed his system of generators and trans- formers to run at 133 cycles, but depended on Tesla for motors. For all their efforts, Westinghouse’s engineers were unable to adapt it to 133 cycles, and were instead forced to switch all of their generators to 220 volts at 60 cycles per second. And that would have been the end of it except that his competitor, Thomas Edison, had been running his direct current generators on Pearl Street in New York at 110 volts. When Edison switched to generating alternating current, he ran it through the same cables and substations, so kept the voltage at 110 volts but adopted 60 cycles per second.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Elephant in the Drawing Room</title>
+      <link>https://westland.github.io/stories/elephant/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/elephant/</guid>
+      <description>&lt;p&gt;The craze in the 18th and 19th centuries for billiards in English coffee houses nearly wiped out all of the African and Indian elephants in British colonies. Elephants were poached to near extinction for their ivory tusks. Indeed, in an era before plastics, ivory was the substance that would be used for any product that we would now want to make in plastic. The billiards industry offered a $10,000 prize for a replacement for ivory, a prize ultimately garnered by one John Wesley Hyatt. The winning entry took an explosive and modified it to create camphored nitrocellulose, or celluloid, through a process appropriately named the ‘Hyatt gun method’. Nitrocellulose billiard balls were very affordable and became quite popular, but suffered a disconcerting tendency to explode upon impact. (Given the nature of billiards, this was not uncommon.) They were also quite flammable, and might spontaneously combust if left close to an open fire. One customer, an owner of a billiard parlour in the American West, complained ‘he didn’t personally mind that the balls occasionally exploded, except for the fact that every man in his saloon immediately pulled a gun at the sound’. Celluloid was the very first commercial plastic, and became widely used in film stock, artificial wool clothing (sweaters made from nitrocellulose became known as ‘poof sweaters’ for their tendency to spontaneously combust) and of course, smokeless powder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enigma</title>
+      <link>https://westland.github.io/stories/enigma/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/enigma/</guid>
+      <description>&lt;p&gt;The Enigma machine was any of several German electromechanical rotor cipher machines used after 1918 for enciphering and deciphering secret messages. These were initially intended to securely communicate intellectual property and corporate secrets using emerging technologies in cable and wireless communications. Enigma was invented by the German engineer Arthur Scherbius, whose initial market was corporate. The 1920s boom in technology patents and commercial Scherbius innovated continually, improving the portability innovations was seen to be a fertile market for a deviceand interface of the Enigma. By 1927 his model D was that could reliably encrypt commercial communicawidely used in diplomatic and military service by Sweden, tions. Scherbius’s Enigma was widely seen as the best the Netherlands, the United Kingdom, Japan, Italy, Spain, encryption device on the market but, priced at $20,000 Poland and the United States. At that point Germany’s per unit, was too high for most corporations, who often military took notice of Scherbius’s success, and approfelt that they could make do with less secure encryption. priated the Enigma for its secure communications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fall of MySpace</title>
+      <link>https://westland.github.io/stories/myspace/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/myspace/</guid>
+      <description>&lt;p&gt;When O’Reilly Media broached the concept of Web 2.0 in 2004 the two most highly touted Web 2.0 successes based on number of users were Skype and MySpace. Each benefited from having a major distribution partner- ship during launch: the founders of Skype also founded Kazaa, and promoted the Skype service by advertising it through the Kazaa network of desktop clients. MySpace was promoted through the extensive ResponseBase/ Intermix database. In less than three years, MySpace leapfrogged early social networking leader Friendster to become one of the top five most visited sites in the US, with 46 million unique visitors and 25 billion page views in December 2005.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Father of Sodoku</title>
+      <link>https://westland.github.io/stories/sodoku/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/sodoku/</guid>
+      <description>&lt;p&gt;Chain smoking, unkempt, in jeans and dowdy sweater, Maki Kaji is an unlikely corporate success story. He readily admits that he would rather spend his days hanging out at the racetrack than sitting in his president’s chair at Nikoli, the Tokyo-based company (named after the winning horse in 1980’s Irish 2000 Guineas race) that developed the hugely successful puzzle game Sudoku.&lt;/p&gt;&#xA;&lt;p&gt;Kaji’s education certainly didn’t prepare him for success. In the early 1970s he began studying literature at one of Japan’s most prestigious private colleges, but found it boring. He spent most of the time gambling and playing tennis, quitting college after his first year. He tried being a waiter, a roadie and a construction worker before setting up a small publishing business that indulged his love of gambling and chance.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fender&#39;s Tube Amplifiers</title>
-      <link>http://westland.github.io/stories/fender/</link>
+      <link>https://westland.github.io/stories/fender/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/fender/</guid>
-      <description>Consumer demand is the driver behind commercial suc- cess, and once you have demand for a product, you should do everything possible to hold onto it. Old technol- ogy can sometimes have hidden attractions that are not noticed until consumers begin to deal with their techno- logically more sophisticated replacements. Leo Fender – famous for his eponymous guitars and amplifiers – devel- oped products with just such attractions. In the 1950s, to complement his then ‘radical’ electronic instruments, he built portable amplifier-speaker consoles.</description>
+      <guid>https://westland.github.io/stories/fender/</guid>
+      <description>&lt;p&gt;Consumer demand is the driver behind commercial success, and once you have demand for a product, you should do everything possible to hold onto it. Old technology can sometimes have hidden attractions that are not noticed until consumers begin to deal with their technologically more sophisticated replacements. Leo Fender – famous for his eponymous guitars and amplifiers – developed products with just such attractions. In the 1950s, to complement his then ‘radical’ electronic instruments, he built portable amplifier-speaker consoles. He didn’t design his amplifiers in the 1950s with any thought of the controlled and sustained overdrive, nor any of the other vacuum tube amp qualities that guitar players have come to crave. In fact, his first amp designs were straight out of the RCA vacuum tube handbook.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>First Network Bubble</title>
+      <link>https://westland.github.io/stories/network/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/network/</guid>
+      <description>&lt;p&gt;On Black Thursday, 18 September 1873, the New York banking house of Jay Cooke and Company, the financier of the Northern Pacific Railway, collapsed. The enormous cost of the Civil War, excessive railway building, inflated credit, speculation, overexpansion and capital outlays for new farmland provoked a crisis. In a domino effect, railway bankruptcies and bank failures followed. Over 18% of the country’s railway mileage was in the hands of receivers, iron and steel works were devastated, and business failures led to massive layoffs. Wages plunged by 25%. Over the next four years, business failures reached $775 million ($155 billion in 2002 dollars) and the number of unemployed rose to nearly three million (in a country of 45 million).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>From R to D</title>
-      <link>http://westland.github.io/stories/rd/</link>
+      <link>https://westland.github.io/stories/rd/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/rd/</guid>
-      <description>In the waning days of World War II, Vannevar Bush, the senior science advisor to President Franklin Roosevelt, laid out the blueprint that would dictate the organization or technological innovation for the next half century. This blueprint saw separate roles for academe and industry – universities researched ‘basic science,’ publishing it in journals that industry could access to develop products for the market. In Bush’s words ‘basic research is performed without thought of practical ends’.</description>
+      <guid>https://westland.github.io/stories/rd/</guid>
+      <description>&lt;p&gt;In the waning days of World War II, Vannevar Bush, the senior science advisor to President Franklin Roosevelt, laid out the blueprint that would dictate the organization or technological innovation for the&#xA;next half century. This blueprint saw separate roles for academe and industry – universities researched ‘basic science,’ publishing it in journals that industry could access to develop products for the market. In Bush’s words ‘basic research is performed without thought of practical ends’. Research and development (or R&amp;amp;D for short) was defined as two distinct activities. Organizations developed along the lines perceived by Bush, keeping research scientists safely apart from the more pragmatic engineers. The approach spawned numerous successful university research groups as well as commercial labs like Xerox PARC, AT&amp;amp;T Bell Labs and IBM’s Zurich Research Laboratory. These were places where basic science was done to be handed off later to industry from production and marketing.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Information</title>
-      <link>http://westland.github.io/stories/info/</link>
+      <link>https://westland.github.io/stories/info/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/info/</guid>
-      <description>In the mid-1930s, Claude Shannon established the field of information theory, counting among his many contributions some of the more successful early algorithms for casino gambling and computer chess as well as a formalization of the quantity of information in any collection of data (Shannon, 1948).
-In a business context, Shannon’s view of information can be described in terms of implementing a strategy and observing the consequent outcome.
-Assume that a strategy B is chosen with probability P(B), and outcome A occurs with probability P(A).</description>
+      <guid>https://westland.github.io/stories/info/</guid>
+      <description>&lt;p&gt;In the mid-1930s, Claude Shannon established the field of information theory, counting among his many contributions some of the more successful early algorithms for casino gambling and computer chess as well as a formalization of the quantity of information in any collection of data (Shannon, 1948).&lt;/p&gt;&#xA;&lt;p&gt;In a business context, Shannon’s view of information can be described in terms of implementing a strategy and observing the consequent outcome.&lt;/p&gt;&#xA;&lt;p&gt;Assume that a strategy B is chosen with probability P(B), and outcome A occurs with probability P(A). Then the information that management has about the outcome of control strategy B is P(A|B). Conversely, if we observe outcome A, the probability that management had implemented B is P(B|A). According to Shannon, the information I(A,B) about B that is contained in the dataset, message or observation A is I ( A,B) = log [P(B| A) / P(B)]. If if logarithms of base-2 are used, the unit for I is the ‘bit’ (by far the most common unit used). If base 10 is used then the unit for I is the ‘hartley’ in honour of Ralph Hartley who first proposed a logarithmic measure of information in the 1920s.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Internet of Things</title>
+      <link>https://westland.github.io/stories/thing/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/thing/</guid>
+      <description>&lt;p&gt;Tim O’Reilly, the originator of the Web 2.0 concept, has been actively developing his views on the Internet of Things (IoT). O’Reilly observes that contrary to the standard financial and managerial objectives of gaining efficiency from putting various devices online the IoT is really about human augmentation. But useful applications are inherently different when built on sensors, actuators and data. O’Reilly cites the example of Uber, a company built around location awareness. An Uber driver is an augmented taxi driver, with real-time location awareness. An Uber passenger is an augmented passenger, who knows when the cab will show up. Uber is about eliminating slack time and worry. He notes that people would call Uber’s technology application ‘IoT’ if it utilized a driverless car, but in fact Uber’s business already utilizes the IoT. You can measure, test and change things dynamically at Uber through the interpolation of computer hardware and software into all parts of the business. It is more than just a single sensor in two-way contact with remote cloud servers, or a driver and a rider with a smartphone. There are many different data sets, and many different feedback loops. The ‘Things’ themselves have characteristics that are contingent on context (much as we saw methods in objectoriented code being contingent on their specific usage). These ‘Things’ are on demand; they are load-balanced;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Iridium</title>
-      <link>http://westland.github.io/stories/iridium/</link>
+      <link>https://westland.github.io/stories/iridium/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/iridium/</guid>
-      <description>It can be argued that Motorola’s global decline began with one audacious, overreaching innova- tion: building a mobile network that would cover the earth. The Iridium satellite system was originally to have 77 active satellites, and as such was named for the element iridium, with a nucleus surrounded by 77 electrons. But, to reduce cost, that number of active satellites was reduced to 66 early in planning. The element with atomic number 66 is called dyspro- sium which in Greek means ‘hard to get in contact with’.</description>
+      <guid>https://westland.github.io/stories/iridium/</guid>
+      <description>&lt;p&gt;It can be argued that Motorola’s global decline began with one audacious, overreaching innovation: building a mobile network that would cover the earth. The Iridium satellite system was originally to have 77 active satellites, and as such was named for the element iridium, with a nucleus surrounded by 77 electrons. But, to reduce cost, that number of active satellites was reduced to 66 early in planning. The element with atomic number 66 is called dysprosium which in Greek means ‘hard to get in contact with’. Understandably, the company was less than enthused with either dysprosium or its translation, and stuck with its original name. The system was ultimately sold for less than one-hundredth of its cost.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>It&#39;s a Wonderful Life</title>
-      <link>http://westland.github.io/stories/wonderful/</link>
+      <link>https://westland.github.io/stories/wonderful/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/wonderful/</guid>
-      <description>The American Film Institute called it one of the best films ever made – It’s a Wonderful Life (1946), directed by Frank Capra and based on an original story, The Greatest Gift, written by Philip Van Doren Stern in 1939. Capra bought the script for $10,000 from RKO Pictures who were so anxious to unload the project that they gave Capra three more scripts for free.
-Shot in the spring of 1946, It’s a Wonderful Life opened to moderate commercial and critical success.</description>
+      <guid>https://westland.github.io/stories/wonderful/</guid>
+      <description>&lt;p&gt;The American Film Institute called it one of the best films ever made – It’s a Wonderful Life (1946), directed by Frank Capra and based on an original story, The Greatest Gift, written by Philip Van Doren Stern in 1939. Capra bought the script for $10,000 from RKO Pictures who were so anxious to unload the project that they gave Capra three more scripts for free.&lt;/p&gt;&#xA;&lt;p&gt;Shot in the spring of 1946, It’s a Wonderful Life opened to moderate commercial and critical success. Over time, various mergers and acquisitions eventually put the film in National Telefilm Associates’ library, where through a 1974 clerical error the copyright was not renewed. Once it entered the public domain, many television stations began airing the film without paying royalties.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Lenin and Bogdanov</title>
+      <link>https://westland.github.io/stories/lenin_bogdanov/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/lenin_bogdanov/</guid>
+      <description>&lt;p&gt;In 1909, four years subsequent to the failed Revolution of 1905 and eight years anterior to the triumphant October Revolution, Vladimir Lenin published a  treatise titled &amp;ldquo;Materialism and Empiriocriticism: Critical Comments on a Reactionary Philosophy.&amp;rdquo; This work harbored implicit political implications, directed primarily at Alekksandr Bogdanov, an individual of profound significance within the Bolshevik movement, having co-founded it and served as a principal intellectual figure. It is noteworthy that Lenin had previously treated Bogdanov as both a friend and an ally.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Lightbulbs and Standards</title>
-      <link>http://westland.github.io/stories/light/</link>
+      <link>https://westland.github.io/stories/light/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/light/</guid>
-      <description>The cartoon light bulb is the quintessential symbol of inspiration and innovation. But who actually invented the light bulb? Most Americans would respond with their own national hero Thomas Alva Edison. But it was actually British chemist Humphry Davy that proved the concept in 1809 and British physicist Joseph Wilson Swan that built a practical light bulb in 1878, offering much brighter lighting than the existing gas and arc lighting. Edison was also interested in lighting buildings and streets, but was more systematic in patenting his devices.</description>
+      <guid>https://westland.github.io/stories/light/</guid>
+      <description>&lt;p&gt;The cartoon light bulb is the quintessential symbol of inspiration and innovation. But who actually invented the light bulb? Most Americans would respond with their own national hero Thomas Alva Edison. But it was actually British chemist Humphry Davy that proved the concept in 1809 and British physicist Joseph Wilson Swan that built a practical light bulb in 1878, offering much brighter lighting than the existing gas and arc lighting. Edison was also interested in lighting buildings and streets, but was more systematic in patenting his devices. He attempted to prosecute Swan for patent infringement, eventually merging Swan’s company into his in 1883. Edison not only had patents, but he had developed a ’system’, noting that:&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Mighty Wurlitzer</title>
+      <link>https://westland.github.io/stories/wurlitzer/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/wurlitzer/</guid>
+      <description>&lt;p&gt;Emerson was famously quoted as saying, ‘If a man can write a better book, preach a better sermon, or make a better mousetrap than his neighbor, though he lives in the woods, people will beat a path to his door’. But, as any inventor can tell you, that’s not the way it works in practice. No one more vividly illustrates this than pipe organ builder Robert Hope-Jones.&lt;/p&gt;&#xA;&lt;p&gt;The pipe organ has ancient roots, but only grew in popularity through its association with the Church. Early Christians were enamoured neither of the Cross nor the organ, two objects that would later grow to symbolize the house of God. In the early years, too many Christians met their end on a cross; or alternatively as food for the lions in the Roman circuses to the accompaniment of a primitive pipe organ called a hydraulis. Not until the 11th century did the pipe organ start appearing in churches, ostensibly to provide a clear, euphonious ‘human voice’ that could be heard over that of discordant monks and parishioners. We would hardly recognize the organ of the 11th century – keys the size of two-by-fours, with an action so stiff that the organist, forced to wear leather gloves, came to be known as an ‘organ beater’ (really). Keys got smaller over the ensuing centuries, but there were no great leaps forward until Hope-Jones appeared on the scene.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Moore&#39;s Law</title>
-      <link>http://westland.github.io/stories/moore/</link>
+      <link>https://westland.github.io/stories/moore/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/moore/</guid>
-      <description>During a deep-sea fishing trip in 1965 (so the story is told) Gordon Moore, the co-founder of Intel and its CEO from 1979 to 1987, was musing on the fact that he had noticed in the four years after the first planar integrated circuit was discovered that engi- neers were able to double the transistor density on a manufactured die every year. He thought, ‘Hmm, I wonder how often these things are actually going to double in terms of the number of transistors I can get on the chip’.</description>
+      <guid>https://westland.github.io/stories/moore/</guid>
+      <description>&lt;p&gt;During a deep-sea fishing trip in 1965 (so the story is told) Gordon Moore, the co-founder of Intel and its CEO from 1979 to 1987, was musing on the fact that he had noticed in the four years after the first planar integrated circuit was discovered that engi- neers were able to double the transistor density on a manufactured die every year. He thought, ‘Hmm, I wonder how often these things are actually going to double in terms of the number of transistors I can get on the chip’. And he thought, ‘I know: however many fish I catch today, that’s how many years it’s going to be.’ He got 18 fish; it was 18 months. Whether this story is apocryphal or not, Moore’s estimate that computing power for a given price would double every 18 months stuck. Moore’s Law has proved surprisingly accurate. If the automotive industry had paralleled the computer’s advances in value and efficiency, cars would now cost $5 and would get 250,000 miles to the gallon.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Natrual Monopolies</title>
-      <link>http://westland.github.io/stories/mono/</link>
+      <title>Natural Monopolies</title>
+      <link>https://westland.github.io/stories/mono/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/mono/</guid>
-      <description>Theodore Vail, a former director of the US Postal Service, who had taken great advantage of network innovations such as the railway and the telegraph to make the US Post Office the most efficient and profitable in the world, took control of Bell Telephone (renamed AT&amp;amp;T after J.P. Morgan gained control of the company in 1907). Bell’s patents on the telephone had run out in 1894, and since that time the company had faced intense competition from nearly 6000 other phone companies across the US.</description>
+      <guid>https://westland.github.io/stories/mono/</guid>
+      <description>&lt;p&gt;Theodore Vail, a former director of the US Postal Service, who had taken great advantage of network innovations such as the railway and the telegraph to make the US Post Office the most efficient and profitable in the world, took control of Bell Telephone (renamed AT&amp;amp;T after J.P. Morgan gained control of the company in 1907). Bell’s patents on the telephone had run out in 1894, and since that time the company had faced intense competition from nearly 6000 other phone companies across the US. Vail believed that Bell Telephone’s future would be secure if it could build a national network and function as a national utility before its exclusivity ran out. This was an expensive proposition, but it would be even more expensive for a viable competitor to build out a network to challenge Bell Telephone. In AT&amp;amp;T’s 1908 annual report Vail argued that:&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Network Family</title>
+      <link>https://westland.github.io/stories/family/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/family/</guid>
+      <description>&lt;p&gt;The Vail family played a big part in many of the early network industries in the US. The grandfather of Theodore Vail (see the preceding ‘Natural Monopolies’ box), Lewis Vail, was a civil engineer who moved to Ohio and made his name building networks of canals and highways, relatively new infrastructures at that point in American history. Theodore’s uncle, Stephen Vail, was founder of the Speedwell Iron Works that built much of the mechanical technology that went into the early steamships that crossed the Atlantic Ocean. Stephen, together with his sons George and Alfred Vail, funded inventor Samuel F. B. Morse with the money for his wireless transmitter. Cousin Alfred Vail invented the dot-and-dash&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Numbers Guys</title>
-      <link>http://westland.github.io/stories/numbers_guys/</link>
+      <link>https://westland.github.io/stories/numbers_guys/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/numbers_guys/</guid>
-      <description>Michael Milken was the undisputed champion of the junk bond, and a ponytailed computer programmer made it all possible. Milken headed the New York- based non-investment-grade bond (junk bond) depart- ment when Drexel merged with Burnham and Company in 1973, an operation that earned a remarkable 100% return on investment. By 1976, Milken’s income was estimated at $5 million a year, giving him the influence to move his operation to his hometown Los Angeles in swank offices on Beverly Hills’ Rodeo Drive.</description>
+      <guid>https://westland.github.io/stories/numbers_guys/</guid>
+      <description>&lt;p&gt;Michael Milken was the undisputed champion of the junk bond, and a ponytailed computer programmer made it all possible. Milken headed the New York- based non-investment-grade bond (junk bond) depart- ment when Drexel merged with Burnham and Company in 1973, an operation that earned a remarkable 100% return on investment. By 1976, Milken’s income was estimated at $5 million a year, giving him the influence to move his operation to his hometown Los Angeles in swank offices on Beverly Hills’ Rodeo Drive.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Office Cubicals</title>
-      <link>http://westland.github.io/stories/cubical/</link>
+      <link>https://westland.github.io/stories/cubical/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/cubical/</guid>
-      <description>The ‘Action Office’ grew out of design exercises at the fine arts department of the University of Colorado in late 1960s. The objective was to create a private yet egalitar- ian workspace that unleashed the creative potential of its inhabitants. During the apotheosis of the countercul- ture movement, campus Marxists were keen to end the pervasive corporate ‘bull pens’ (rows of desks in huge open spaces) where most white-collar employees then lived out their working days under the watchful eyes of managers.</description>
+      <guid>https://westland.github.io/stories/cubical/</guid>
+      <description>&lt;p&gt;The ‘Action Office’ grew out of design exercises at the fine arts department of the University of Colorado in late 1960s. The objective was to create a private yet egalitar- ian workspace that unleashed the creative potential of its inhabitants. During the apotheosis of the countercul- ture movement, campus Marxists were keen to end the pervasive corporate ‘bull pens’ (rows of desks in huge open spaces) where most white-collar employees then lived out their working days under the watchful eyes of managers. The birth of the ‘cubicle’ offered both privacy and a way to individualize employee workspace. Intel CEO Andy Grove famously foreswore his suite for an 8 by 9 foot cubicle next to his subordinates. Consultants, who are out of the office a notoriously high percentage of their time, carried this one step further, making the cubicle a movable one, where all their personal effects were stored in portable cabinets which they would roll to whichever cubicle was available. Savings accrued to employers from squeezing employees into tiny cubicles in high-rent markets; productivity and creativity gains were more elusive.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>One-click</title>
-      <link>http://westland.github.io/stories/one_click/</link>
+      <link>https://westland.github.io/stories/one_click/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/one_click/</guid>
-      <description>Jeff Bezos, founder of the online retailer Amazon. com, patented Amazon’s ‘one-click’ checkout pro- cess, a process that was considered by many to be both trivial and obvious. Following the granting of this patent, Bezos used the Amazon.com website to argue that the patent process was flawed because – among other things – it was granting patents to ‘trivial and obvious’ processes like ‘one-click’. Bezos went on to argue that software and software-based processes should not be patentable at all; that pat- ent life should be shortened from their current 20 years to varying lengths that would reflect the inno- vation’s life cycle; and that the USPTO, rather than trying to handle all aspects of patent review them- selves, should create a centralized, searchable data- base of ‘prior art’ and give all competitors and inter- ested parties six months to review patents pending for infringement.</description>
+      <guid>https://westland.github.io/stories/one_click/</guid>
+      <description>&lt;p&gt;Jeff Bezos, founder of the online retailer Amazon. com, patented Amazon’s ‘one-click’ checkout process, a process that was considered by many to be both trivial and obvious. Following the granting of this patent, Bezos used the Amazon.com website to argue that the patent process was flawed because – among other things – it was granting patents to ‘trivial and obvious’ processes like ‘one-click’. Bezos went on to argue that software and software-based processes should not be patentable at all; that patent life should be shortened from their current 20 years to varying lengths that would reflect the innovation’s life cycle; and that the USPTO, rather than trying to handle all aspects of patent review themselves, should create a centralized, searchable database of ‘prior art’ and give all competitors and interested parties six months to review patents pending for infringement. This searchable database has since been created on Google Patent Search.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Open Source</title>
-      <link>http://westland.github.io/stories/open/</link>
+      <link>https://westland.github.io/stories/open/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/open/</guid>
-      <description>Open source software such as Linux operating sys- tem or the Apache netserver provides guides to how the alignment of objectives, an open horizontal struc- ture and voluntary membership can develop innovative, high-quality commercial products. Open source soft- ware is based on the voluntary cooperation of develop- ers in many different locations, with a shared ‘culture’ across a diffuse community of practice. There are mini- mal reporting relationships, assignments and clear lines of responsibility.</description>
+      <guid>https://westland.github.io/stories/open/</guid>
+      <description>&lt;p&gt;Open source software such as Linux operating system or the Apache netserver provides guides to how the alignment of objectives, an open horizontal structure and voluntary membership can develop innovative, high-quality commercial products. Open source software is based on the voluntary cooperation of developers in many different locations, with a shared ‘culture’ across a diffuse community of practice. There are minimal reporting relationships, assignments and clear lines of responsibility. But underneath there is a society based on performance, capability and peer review. There is a distinct division of labour; the software itself is modular, and programmers tend to specialize on particular functional modules. In addition there are diffuse organizations that impose order, like the Apache Software&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parable of the Fish</title>
-      <link>http://westland.github.io/stories/fish/</link>
+      <link>https://westland.github.io/stories/fish/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/fish/</guid>
-      <description>Functional magnetic resonance imaging (fMRI) which measures change in blood flow related to neural activity in the brain and spinal cord has become a core tool in spinal diagnosis in the past two decades. Yet diagno- sis has suffered a crisis of scientific method similar to that of drug R&amp;amp;D. Americans spend $90 billion annu- ally treating back pain – roughly the same amount as is spent on cancer. Until the 1970s, the only remedy for back pain was bed rest, and most patients improved.</description>
+      <guid>https://westland.github.io/stories/fish/</guid>
+      <description>&lt;p&gt;Functional magnetic resonance imaging (fMRI) which measures change in blood flow related to neural activity in the brain and spinal cord has become a core tool in spinal diagnosis in the past two decades. Yet diagnosis has suffered a crisis of scientific method similar to that of drug R&amp;amp;D. Americans spend $90 billion annually treating back pain – roughly the same amount as is spent on cancer. Until the 1970s, the only remedy for back pain was bed rest, and most patients improved. With the advent of MRI in the 1990s, epidurals and surgery were increasingly prescribed, to treat the various ’causes’ of back pain discovered in fMRI scans. Patient recovery decreased.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Pirates of Istanbul</title>
+      <link>https://westland.github.io/stories/pirates/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/pirates/</guid>
+      <description>&lt;p&gt;The late 1980s saw a rise in overseas business schools and an increasing popularity of MBAs taught in English. One British textbook publisher found that in many emerging markets, their entire catalogue of business books was being made available from local pirates operating copy services that reproduced their texts in contravention of copyright laws. Pirates were able to obtain Xeroxed copies of nearly any British text on short notice, including the publisher’s own.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Politics of Innovation</title>
-      <link>http://westland.github.io/stories/politics/</link>
+      <link>https://westland.github.io/stories/politics/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/politics/</guid>
-      <description>In the 1970s, British historian Donald Cardwell sur- veyed two thousand years of developments in science and technology including the most important discover- ies and inventions in human history, from the medieval horse stirrup to nuclear power. Cardwell concluded that “&amp;hellip;no nation has been very creative for more than an historically short period” and that over the long run, nationality is not an important factor in advancing sci- ence and technology.</description>
+      <guid>https://westland.github.io/stories/politics/</guid>
+      <description>&lt;p&gt;In the 1970s, British historian Donald Cardwell surveyed two thousand years of developments in science and technology including the most important discoveries and inventions in human history, from the medieval horse stirrup to nuclear power. Cardwell concluded that “&amp;hellip;no nation has been very creative for more than an historically short period” and that over the long run, nationality is not an important factor in advancing science and technology. Cardwell was unable to explain what political and social inputs were essential for successful science and technology.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Post-Industrial Prophet</title>
+      <link>https://westland.github.io/stories/prophet/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/prophet/</guid>
+      <description>&lt;p&gt;Sociologist Daniel Bell is best known for three particularly influential books: The End of Ideology (1960); The Cultural Contradictions of Capitalism (1976); and The Coming of Post-Industrial Society (1973). In The End of Ideology, Bell argued that the influence of both history and ideology had been subsumed by market forces (foreshadowing the influence of the storytelling of ‘pop culture’ and ‘spin politics’) and that genuine political debate would give way to technocratic guidance from social and cultural elites (foreshadowing political decision making guided by the storytelling of consultants, lobbyists and think tanks), substituting consensus for moral discourse. In The Coming of Post-Industrial Society, Bell outlined a new kind of society – the postindustrial society, arguing that post-industrialism would be information led and service oriented and would replace the industrial society as the dominant system. The post-industrial society would be marked by a shift from manufacturing to services, the centrality of new science-based industries, the rise of new technical elites and the advent of a new principle of social stratification.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prototype</title>
+      <link>https://westland.github.io/stories/prototype/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/prototype/</guid>
+      <description>&lt;p&gt;Ichiro Asai is one of the best motorcyclists in the world, most recently winning the coveted 2001 SuperSports 600cc class FIM Asia Road Racing Championship. He also has one of the most daunting ‘day jobs’ in the world – as a test rider for Yamaha Motorcycles’ prototypes at the factory’s Sugo racetrack near Sendai, Japan. The softly spoken Asai described his job one afternoon during some free time at the Sugo track:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>QWERTY</title>
-      <link>http://westland.github.io/stories/qwerty/</link>
+      <link>https://westland.github.io/stories/qwerty/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/qwerty/</guid>
-      <description>Lighthouses are commonly cited as a natural monop- oly that is provided as a pure public good, in order to improve shipping network efficiencies by preventing wrecks. But nearly three decades ago, economist Ronald Coase showed that when lighthouses were first built in Britain they were provided by private enterprise; tolls
-were collected when ships reached port. Another com- mon example of bees providing a beneficial ‘externality’ by pollinating flowers for free was challenged by econo- mist Steven Cheung who examined beekeeping and apple growing in the state of Washington.</description>
+      <guid>https://westland.github.io/stories/qwerty/</guid>
+      <description>&lt;p&gt;Lighthouses are commonly cited as a natural monopoly that is provided as a pure public good, in order to improve shipping network efficiencies by preventing wrecks. But nearly three decades ago, economist Ronald Coase showed that when lighthouses were first built in Britain they were provided by private enterprise; tolls&lt;/p&gt;&#xA;&lt;p&gt;were collected when ships reached port. Another common example of bees providing a beneficial ‘externality’ by pollinating flowers for free was challenged by economist Steven Cheung who examined beekeeping and apple growing in the state of Washington. He found that apple growers paid beekeepers for their bees’ pollinating endeavours; those services were not, in fact, an unpriced ‘externality’.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rocket Science and Reachability</title>
-      <link>http://westland.github.io/stories/rocket/</link>
+      <link>https://westland.github.io/stories/rocket/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/rocket/</guid>
-      <description>In the summer of 1975 two Viking spacecraft were launched from Cape Canaveral to Mars. On 20 July 1976 the Viking 1 Lander touched down at its prede- termined destination, Chryse Planitia, while the Viking 2 Lander touched down at Utopia Planitia on the opposite side of the planet on 3 September 1976.
-Mechanical and scientific challenges aside, the essen- tial problem faced by the Viking engineers was getting these landers from Cape Canaveral to their Martian destinations.</description>
+      <guid>https://westland.github.io/stories/rocket/</guid>
+      <description>&lt;p&gt;In the summer of 1975 two Viking spacecraft were launched from Cape Canaveral to Mars. On 20 July 1976 the Viking 1 Lander touched down at its predetermined destination, Chryse Planitia, while the Viking 2 Lander touched down at Utopia Planitia on the opposite side of the planet on 3 September 1976.&lt;/p&gt;&#xA;&lt;p&gt;Mechanical and scientific challenges aside, the essential problem faced by the Viking engineers was getting these landers from Cape Canaveral to their Martian destinations. Engineers need to answer two questions. First: ‘Can you get there from here?’. This is called the problem of reachability. Obviously if there is no way to reach Mars with existing technology, any other engineering problems will be moot.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Secret Ingredients</title>
-      <link>http://westland.github.io/stories/secret/</link>
+      <link>https://westland.github.io/stories/secret/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/secret/</guid>
-      <description>The oldest trade secret still under protection by US law is Merchandise 7X – the ‘secret ingredient’ in Coca- Cola, which has remained a secret since its invention in 1886. In 1925, the only written copy of its formula Coca-Cola admits to having was retrieved from a New York bank (where it had been held as collateral on a sugar loan) and reverently laid in a safe deposit box in SunTrust Bank in Atlanta.</description>
+      <guid>https://westland.github.io/stories/secret/</guid>
+      <description>&lt;p&gt;The oldest trade secret still under protection by US law is Merchandise 7X – the ‘secret ingredient’ in CocaCola, which has remained a secret since its invention in 1886. In 1925, the only written copy of its formula Coca-Cola admits to having was retrieved from a New York bank (where it had been held as collateral on a sugar loan) and reverently laid in a safe deposit box in SunTrust Bank in Atlanta. That same year the company set a policy whereby no one could view the formula without written permission from the Board, and then only in the presence of the President, Chairman or Corporate Secretary. Furthermore, the rule dictated that only two company officials would be allowed to know the recipe at any given time, and their identities were never to be disclosed for any reason. The company has admitted to&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Selling the Potato</title>
-      <link>http://westland.github.io/stories/potato/</link>
+      <link>https://westland.github.io/stories/potato/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/potato/</guid>
-      <description>The potato is probably the most widely consumed source of starches in the world, but its introduction into European cuisine four centuries ago was anything but easy. A root native to the Andes, it was introduced to Europe by conquistadors returning from the New World. Potatoes from the start were seen as sinister beings, hid- ing in the soil away from God’s light. Anglican preachers forbade their flocks from eating the new food, but thought it suitable for Catholic countries.</description>
+      <guid>https://westland.github.io/stories/potato/</guid>
+      <description>&lt;p&gt;The potato is probably the most widely consumed source of starches in the world, but its introduction into European cuisine four centuries ago was anything but easy. A root native to the Andes, it was introduced to Europe by conquistadors returning from the New World. Potatoes from the start were seen as sinister beings, hiding in the soil away from God’s light. Anglican preachers forbade their flocks from eating the new food, but thought it suitable for Catholic countries. In Catholic Ireland, landless labourers rented tiny plots from landowners who were interested only in raising cattle or in producing grain for market. A single acre of potatoes and the milk of a single cow was enough to feed a whole Irish family.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Shifting Time and Space</title>
-      <link>http://westland.github.io/stories/time/</link>
+      <link>https://westland.github.io/stories/time/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/time/</guid>
-      <description>Sony’s Betamax videotape technology was in the early 1980s perceived to be a significant threat to the television broadcasters’ business model. It allowed viewers to tape their shows, and then fast forward through sponsors’ advertisements. The US lawsuit Sony Corp. vs. Universal City Studios (1984, the ‘Betamax case’) ultimately went to the US Supreme Court who determined home videotaping to be legal because viewers were deemed to be using it for ‘time shifting’ of TV shows (e.</description>
+      <guid>https://westland.github.io/stories/time/</guid>
+      <description>&lt;p&gt;Sony’s Betamax videotape technology was in the early 1980s perceived to be a significant threat to the television broadcasters’ business model. It allowed viewers to tape their shows, and then fast forward through sponsors’ advertisements. The US lawsuit Sony Corp. vs. Universal City Studios (1984, the ‘Betamax case’) ultimately went to the US Supreme Court who determined home videotaping to be legal because viewers were deemed to be using it for ‘time shifting’ of TV shows (e.g. watching late-night shows during the following day). This precedent was later successfully invoked in October 1998, when the Recording Industry Association of America (RIAA) filed a lawsuit against Diamond Multimedia – maker of the Rio PMP300, the second portable consumer MP3 digital audio player. Diamond successfully argued that MP3 players would be used for ‘space shifting’ of music on CDs (e.g. ripping them off the CD so they could be carried around on the Rio player). The Betamax case was later invoked in MGM vs. Grokster (2005), where the high court agreed that peer-to-peer file sharing software was useful for time and space shifting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sony&#39;s Batteries</title>
-      <link>http://westland.github.io/stories/sony/</link>
+      <link>https://westland.github.io/stories/sony/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/sony/</guid>
-      <description>The cutting-edge of current energy storage technology is the lithium-polymer battery that powers most smartphones, laptops, tablets and other consumer devices. Lithium is the metal with lowest density and with the greatest electrochemical potential and energy-to-weight ratio, so in theory it would be an ideal material for batteries. And indeed, lithium battery technology had been around for most of the 20th century. But the technology really took off in the 1990s, in the wake of the demise of another consumer technology – cassette audiotapes.</description>
+      <guid>https://westland.github.io/stories/sony/</guid>
+      <description>&lt;p&gt;The cutting-edge of current energy storage technology&#xA;is the lithium-polymer battery that powers most smartphones, laptops, tablets and other consumer devices.&#xA;Lithium is the metal with lowest density and with the&#xA;greatest electrochemical potential and energy-to-weight&#xA;ratio, so in theory it would be an ideal material for batteries. And indeed, lithium battery technology had been&#xA;around for most of the 20th century. But the technology&#xA;really took off in the 1990s, in the wake of the demise&#xA;of another consumer technology – cassette audiotapes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Stealing the Company</title>
-      <link>http://westland.github.io/stories/stealing/</link>
+      <link>https://westland.github.io/stories/stealing/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/stealing/</guid>
-      <description>At first it seemed to be nothing more than a routine case of counterfeiting in a country where faking it had become an industry. In mid-2004, managers at the Tokyo head- quarters of the Japanese electronics giant NEC started receiving reports that pirated keyboards and blank CD and DVD discs bearing the company’s branding were on sale in retail outlets in Beijing and Hong Kong. NEC hired a Hong Kong forensics firm, International Risk, to investigate the possible theft of its intellectual property – its brand, its designs, its electronic circuits, its patents.</description>
+      <guid>https://westland.github.io/stories/stealing/</guid>
+      <description>&lt;p&gt;At first it seemed to be nothing more than a routine case of counterfeiting in a country where faking it had become an industry. In mid-2004, managers at the Tokyo headquarters of the Japanese electronics giant NEC started receiving reports that pirated keyboards and blank CD and DVD discs bearing the company’s branding were on sale in retail outlets in Beijing and Hong Kong. NEC hired a Hong Kong forensics firm, International Risk, to investigate the possible theft of its intellectual property – its brand, its designs, its electronic circuits, its patents. After two years and thousands of hours of investigation in conjunction with law enforcement agencies in China, Taiwan and Japan, the firm discovered something much more sinister than a few impromptu workshops turning out inferior copies of NEC products. The pirates were faking the whole company.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>The Automation of Accounting</title>
-      <link>http://westland.github.io/stories/accounting/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/accounting/</guid>
-      <description>One of the most radical financial innovations in history was introduced on 7 April 1964. IBM revolutionized the industry with its S/360 line of computers that became the mainstays of corporate accounting. The S/360 ven- ture had been up to that time the largest private venture in American history, with $5 billion spent on five new plants and an additional 60,000 employees. The sub- sequent decade was marked by a sea change in the structure of corporate accounting departments.</description>
-    </item>
-    
-    <item>
-      <title>The Distance from New York to Boston</title>
-      <link>http://westland.github.io/stories/dist/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/dist/</guid>
-      <description>We take for granted today the ability to pick up a tele- phone or send an email to anywhere in the world and expect the recipient to have that message immediately. But in times past, messages needed physical transport and their transmission time was restricted by geogra- phy. Consider the business dealings between New York and Boston (Figure 8.13).
-In the early 19th century, the only way a New Yorker could manage a business in Boston was to send an emissary up by stagecoach.</description>
-    </item>
-    
-    <item>
-      <title>The Elephant in the Drawing Room</title>
-      <link>http://westland.github.io/stories/elephant/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/elephant/</guid>
-      <description>The craze in the 18th and 19th centuries for billiards in English coffee houses nearly wiped out all of the African and Indian elephants in British colonies. Elephants were poached to near extinction for their ivory tusks. Indeed, in an era before plastics, ivory was the substance that would be used for any product that we would now want to make in plastic. The billiards industry offered a $10,000 prize for a replacement for ivory, a prize ultimately garnered by one John Wesley Hyatt.</description>
-    </item>
-    
-    <item>
-      <title>The Enigma</title>
-      <link>http://westland.github.io/stories/enigma/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/enigma/</guid>
-      <description>The Enigma machine was any of several German electromechanical rotor cipher machines used after 1918 for enciphering and deciphering secret messages. These were initially intended to securely communicate intellectual property and corporate secrets using emerg- ing technologies in cable and wireless communications. Enigma was invented by the German engineer Arthur Scherbius, whose initial market was corporate. The 1920s boom in technology patents and commercial Scherbius innovated continually, improving the portability innovations was seen to be a fertile market for a deviceand interface of the Enigma.</description>
-    </item>
-    
-    <item>
-      <title>The Fall of MySpace</title>
-      <link>http://westland.github.io/stories/myspace/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/myspace/</guid>
-      <description>When O’Reilly Media broached the concept of Web 2.0 in 2004 the two most highly touted Web 2.0 successes based on number of users were Skype and MySpace. Each benefited from having a major distribution partner- ship during launch: the founders of Skype also founded Kazaa, and promoted the Skype service by advertising it through the Kazaa network of desktop clients. MySpace was promoted through the extensive ResponseBase/ Intermix database. In less than three years, MySpace leapfrogged early social networking leader Friendster to become one of the top five most visited sites in the US, with 46 million unique visitors and 25 billion page views in December 2005.</description>
-    </item>
-    
-    <item>
-      <title>The Father of Sodoku</title>
-      <link>http://westland.github.io/stories/sodoku/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/sodoku/</guid>
-      <description>Chain smoking, unkempt, in jeans and dowdy sweater, Maki Kaji is an unlikely corporate success story. He read- ily admits that he would rather spend his days hanging out at the racetrack than sitting in his president’s chair at Nikoli, the Tokyo-based company (named after the winning horse in 1980’s Irish 2000 Guineas race) that developed the hugely successful puzzle game Sudoku.
-Kaji’s education certainly didn’t prepare him for suc- cess.</description>
-    </item>
-    
-    <item>
-      <title>The First Network Bubble</title>
-      <link>http://westland.github.io/stories/network/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/network/</guid>
-      <description>On Black Thursday, 18 September 1873, the New York banking house of Jay Cooke and Company, the financier of the Northern Pacific Railway, collapsed. The enormous cost of the Civil War, excessive railway building, inflated credit, speculation, overexpansion and capital outlays for new farmland provoked a crisis. In a domino effect, railway bankruptcies and bank failures followed. Over 18% of the country’s railway mileage was in the hands of receivers, iron and steel works were devastated, and business failures led to massive layoffs.</description>
-    </item>
-    
-    <item>
-      <title>The Internet of Things</title>
-      <link>http://westland.github.io/stories/thing/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/thing/</guid>
-      <description>Tim O’Reilly, the originator of the Web 2.0 concept, has been actively developing his views on the Internet of Things (IoT). O’Reilly observes that contrary to the standard financial and managerial objectives of gaining efficiency from putting various devices online the IoT is really about human augmentation. But useful appli- cations are inherently different when built on sensors, actuators and data. O’Reilly cites the example of Uber, a company built around location awareness.</description>
-    </item>
-    
-    <item>
-      <title>The Mighty Wurlitzer</title>
-      <link>http://westland.github.io/stories/wurlitzer/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/wurlitzer/</guid>
-      <description>Emerson was famously quoted as saying, ‘If a man can write a better book, preach a better sermon, or make a better mousetrap than his neighbor, though he lives in the woods, people will beat a path to his door’. But, as any inventor can tell you, that’s not the way it works in practice. No one more vividly illustrates this than pipe organ builder Robert Hope-Jones.
-The pipe organ has ancient roots, but only grew in popularity through its association with the Church.</description>
-    </item>
-    
-    <item>
-      <title>The Network Family</title>
-      <link>http://westland.github.io/stories/family/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/family/</guid>
-      <description>The Vail family played a big part in many of the early net- work industries in the US. The grandfather of Theodore Vail (see the preceding ‘Natural Monopolies’ box), Lewis Vail, was a civil engineer who moved to Ohio and made his name building networks of canals and highways, relatively new infrastructures at that point in American history. Theodore’s uncle, Stephen Vail, was founder of the Speedwell Iron Works that built much of the mechanical technology that went into the early steam- ships that crossed the Atlantic Ocean.</description>
-    </item>
-    
-    <item>
-      <title>The Pirates of Istanbul</title>
-      <link>http://westland.github.io/stories/pirates/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/pirates/</guid>
-      <description>The late 1980s saw a rise in overseas business schools and an increasing popularity of MBAs taught in English. One British textbook publisher found that in many emerging markets, their entire catalogue of business books was being made available from local pirates operating copy services that reproduced their texts in contravention of copyright laws. Pirates were able to obtain Xeroxed copies of nearly any British text on short notice, including the publisher’s own.</description>
-    </item>
-    
-    <item>
-      <title>The Post-Industrial Prophet</title>
-      <link>http://westland.github.io/stories/prophet/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/prophet/</guid>
-      <description>Sociologist Daniel Bell is best known for three particularly influential books: The End of Ideology (1960); The Cultural Contradictions of Capitalism (1976); and The Coming of Post-Industrial Society (1973). In The End of Ideology, Bell argued that the influence of both history and ideology had been subsumed by market forces (foreshadowing the influence of the storytelling of ‘pop culture’ and ‘spin politics’) and that genuine political debate would give way to technocratic guidance from social and cultural elites (foreshadowing political deci- sion making guided by the storytelling of consultants, lobbyists and think tanks), substituting consensus for moral discourse.</description>
-    </item>
-    
-    <item>
-      <title>The Prototype</title>
-      <link>http://westland.github.io/stories/prototype/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/prototype/</guid>
-      <description>Ichiro Asai is one of the best motorcyclists in the world, most recently winning the coveted 2001 SuperSports 600cc class FIM Asia Road Racing Championship. He also has one of the most daunting ‘day jobs’ in the world – as a test rider for Yamaha Motorcycles’ prototypes at the factory’s Sugo racetrack near Sendai, Japan. The softly spoken Asai described his job one afternoon during some free time at the Sugo track:</description>
-    </item>
-    
-    <item>
-      <title>The Wife-o-meter</title>
-      <link>http://westland.github.io/stories/wife/</link>
-      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/wife/</guid>
-      <description>One path to great innovation is to challenge the industry’s figure of merit. Shigeru Miyamoto – master designer behind Nintendo’s innovative and highly successful Wii console, and games like Donkey Kong, Super Mario World and Goldeneye – wanted in early 2006 to look beyond the traditional gaming market which was mainly competing on graphics speed and resolution. Rather than following the same old, but true, gaming conven- tions, Miyamoto started to think about games for the non-gamer – namely his wife.</description>
-    </item>
-    
     <item>
       <title>Theremin</title>
-      <link>http://westland.github.io/stories/theremin/</link>
+      <link>https://westland.github.io/stories/theremin/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/theremin/</guid>
-      <description>Léon Theremin led a rich and interesting life. A bril- liant scientist and darling of Lenin and the Soviet State, he defected to the US in 1927 on a Soviet technology tour; became a New York and Hollywood music celebrity; married a young African-American ballerina, Lavinia Williams – scandalous in those days; and was later kidnapped by KGB agents in New York and spirited back to the Soviet Union. His most famous invention was the ‘theremin’, the first electronic musical instrument; his second most famous invention was a listening device, ‘the Thing’, that hung for seven years in plain view in the US Ambassador’s Moscow office and enabled Soviet agents to eavesdrop on secret conversations.</description>
+      <guid>https://westland.github.io/stories/theremin/</guid>
+      <description>&lt;p&gt;Léon Theremin led a rich and interesting life. A brilliant scientist and darling of Lenin and the Soviet State, he defected to the US in 1927 on a Soviet technology tour; became a New York and Hollywood music celebrity; married a young African-American ballerina, Lavinia Williams – scandalous in those days; and was later kidnapped by KGB agents in New York and spirited back to the Soviet Union. His most famous invention was the ‘theremin’, the first electronic musical instrument; his second most famous invention was a listening device, ‘the Thing’, that hung for seven years in plain view in the US Ambassador’s Moscow office and enabled Soviet agents to eavesdrop on secret conversations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Too Small for Humans</title>
-      <link>http://westland.github.io/stories/small/</link>
+      <link>https://westland.github.io/stories/small/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/small/</guid>
-      <description>Before the early 1980s, most hard disks had 8-inch or 14-inch platters and required an equipment rack and lots of floor space; large removable media disks were even referred to as washing machines. Most drew high-current and some required three-phase power hookups due to the large motors they used. Hand labour was extensive in their production – indeed, one reason they were large was that toler- ances were not very tight.</description>
+      <guid>https://westland.github.io/stories/small/</guid>
+      <description>&lt;p&gt;Before the early 1980s, most hard disks had 8-inch or 14-inch platters and required an equipment rack and lots of floor space; large removable media disks were even referred to as washing machines. Most drew high-current and some required three-phase power hookups due to the large motors they used. Hand labour was extensive in their production – indeed, one reason they were large was that tolerances were not very tight. The advent of minicomputers and then PCs brought a demand for smaller 3.5-inch disk drives; at the same time, rising factory costs forced firms to move production off-shore to lower-cost Asian countries – especially Malaysia and Thailand. In the early 1990s, the Asian disk drive industry employed around 50,000 people assembling these drives. But as technologies advanced and spawned 2.5-inch, then 1.3-inch drives, the drives themselves became too small for human hands, and factories were forced to automate, even if the costs of production went up. By 2000, factory employment in the disk drive industry had dropped to around 5000 people, with almost no human hand ever touching a disk drive.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Vacuum Tubes: The Market for Niche Innovations</title>
-      <link>http://westland.github.io/stories/tubes/</link>
+      <link>https://westland.github.io/stories/tubes/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/tubes/</guid>
-      <description>Vacuum Tubes: The Market for Niche Innovations
-Vacuum tube amplification has been around for a long time. Thomas Edison first observed in 1883 that a current flowed between the filament of an incandes- cent lamp and a plate in the vacuum near it when the plate was connected to the positive end of the fila- ment, but not when the plate was connected to the negative side. In 1899, J. J.</description>
+      <guid>https://westland.github.io/stories/tubes/</guid>
+      <description>&lt;p&gt;Vacuum Tubes: The Market for Niche Innovations&lt;/p&gt;&#xA;&lt;p&gt;Vacuum tube amplification has been around for a long time. Thomas Edison first observed in 1883 that a current flowed between the filament of an incandescent lamp and a plate in the vacuum near it when the plate was connected to the positive end of the filament, but not when the plate was connected to the negative side. In 1899, J. J. Thomson showed that this Edison Effect was due to a stream of negatively charged particles, electrons, that could be guided by electric and magnetic fields. Further developments led Lee de Forest to patent the Audion triode vacuum tube (also known as a ‘valve’) which was immediately put to use in audio amplifiers. For more than a half century, these devices were the preferred choice for amplifying music.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Viagra – The First Blockbuster Drug</title>
-      <link>http://westland.github.io/stories/viagra/</link>
+      <link>https://westland.github.io/stories/viagra/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/viagra/</guid>
-      <description>In 1991, inventors Andrew Bell, Dr David Brown and Dr Nicholas Terrett (also Pfizer employees at Kent) discovered that chemical compounds belonging to the pyrazolopy- rimidinone class were useful in treating heart problems such as angina. Terrett was named in the 1991 British patent for sildenafil citrate (later trade-named Viagra) as a heart medi- cine, and some experts consider him as the father of Viagra.
-Terrett, named in the 1991 British patent, and one of the first to document the erectile side effect in 1994, became known as ‘the father of Viagra’.</description>
+      <guid>https://westland.github.io/stories/viagra/</guid>
+      <description>&lt;p&gt;In 1991, inventors Andrew Bell, Dr David Brown and Dr Nicholas Terrett (also Pfizer employees at Kent) discovered that chemical compounds belonging to the pyrazolopyrimidinone class were useful in treating heart problems such as angina. Terrett was named in the 1991 British patent for sildenafil citrate (later trade-named Viagra) as a heart medicine, and some experts consider him as the father of Viagra.&lt;/p&gt;&#xA;&lt;p&gt;Terrett, named in the 1991 British patent, and one of the first to document the erectile side effect in 1994, became known as ‘the father of Viagra’. Pfizer claims that hundreds of inventors were involved with the creation of Viagra and there was not enough room on the patent application to name them all, so only the department heads were listed. Dr Simon Campbell, who until recently was the Senior Vice President of Medicinal Discovery at Pfizer and oversaw Viagra’s development, is considered by the American press to be the inventor of Viagra. Campbell himself preferred to be known as the father of Amlodipine (a cardiovascular drug), deferring to Terrett in this honour. ‘I’m like Columbus’, commented Campbell (never the modest type) on Viagra’s development.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Waves of Innovation</title>
-      <link>http://westland.github.io/stories/waves/</link>
+      <link>https://westland.github.io/stories/waves/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/stories/waves/</guid>
-      <description>The economist Joseph Schumpeter observed that a healthy economy was not one in equilibrium, but one that was constantly being ‘disrupted’ by technologi- cal innovation. Others before him had noticed ‘long waves’ of economic activity, notably the Russian economist, Nikolai Kondratieff, who drew attention to them in 1925, using data on prices, wages and interest rates as well as industrial production and consumption drawn from France, Britain and the US. In Schumpeter’s view, each of these long business cycles was unique, driven by entirely different clusters of industries.</description>
+      <guid>https://westland.github.io/stories/waves/</guid>
+      <description>&lt;p&gt;The economist Joseph Schumpeter observed that a healthy economy was not one in equilibrium, but one that was constantly being ‘disrupted’ by technological innovation. Others before him had noticed ‘long waves’ of economic activity, notably the Russian economist, Nikolai Kondratieff, who drew attention to them in 1925, using data on prices, wages and interest rates as well as industrial production and consumption drawn from France, Britain and the US. Kondratieff perished in Stalin&amp;rsquo;s purges, and his work was only rediscovered after Schumpeter. In Schumpeter’s view, each of these long business cycles was unique, driven by entirely different clusters of industries. A long upswing in a cycle started when a new set of innovations came into general use – as happened with water power, textiles and iron in the late 18th century; steam, rail and steel in the mid-19th century; and electricity, chemicals and the internal combustion engine at the turn of the 20th century. In turn, each upswing stimulated investment and an expansion of the economy. These long booms waned as the technologies matured and returns to investors declined.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Wife-o-meter</title>
+      <link>https://westland.github.io/stories/wife/</link>
+      <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
+      <guid>https://westland.github.io/stories/wife/</guid>
+      <description>&lt;p&gt;One path to great innovation is to challenge the industry’s figure of merit. Shigeru Miyamoto – master designer behind Nintendo’s innovative and highly successful Wii console, and games like Donkey Kong, Super Mario World and Goldeneye – wanted in early 2006 to look beyond the traditional gaming market which was mainly competing on graphics speed and resolution. Rather than following the same old, but true, gaming conven- tions, Miyamoto started to think about games for the non-gamer – namely his wife. To do this, he needed a new figure of merit for game and console performance, one that would measure how appealing a game is to non-gamer. He called this the ‘Wife-o-meter’ – a whim- sical measure of the strength of his wife’s attraction or aversion to a particular game.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

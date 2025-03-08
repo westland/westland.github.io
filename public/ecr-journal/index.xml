@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ECR Journals on chris westland&#39;s personal website</title>
+    <link>https://westland.github.io/ecr-journal/</link>
+    <description>Recent content in ECR Journals on chris westland&#39;s personal website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Oct 2023 15:58:37 -0500</lastBuildDate>
+    <atom:link href="https://westland.github.io/ecr-journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electronic Commerce Research</title>
+      <link>https://westland.github.io/ecr-journal/electronic-commerce-research/</link>
+      <pubDate>Sat, 21 Oct 2023 15:58:37 -0500</pubDate>
+      <guid>https://westland.github.io/ecr-journal/electronic-commerce-research/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://westland.github.io/ECR.png&#34; alt=&#34;Electronic Commerce Research&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://link.springer.com/journal/10660&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explore our most recent articles at ECR&amp;rsquo;s home page&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Electronic Commerce Research&lt;/em&gt; is a peer-reviewed journal that disseminates the latest findings in all aspects of e-commerce.&lt;/p&gt;&#xA;&lt;p&gt;Explores core enabling technologies and their societal, economic, and individual implications.&#xA;Publishes theoretical and empirical research contributing to a better understanding of electronic commerce.&#xA;Serves as a forum for new research in electronic commerce.&#xA;Features periodic issues dedicated to a specific specialized area.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

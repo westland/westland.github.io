@@ -2,57 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viewpoints on chris westland&#39;s personal website</title>
-    <link>http://westland.github.io/viewpoints/</link>
+    <link>https://westland.github.io/viewpoints/</link>
     <description>Recent content in Viewpoints on chris westland&#39;s personal website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Oct 2023 20:28:09 -0500</lastBuildDate><atom:link href="http://westland.github.io/viewpoints/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Oct 2023 20:28:09 -0500</lastBuildDate>
+    <atom:link href="https://westland.github.io/viewpoints/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Intelligence</title>
-      <link>http://westland.github.io/viewpoints/ai/</link>
+      <link>https://westland.github.io/viewpoints/ai/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/viewpoints/ai/</guid>
-      <description>Artificial intelligence you say? I prefer the term &amp;ldquo;machine learning&amp;rdquo; which more accurately describes this technology. But &amp;ldquo;artificial intelligence&amp;rdquo; or &amp;ldquo;AI&amp;rdquo; is what has caught the attention of the sensationalist press, and it&amp;rsquo;s been either a theme or McGuffin in science fiction plots since William Grove&amp;rsquo;s 1889 novel Wreck of the World. AI in fiction is too often anthropomorphized as a competing species that facilitates the human apocalypse. Doomsday sells &amp;ndash; it&amp;rsquo;s a lot more exciting than reality.</description>
+      <guid>https://westland.github.io/viewpoints/ai/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Artificial intelligence&lt;/em&gt; you say?  I prefer the term &amp;ldquo;machine learning&amp;rdquo; which more accurately describes this technology.  But &amp;ldquo;artificial intelligence&amp;rdquo; or &amp;ldquo;AI&amp;rdquo; is what has caught the attention of the sensationalist press, and it&amp;rsquo;s been either a theme or McGuffin in science fiction plots since William Grove&amp;rsquo;s 1889 novel &lt;em&gt;Wreck of the World&lt;/em&gt;.  AI in fiction is too often anthropomorphized as a competing species that facilitates the human apocalypse. Doomsday sells &amp;ndash; it&amp;rsquo;s a lot more exciting than reality.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Computers and Analytics</title>
-      <link>http://westland.github.io/viewpoints/choices/</link>
+      <title>Auditing &amp; Accounting</title>
+      <link>https://westland.github.io/viewpoints/choices/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/viewpoints/choices/</guid>
-      <description>New organs of perception come about from necessity. Therefore, O man, increase your necessity, so that you many increase your perception! (Rūmī, 13th century)
-I began my career in 1973 as a staff accountant in the Chicago office of Touche Ross (a predecessor firm to Deloitte Touche Tohmatsu). Computers were new to accounting in those days. IBM had introduced its System 360 in 1964 (S/360 referred to the architecture’s wide scope: 360 degrees to cover the entire circle of possible uses).</description>
+      <guid>https://westland.github.io/viewpoints/choices/</guid>
+      <description>&lt;p&gt;I began my career in 1973 as a staff accountant in the Chicago office of Touche Ross (a predecessor firm to Deloitte Touche&#xA;Tohmatsu). Computers were new to accounting in those days. IBM had introduced its System 360 in 1964 (S/360 referred to&#xA;the architecture’s wide scope: 360 degrees to cover the entire circle of possible uses). By 1973, these were becoming fixtures&#xA;in the accounting systems of large corporations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Future</title>
-      <link>http://westland.github.io/viewpoints/future/</link>
+      <link>https://westland.github.io/viewpoints/future/</link>
       <pubDate>Sat, 21 Oct 2023 20:28:09 -0500</pubDate>
-      
-      <guid>http://westland.github.io/viewpoints/future/</guid>
-      <description>My predictions for our long-term future evolved over the years, influenced by technology, experience and observation. My &amp;lsquo;worldview&amp;rsquo; today is informed by my perspectives on tribes, empire and technology. From these I have synthesized my personal prediction of a near future that I hope to live to see.
-Tribes: Humans in their current form have lived on Earth for around 200,000 years, in what Paul Seabright called a society of ‘murder, reciprocity, trust, hoarding and stealing’ that arose when early man was forced from the trees into the more brutal environment of the savannahs.</description>
+      <guid>https://westland.github.io/viewpoints/future/</guid>
+      <description>&lt;p&gt;My predictions for our long-term future evolved over the years, influenced by technology, experience and observation.  My &amp;lsquo;worldview&amp;rsquo; today is informed by my perspectives on tribes, empire and technology.   From these I have synthesized my personal prediction of a near future that I hope to live to see.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tribes:&lt;/strong&gt; Humans in their current form have lived on Earth for around 200,000 years, in what Paul Seabright called a society of &lt;a href=&#34;https://www.amazon.com/Company-Strangers-Natural-History-Economic/dp/0691146462&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘murder, reciprocity, trust, hoarding and stealing’&lt;/a&gt; that arose when early man was forced from the trees into the more brutal environment of the savannahs.  To understand the &lt;a href=&#34;https://www.nytimes.com/1956/08/28/archives/the-political-soap-opera.html&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;soap opera&lt;/a&gt; enveloping modern politics, academe, celebrity gossip, and war, look no further than these societies of &lt;a href=&#34;https://en.wikipedia.org/wiki/Dunbar%27s_number&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;150&lt;/a&gt; or so naked apes.  Take away the technology and little has changed today.  Our brains have shrunk about 10% over this period, so if anything we are a bit stupider than our forebears.  If we had truly advanced beyond primitive society, we would be solving our problems and looking for efficient ways to implement those solutions.  Instead, our first choice as the arbiter of social problems is tribal warfare.  Mechanized war gives us the power to act out our grievances from the comfort of our La-Z-Boy.  We declare war on countries, but also on arbitrary &amp;ldquo;terrorists and criminals&amp;rdquo; who somehow inconvenience us, and even bizarrely, on abstractions (cancer, drugs, foreign religions).  Our greatest and most expensive innovations have been arbitrary, amorphous and ever more bloody conflicts of choice.  In the boredom of modern life, &lt;a href=&#34;https://www.amazon.com/War-Force-that-Gives-Meaning/dp/1400034639&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;War Is a Force that Gives Us Meaning&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Blockchain Cheerleaders</title>
+      <link>https://westland.github.io/viewpoints/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://westland.github.io/viewpoints/blockchain/</guid>
+      <description>&lt;p&gt;Not everything that comes out of business schools is erudite, and a recent stream of silliness about blockchains has inspired me to write this short piece. There has been a proliferation of books and articles that argue that blockchain-enabled supply chains eliminate the manufacturer&amp;rsquo;s incentive to misreport and will make supply chains fully transparent, improving security for retailers and safety for consumers. Dig deeper, and this is nothing more than baseless cheerleading for another expenditure without serious analysis of the underlying problem.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Conspiracies</title>
-      <link>http://westland.github.io/viewpoints/conspiracies/</link>
+      <link>https://westland.github.io/viewpoints/conspiracies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://westland.github.io/viewpoints/conspiracies/</guid>
-      <description>10,000 years ago, societies of ~150 hunted, gathered, subsistence farmed, and at the end of the day, sat around the firepit exchanging stories. Everyone could contribute in this egalitarian contest of fabulist tales, the most entertaining conferring status and legitimacy on their narrators. Science, law, ethics thus gleaned were unreliable and fluid, captive in a Gossip Trap where influence trumped fact. Egyptian priests melded stories with nilometers to predict crop yield, and elaborate cosmologies to predict heavenly events.</description>
+      <guid>https://westland.github.io/viewpoints/conspiracies/</guid>
+      <description>&lt;p&gt;10,000 years ago, societies of &lt;a href=&#34;https://en.wikipedia.org/wiki/Dunbar%27s_number&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;~150&lt;/a&gt; hunted, gathered, subsistence farmed, and at the end of the day, sat around the firepit exchanging stories. Everyone could contribute in this egalitarian contest of fabulist tales, the most entertaining conferring status and legitimacy on their narrators.  Science, law, ethics thus gleaned were unreliable and fluid, captive in a &lt;a href=&#34;https://theconversation.com/dunbars-number-why-my-theory-that-humans-can-only-maintain-150-friendships-has-withstood-30-years-of-scrutiny-160676&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gossip Trap&lt;/a&gt; where influence trumped fact.  Egyptian priests melded stories with nilometers to predict crop yield, and elaborate cosmologies to predict heavenly events.  These driblets of science allowed them to grow rich and powerful, fielding religious orders, armies and construction crews.  Priests were the curators and interpreters of news, law, science, and morality in service of royalty; they broadcast to their flock through temple sermons and ceremony.  And so it was for millenia as religions proliferated on the back of new technologies for domination and warfare.  Printing, telegraph, radio and TV were the &lt;a href=&#34;https://www.amazon.com/American-Gods-Neil-Gaiman/dp/0380973650/ref=asc_df_0380973650/?tag=hyprod-20&amp;amp;linkCode=df0&amp;amp;hvadid=312114918153&amp;amp;hvpos=&amp;amp;hvnetw=g&amp;amp;hvrand=14977556065872423235&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=9029978&amp;amp;hvtargid=pla-432992956489&amp;amp;psc=1&amp;amp;tag=&amp;amp;ref=&amp;amp;adgrpid=58874700661&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvadid=312114918153&amp;amp;hvpos=&amp;amp;hvnetw=g&amp;amp;hvrand=14977556065872423235&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=9029978&amp;amp;hvtargid=pla-432992956489&amp;amp;gclid=Cj0KCQiAj_CrBhD-ARIsAIiMxT-XHLTqXOsT14Fe8V3MQJwXzUGaGOXv28CTwfDOtML8lgJSjChpSd4aAt0BEALw_wcB&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new Gods of technology&lt;/a&gt;, and information flowed in only one direction &amp;ndash; from curators to the people.  All was well (so it seemed).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My Origins</title>
-      <link>http://westland.github.io/viewpoints/my-story/</link>
+      <link>https://westland.github.io/viewpoints/my-story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://westland.github.io/viewpoints/my-story/</guid>
-      <description>I was born towards the end of 1949 when the World was a vastly different place. I come from a military and sales family, and to my knowledge, am the first in my extended family to receive a PhD and to find a home in academia. My grandfather fought in WWI and was Bernard Baruch&amp;rsquo;s logistics assistant in the European reconstruction (he spoke nine European languages, an invaluable skill in that line of work).</description>
+      <guid>https://westland.github.io/viewpoints/my-story/</guid>
+      <description>&lt;p&gt;I was born towards the end of 1949 when the World was a vastly different place. I come from a military and sales family, and to my knowledge, am the first in my extended family to receive a PhD and to find a home in academia.   My grandfather fought in WWI and was Bernard Baruch&amp;rsquo;s logistics assistant in the European reconstruction (he spoke nine European languages, an invaluable skill in that line of work).  His son received the Silver Star and that side of the family has had two West Point graduates.  My aunt was one of the first women in the Navy, and later reported to Clarence Thomas in the Justice Department. My Dad served in the Army Air Force where he received multiple medals as a champion boxer.  After discharge he became a sales manager at Westinghouse power systems.  Both of my parents were polio survivors, a grim reminder to me that we live in an age of miracles, where so many of the scourges of history have been eradicated.  My father contracted polio in the last US epidemic in 1952 while he was working at Westinghouse; the company took care of him through his illness and found him a position in their plant in Indiana.  And that&amp;rsquo;s how I came to grow up in Bloomington Indiana, where Indiana University is located.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
