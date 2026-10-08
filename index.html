@@ -7,8 +7,8 @@
     <!-- Primary SEO Meta Tags -->
     <title>J. Christopher Westland | Professor, Fulbright-García Robles Scholar, UIC</title>
     <meta name="title" content="J. Christopher Westland | Professor, Fulbright-García Robles Scholar, UIC">
-    <meta name="description" content="Official academic website and curriculum vitae of J. Christopher Westland, Professor of Information & Decision Sciences at University of Illinois Chicago, Fulbright-García Robles U.S. Scholar (Mexico, 2026–2027) at Universidad Anáhuac Mayab, and Editor-in-Chief of Electronic Commerce Research.">
-    <meta name="keywords" content="J. Christopher Westland, Christopher Westland, Chris Westland, Fulbright Garcia Robles, Fulbright Mexico, Anahuac Mayab, TecniA, UIC, University of Illinois Chicago, Electronic Commerce Research, Economic Complexity, Yucatan Connectome, Audit Analytics, Structural Equation Modeling">
+    <meta name="description" content="Official academic website, curriculum vitae, and publications of J. Christopher Westland, Professor of Information & Decision Sciences at University of Illinois Chicago, Fulbright-García Robles U.S. Scholar (Mexico, 2026–2027) at Universidad Anáhuac Mayab, and Editor-in-Chief of Electronic Commerce Research.">
+    <meta name="keywords" content="J. Christopher Westland, Christopher Westland, Chris Westland, Fulbright Garcia Robles, Fulbright Mexico, Anahuac Mayab, TecniA, UIC, University of Illinois Chicago, Electronic Commerce Research, Economic Complexity, Yucatan Connectome, Audit Analytics, Structural Equation Modeling, Red Wired, Books, Astrophotography">
     <meta name="author" content="J. Christopher Westland">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <link rel="canonical" href="https://westland.github.io/">
@@ -80,7 +80,7 @@
           "url": "https://westland.github.io/",
           "name": "J. Christopher Westland | Personal & Academic Website",
           "mainEntity": { "@id": "https://westland.github.io/#person" },
-          "description": "Comprehensive academic profile, curriculum vitae, books, publications, and Fulbright research of J. Christopher Westland."
+          "description": "Comprehensive academic profile, curriculum vitae, books, publications, gallery, and Fulbright research of J. Christopher Westland."
         }
       ]
     }
@@ -172,12 +172,13 @@
         }
         .nav-links {
             display: flex;
-            gap: 20px;
+            gap: 16px;
             list-style: none;
+            align-items: center;
         }
         .nav-links a {
             color: var(--text-dark);
-            font-size: 15px;
+            font-size: 14px;
             font-weight: 500;
             padding: 6px 10px;
             border-radius: 6px;
@@ -351,12 +352,75 @@
             line-height: 1.8;
         }
 
-        /* Image Gallery */
+        /* Books Grid */
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 24px;
+            margin-top: 24px;
+            margin-bottom: 30px;
+        }
+        .book-card {
+            background: #ffffff;
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .book-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-md);
+        }
+        .book-cover-wrap {
+            height: 290px;
+            background: #f1f5f9;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            padding: 12px;
+        }
+        .book-cover-img {
+            max-height: 100%;
+            max-width: 100%;
+            object-fit: contain;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+            border-radius: 4px;
+        }
+        .book-details {
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+        .book-title {
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 6px;
+            line-height: 1.35;
+        }
+        .book-publisher {
+            font-size: 13px;
+            color: var(--secondary);
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+        .book-meta {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: auto;
+        }
+
+        /* Retrospective / Photo Gallery Grid */
         .gallery-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 24px;
-            margin: 30px 0;
+            margin: 24px 0 30px 0;
         }
         .gallery-card {
             background: var(--white);
@@ -365,6 +429,8 @@
             box-shadow: var(--shadow-sm);
             border: 1px solid var(--border);
             transition: transform 0.2s ease, box-shadow 0.2s ease;
+            display: flex;
+            flex-direction: column;
         }
         .gallery-card:hover {
             transform: translateY(-4px);
@@ -375,12 +441,14 @@
             height: 220px;
             object-fit: cover;
             display: block;
+            background: #e2e8f0;
         }
         .gallery-info {
             padding: 16px;
+            flex-grow: 1;
         }
         .gallery-title {
-            font-size: 16px;
+            font-size: 15px;
             font-weight: 700;
             color: var(--primary);
             margin-bottom: 6px;
@@ -389,6 +457,26 @@
             font-size: 13px;
             color: var(--text-muted);
             line-height: 1.5;
+        }
+
+        /* Editorial Banner */
+        .editorial-hero {
+            display: flex;
+            gap: 30px;
+            background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+            border: 1px solid #bbf7d0;
+            border-left: 5px solid #16a34a;
+            padding: 24px;
+            border-radius: 8px;
+            margin-bottom: 24px;
+            align-items: center;
+        }
+        .editorial-cover {
+            width: 130px;
+            height: auto;
+            border-radius: 4px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+            flex-shrink: 0;
         }
 
         /* Tags */
@@ -405,23 +493,6 @@
             border-radius: 16px;
             font-size: 13px;
             font-weight: 600;
-        }
-
-        /* Lists and typography */
-        .item-list {
-            list-style: none;
-        }
-        .item-list li {
-            padding: 12px 0;
-            border-bottom: 1px solid #f1f5f9;
-        }
-        .item-list li:last-child {
-            border-bottom: none;
-        }
-        .item-num {
-            font-weight: 700;
-            color: var(--secondary);
-            margin-right: 8px;
         }
 
         /* Publication styling */
@@ -469,6 +540,10 @@
             .hero-actions {
                 justify-content: center;
             }
+            .editorial-hero {
+                flex-direction: column;
+                text-align: center;
+            }
             .nav-container {
                 flex-direction: column;
                 gap: 16px;
@@ -496,11 +571,12 @@
             </a>
             <ul class="nav-links">
                 <li><a href="#about">About</a></li>
-                <li><a href="#fulbright">Fulbright Grant</a></li>
-                <li><a href="#curriculum-vitae">Curriculum Vitae</a></li>
-                <li><a href="#books">Books</a></li>
+                <li><a href="#fulbright">Fulbright</a></li>
+                <li><a href="#books">Books & Covers</a></li>
+                <li><a href="#editorial">Editorial & ECR</a></li>
+                <li><a href="#retrospective">Old Photos & Hobbies</a></li>
                 <li><a href="#publications">Publications</a></li>
-                <li><a href="#editorial">Editorial</a></li>
+                <li><a href="#curriculum-vitae">Curriculum Vitae</a></li>
                 <li><a href="https://westland.shinyapps.io/personal_website/" class="btn-launch" target="_blank" rel="noopener">Shiny App ↗</a></li>
             </ul>
         </div>
@@ -530,6 +606,7 @@
                     <a href="westland_cv.pdf" class="btn btn-primary" download>📄 Download CV (PDF)</a>
                     <a href="https://westland.shinyapps.io/personal_website/" class="btn btn-outline" target="_blank" rel="noopener">🌐 Interactive Shiny Dashboard</a>
                     <a href="#fulbright" class="btn btn-outline">Explore Fulbright Grant</a>
+                    <a href="#books" class="btn btn-outline">View Books & Covers</a>
                 </div>
                 <div style="margin-top: 18px; font-size: 14px; color: var(--text-muted); display: flex; flex-wrap: wrap; gap: 16px;">
                     <span>📍 University of Illinois Chicago</span>
@@ -626,99 +703,327 @@
             </div>
         </section>
 
-        <!-- Curriculum Vitae Section -->
-        <section id="curriculum-vitae" class="section-card">
-            <div class="section-header" style="display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap;">
-                <div>
-                    <h2>Curriculum Vitae</h2>
-                    <p>Updated September 2026 | J. Christopher Westland</p>
+        <!-- Books and Software Section with Book Covers Gallery -->
+        <section id="books" class="section-card">
+            <div class="section-header">
+                <h2>Books & Software Gallery</h2>
+                <p>Published monographs, statistical textbooks, and technology volumes</p>
+            </div>
+
+            <div class="books-grid">
+                <!-- Bayesian AB Decision Models -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="bayes.png" alt="Bayesian A/B Decision Models" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Bayesian A/B Decision Models</div>
+                        <div class="book-publisher">World Scientific (2025)</div>
+                        <div class="book-meta">ISBN: 978-9819802050 &bull; Applied Bayesian decision frameworks for high-stakes legal & e-commerce testing</div>
+                    </div>
                 </div>
-                <a href="westland_cv.pdf" class="btn btn-primary" download style="margin-top: 10px;">📄 Download CV (PDF)</a>
+
+                <!-- Audit Analytics -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="audit_analytics_book_cover.jpg" alt="Audit Analytics: Data Science for the Accounting Profession" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Audit Analytics: Data Science for Accounting</div>
+                        <div class="book-publisher">Springer (2nd ed. 2024; 1st ed. 2021)</div>
+                        <div class="book-meta">"Use R!" Series &bull; Featured on Mike Fallet's "Million Dollar Book" podcast</div>
+                    </div>
+                </div>
+
+                <!-- Structural Equation Modeling -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="SEM.jpg" alt="Structural Equation Modeling: From Paths to Networks" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Structural Equation Modeling: From Paths to Networks</div>
+                        <div class="book-publisher">Springer (2nd ed. 2019; 1st ed. 2016)</div>
+                        <div class="book-meta">Reviewed in Psychometrika (2020) &bull; Network models and partial least squares</div>
+                    </div>
+                </div>
+
+                <!-- Global Innovation Management -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="GIM.jpg" alt="Global Innovation Management" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Global Innovation Management</div>
+                        <div class="book-publisher">Palgrave / Macmillan (2nd ed. 2018)</div>
+                        <div class="book-meta">Strategic frameworks for innovation, IP valuation & venture management</div>
+                    </div>
+                </div>
+
+                <!-- Red Wired -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="redwired.jpg" alt="Red Wired: China's Internet Revolution" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Red Wired: China's Internet Revolution</div>
+                        <div class="book-publisher">Cyan / Marshall Cavendish (2010/2012)</div>
+                        <div class="book-meta">(with S. So) &bull; Comprehensive chronicle of China's rise to internet power</div>
+                    </div>
+                </div>
+
+                <!-- Global Electronic Commerce -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="GEC.jpg" alt="Global Electronic Commerce" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Global Electronic Commerce: Theory & Case Studies</div>
+                        <div class="book-publisher">MIT Press (2000)</div>
+                        <div class="book-meta">(with Ted Clark) &bull; Translated into Chinese simplified and traditional; Indian edition</div>
+                    </div>
+                </div>
+
+                <!-- Financial Dynamics -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="financial_dyn.jpg" alt="Financial Dynamics" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Financial Dynamics: Valuing Technology Companies</div>
+                        <div class="book-publisher">John Wiley & Sons (2003)</div>
+                        <div class="book-meta">Includes Financial Dynamics valuation software versions 1 & 2</div>
+                    </div>
+                </div>
+
+                <!-- Valuing Technology -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="val_tech.jpg" alt="Valuing Technology" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Valuing Technology: The New Science of Wealth</div>
+                        <div class="book-publisher">John Wiley & Sons (2002)</div>
+                        <div class="book-meta">Foundational treatise on measuring intangible technology value in the knowledge economy</div>
+                    </div>
+                </div>
+
+                <!-- The Book of Light -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="book_light.png" alt="The Book of Light" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">The Book of Light</div>
+                        <div class="book-publisher">KDP (Feb 2024)</div>
+                        <div class="book-meta">Young Adult &bull; Exploration of physics, optics, cosmology and perception</div>
+                    </div>
+                </div>
+
+                <!-- Teenage Guide to AI -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="TA_AI.png" alt="The Teenage Guide to Artificial Intelligence" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Teenage Guide to Artificial Intelligence</div>
+                        <div class="book-publisher">KDP (March 2024)</div>
+                        <div class="book-meta">Young Adult &bull; Accessible foundations of machine learning and modern AI</div>
+                    </div>
+                </div>
+
+                <!-- Teenage Guide to Crypto -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="TA_C.png" alt="The Teenage Guide to Cryptocurrency" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Teenage Guide to Cryptocurrency</div>
+                        <div class="book-publisher">KDP (March 2024)</div>
+                        <div class="book-meta">Young Adult &bull; Cryptographic protocols, blockchains, and digital assets</div>
+                    </div>
+                </div>
+
+                <!-- Revolutionary Bites -->
+                <div class="book-card">
+                    <div class="book-cover-wrap">
+                        <img src="revbite.jpg" alt="Revolutionary Bites" class="book-cover-img">
+                    </div>
+                    <div class="book-details">
+                        <div class="book-title">Revolutionary Bites</div>
+                        <div class="book-publisher">KDP (Dec 2023)</div>
+                        <div class="book-meta">Young Adult &bull; Bite-Size Tales from Science, Industry and Politics</div>
+                    </div>
+                </div>
             </div>
 
-            <!-- Education -->
-            <div style="margin-bottom: 30px;">
-                <h3 style="color: var(--primary); margin-bottom: 14px;">Education</h3>
-                <ul style="padding-left: 20px;">
-                    <li><strong>Ph.D.</strong>, Computers & Information Systems, University of Michigan, 1987</li>
-                    <li><strong>MBA</strong>, Accounting, Indiana University, 1973</li>
-                    <li><strong>BA</strong>, Mathematics (Physics & Chemistry minors), Indiana University, 1971</li>
-                    <li><strong>Languages:</strong> English, Mandarin Chinese, Spanish</li>
-                </ul>
-            </div>
-
-            <!-- Awards & Credentials -->
-            <div style="margin-bottom: 30px;">
-                <h3 style="color: var(--primary); margin-bottom: 14px;">Awards, Certificates & Honoraries</h3>
-                <ol style="padding-left: 20px;">
-                    <li>Certified Public Accountant (Illinois License 065.035982)</li>
-                    <li>Illinois CPA Society</li>
-                    <li>Beta Gamma Sigma (Business Honorary Society)</li>
-                    <li>Mensa International; American Mensa</li>
-                    <li>Fulbright Specialist Award, Colombia, 2024</li>
-                    <li>Fulbright Specialist Roster appointment by U.S. Department of State</li>
-                    <li><strong>Fulbright-García Robles US Scholar, Mexico, 2026–2027</strong> *(One of only three U.S. Scholars for Mexico)*</li>
-                    <li>1000-Talents Plan Award, China, 2013–2016</li>
-                    <li>High Level Foreign Expert designation, China</li>
-                    <li>Stanford University’s list of World’s Top 2% Scientists</li>
-                </ol>
-            </div>
-
-            <!-- Career History -->
-            <div style="margin-bottom: 30px;">
-                <h3 style="color: var(--primary); margin-bottom: 14px;">Career History</h3>
-                <ol style="padding-left: 20px;">
-                    <li><strong>Professor</strong>, IDS, University of Illinois – Chicago, 2007–present</li>
-                    <li><strong>Fulbright-García Robles U.S. Scholar & Visiting Scholar</strong>, Universidad Anáhuac Mayab, Mérida, México, 2026–2027</li>
-                    <li><strong>High-level Foreign Expert</strong>, P.R.China (under 1000-Talents Plan) Beihang University, 2012–2017</li>
-                    <li><strong>Adjunct Professor</strong>, XiDian University, Xian, P.R.China, 2017–present</li>
-                    <li><strong>Adjunct Professor</strong>, Shanghai University, Shanghai, P.R.China, 2019</li>
-                    <li><strong>Adjunct Professor</strong>, University of Science and Technology of China, Hefei, P.R.China, 2013–2016</li>
-                    <li><strong>Adjunct Professor</strong>, Key Center for e-Health, Harbin Institute of Technology, Harbin, P.R.China, 2011–present</li>
-                    <li><strong>Adjunct Professor</strong>, SWUFE Key Lab of Financial Intelligence, Chengdu, P.R.China, 2007–present</li>
-                    <li><strong>Head</strong>, IDS, University of Illinois – Chicago, 2000–2007</li>
-                    <li><strong>Professor</strong>, HK University of Science & Technology, 1995–2007; Visiting Professor Tsinghua University, Beijing, 2002–2003</li>
-                    <li><strong>Visiting Professor</strong>, Nanyang Technological University, Singapore, 2002</li>
-                    <li><strong>Associate Professor with Tenure</strong>, Marshall School, University of Southern California, 1994–1996</li>
-                    <li><strong>Assistant Professor</strong>, Marshall School, University of Southern California, 1985–1988</li>
-                    <li><strong>Assistant Professor</strong>, Accounting, Eastern Michigan University, 1986–1987</li>
-                    <li><strong>PhD Student</strong>, Computers and Information Systems, University of Michigan, 1981–1987</li>
-                    <li><strong>Database Admin & Security Manager</strong>, Rockwell International, 1977–1981</li>
-                    <li><strong>IS Audit Manager</strong>, Republic Life, Dallas, 1976–1977</li>
-                    <li><strong>Accounts Payable / Payroll Manager</strong>, Federated Department Stores, Dallas, 1975–1976</li>
-                    <li><strong>Auditor, IS Consultant</strong>, Touche Ross, Chicago, 1973–1975</li>
-                </ol>
+            <div style="padding: 16px; background: var(--bg-light); border-radius: 8px; font-size: 14px;">
+                <strong>Forthcoming:</strong> <em>Audit Analytics with Python</em> (Springer, forthcoming 2027) expands quantitative audit analytics and forensic ML to the modern Python data stack.
             </div>
         </section>
 
-        <!-- Books and Software Section -->
-        <section id="books" class="section-card">
+        <!-- Editorial Appointments Section -->
+        <section id="editorial" class="section-card">
             <div class="section-header">
-                <h2>Books and Software</h2>
-                <p>Authored books, monographs, and computational software systems</p>
+                <h2>Editorial Appointments & Journal Leadership</h2>
+                <p>Leading international scholarship in electronic commerce and digital systems</p>
             </div>
 
-            <ol style="padding-left: 20px; line-height: 1.8;">
-                <li><strong>Audit Analytics with Python</strong>, Springer (forthcoming 2027)</li>
-                <li><strong>Bayesian A/B Decision Models</strong>, World Scientific, ISBN-13: 978-9819802050 (2025)</li>
-                <li><strong>Audit Analytics: Data Science for the Accounting Profession</strong> (in R. Gentleman, et al. <em>"Use R!"</em> series), Springer 2021; 2nd edition 2024</li>
-                <li><strong>Structural Equation Modeling: from paths to networks</strong>, Springer, 2nd edition (2019); 1st ed. (2016); reviewed in <em>Psychometrika</em> (2020)</li>
-                <li><strong>Global Innovation Management: A Strategic Approach</strong> (2nd ed.), Palgrave / Macmillan 2018; 1st ed. (2008)</li>
-                <li><strong>Financial Auditing with Information Technology</strong>, Creder Press, ISBN-13: 978-1490448732 (2015)</li>
-                <li><strong>Red Wired: China’s Internet Revolution</strong>, London: Cyan (Marshall Cavendish), 2010 (with S. So); Kindle edition (2012)</li>
-                <li><strong>Financial Dynamics: A System for Valuing Technology Companies</strong>, John Wiley & Sons (2003) with Financial Dynamics software</li>
-                <li><strong>Valuing Technology: The New Science of Wealth in the Knowledge Economy</strong>, John Wiley & Sons (2002)</li>
-                <li><strong>Global Electronic Commerce: Theory and Case Studies</strong>, (with Ted Clark) MIT Press (2000)</li>
-                <li><strong>Information Technology Risk: A Guide for Accountants and Auditors</strong>, Hong Kong Society of Accountants monograph (HKICPA) (1996)</li>
-            </ol>
+            <!-- ECR Feature -->
+            <div class="editorial-hero">
+                <img src="ECR.png" alt="Electronic Commerce Research Cover" class="editorial-cover">
+                <div>
+                    <h3 style="color: #14532d; font-size: 20px; margin-bottom: 6px;">Electronic Commerce Research (Springer)</h3>
+                    <p style="color: #166534; font-size: 16px; margin-bottom: 8px;">
+                        <strong>Editor-in-Chief (2013–present)</strong> &bull; Impact Factor: <strong>4.9 (2025)</strong> &bull; CiteScore: <strong>11</strong> &bull; Acceptance Rate: <strong>13%</strong>
+                    </p>
+                    <p style="color: #1e293b; font-size: 14px; line-height: 1.6;">
+                        A leading peer-reviewed journal publishing ~300 articles/year with ~900K annual downloads across the globe. Covering algorithmic commerce, platform economics, AI in markets, and blockchain architecture.
+                    </p>
+                </div>
+            </div>
 
-            <h3 style="color: var(--primary); margin-top: 24px; margin-bottom: 12px;">Young Adult Books</h3>
+            <div style="margin: 20px 0;">
+                <img src="ECR_qtr1.png" alt="Electronic Commerce Research Quarterly Metrics" style="max-width: 100%; height: auto; border-radius: 8px; border: 1px solid var(--border); box-shadow: var(--shadow-sm); display: block;">
+            </div>
+
+            <h3 style="color: var(--primary); margin-top: 24px; margin-bottom: 14px;">All Editorial Appointments</h3>
             <ol style="padding-left: 20px; line-height: 1.8;">
-                <li><strong>Revolutionary Bites: Bite-Size Tales from Science, Industry and Politics</strong>, KDP (Dec 2023)</li>
-                <li><strong>The Book of Light</strong>, KDP (Feb 2024)</li>
-                <li><strong>The Teenage Guide to Artificial Intelligence</strong>, KDP (March 2024)</li>
-                <li><strong>The Teenage Guide to Cryptocurrency</strong>, KDP (March 2024)</li>
+                <li><strong>Electronic Commerce Research</strong> (Editor-in-Chief, 2013–present)</li>
+                <li><strong>Electronic Commerce Research and Applications</strong> (Editor, 2006–2014)</li>
+                <li><strong>Scientific Reports</strong>, Associate Editor (IF: 4.6, 5th most-cited journal in the world)</li>
+                <li><strong>Information and Management</strong> (2011), Associate Editor</li>
+                <li><strong>Social Science Research Network: Information Systems & eBusiness</strong> (2004–2014), Board</li>
+                <li><strong>Management Science</strong> (1995–2002), Associate Editor</li>
+                <li><strong>Information Systems Research</strong> (1996–2000), Associate Editor</li>
+                <li><strong>Electronic Markets</strong> (2001–present), Associate Editor</li>
+                <li><strong>Telecommunications Systems</strong> (2003–present), Associate Editor</li>
+                <li><strong>International Journal of Online Marketing</strong> (2010–present), Associate Editor</li>
+                <li><strong>International Journal of Electronic Commerce</strong> (1996–present), Associate Editor</li>
+                <li><strong>Electronic Commerce Research Journal</strong> (2001–present), Associate Editor</li>
+                <li><strong>International Journal of Internet & Enterprise Management</strong> (2003–present), Associate Editor</li>
+                <li><strong>International Journal of E-Entrepreneurship and Innovation</strong> (2011), Associate Editor</li>
+                <li><strong>International Review of Management</strong> (2004–present), Associate Editor</li>
             </ol>
+        </section>
+
+        <!-- Retrospective, Old Photos & Hobbies Gallery -->
+        <section id="retrospective" class="section-card">
+            <div class="section-header">
+                <h2>Retrospective & Life in Pictures</h2>
+                <p>Astrophotography, organ & piano performance, motorcycle expeditions, and personal memories</p>
+            </div>
+
+            <!-- Astrophotography & Telescopes -->
+            <h3 style="color: var(--secondary); margin-bottom: 14px;">🔭 Astrophotography & Deep Sky Observing</h3>
+            <div class="gallery-grid">
+                <div class="gallery-card">
+                    <img src="dob.jpg" alt="20-inch Obsession Dobsonian Telescope c. 1990" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">20" Obsession Dobsonian (c. 1990)</div>
+                        <div class="gallery-caption">My large-aperture 20-inch Obsession Dobsonian telescope used for visual deep sky observing and dark-sky expeditions.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="astro_1.png" alt="Deep Sky Astrophotography" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Astrophotography Imaging</div>
+                        <div class="gallery-caption">Narrowband and deep space imaging of nebulae and stellar nurseries using robotic tracking mounts and dedicated cooled astronomy sensors.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Music & Instruments -->
+            <h3 style="color: var(--secondary); margin-top: 30px; margin-bottom: 14px;">🎹 Music: Pipe Organ & Piano</h3>
+            <div class="gallery-grid">
+                <div class="gallery-card">
+                    <img src="wana.jpg" alt="At the Wanamaker Organ Console" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">At the Wanamaker Organ Console</div>
+                        <div class="gallery-caption">Playing at the console of the legendary Wanamaker Grand Court Organ in Philadelphia—the largest fully functioning musical instrument in the world.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="piano.png" alt="At Home Piano" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">At the Piano</div>
+                        <div class="gallery-caption">Practicing and performing classical and jazz repertoire at the piano.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="me_piano_1.jpg" alt="Musical Performance Practice" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Musical Practice</div>
+                        <div class="gallery-caption">Lifelong musical devotion across keyboard instruments, contrapuntal theory, and performance.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Wheels & Motorcycles -->
+            <h3 style="color: var(--secondary); margin-top: 30px; margin-bottom: 14px;">🏍️ Wheels & Motorcycle Expeditions</h3>
+            <div class="gallery-grid">
+                <div class="gallery-card">
+                    <img src="motof1.jpg" alt="Motorcycling on Archipelago Sea, Finland c. 2008" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Archipelago Sea, Finland (c. 2008)</div>
+                        <div class="gallery-caption">Long-distance motorcycle touring across the Baltic island ferries and coastal bridges of Finland.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="motof2.jpg" alt="Archipelago Sea Ferry Crossing, Finland" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Nordic Island Ferry Route</div>
+                        <div class="gallery-caption">Island hopping along the remote coastal roads of the Finnish Archipelago Sea.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="moto3.jpg" alt="Central Park, New York c. 1995" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Central Park, New York (c. 1995)</div>
+                        <div class="gallery-caption">Riding through New York City and Central Park during earlier East Coast academic appointments.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="motoc1.jpg" alt="Chicago Lakeshore Drive c. 2019" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Chicago Lakeshore (c. 2019)</div>
+                        <div class="gallery-caption">Motorcycle cruising along Lake Michigan and the iconic Chicago skyline.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="moto1.jpg" alt="Zhuhai International Circuit Paddock c. 2002" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Paddock in Zhuhai (c. 2002)</div>
+                        <div class="gallery-caption">Track day and motorcycle tuning at the paddock of Zhuhai International Circuit, southern China.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="motomap1.jpg" alt="Motorcycle Touring Expedition Map" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Expedition Tour Route</div>
+                        <div class="gallery-caption">GPS navigational track and elevation profile from trans-regional motorcycle tours.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Memories & Story -->
+            <h3 style="color: var(--secondary); margin-top: 30px; margin-bottom: 14px;">📸 Memories & Early Academic Career</h3>
+            <div class="gallery-grid">
+                <div class="gallery-card" style="max-width: 420px;">
+                    <img src="r_and_c.jpg" alt="Randa and Chris, c. 1986" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Randa and I (c. 1986)</div>
+                        <div class="gallery-caption">Cherished memory from the early years of our academic journey and doctoral studies at the University of Michigan.</div>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <!-- Refereed Publications Section -->
@@ -797,62 +1102,91 @@
             </div>
 
             <div style="margin-top: 24px; padding: 16px; background: var(--bg-light); border-radius: 8px;">
-                <p><em>The full catalog of all 102 refereed publications, book chapters, and proceedings is documented in the downloadable <a href="westland_cv.pdf" download>Curriculum Vitae (PDF)</a> and the interactive <a href="https://westland.shinyapps.io/personal_website/" target="_blank">Shiny Web App</a>.</em></p>
+                <p><em>The complete catalog of all 102 refereed publications is documented in the downloadable <a href="westland_cv.pdf" download>Curriculum Vitae (PDF)</a> and the interactive <a href="https://westland.shinyapps.io/personal_website/" target="_blank">Shiny Web App</a>.</em></p>
             </div>
         </section>
 
-        <!-- Editorial Section -->
-        <section id="editorial" class="section-card">
-            <div class="section-header">
-                <h2>Editorial Appointments</h2>
-                <p>Journal editorships and advisory boards</p>
+        <!-- Curriculum Vitae Section -->
+        <section id="curriculum-vitae" class="section-card">
+            <div class="section-header" style="display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap;">
+                <div>
+                    <h2>Curriculum Vitae</h2>
+                    <p>Updated September 2026 | J. Christopher Westland</p>
+                </div>
+                <a href="westland_cv.pdf" class="btn btn-primary" download style="margin-top: 10px;">📄 Download CV (PDF)</a>
             </div>
 
-            <div style="background: linear-gradient(135deg, #f0fdf4, #dcfce7); border-left: 5px solid #16a34a; padding: 20px; border-radius: 8px; margin-bottom: 24px;">
-                <h3 style="color: #14532d; font-size: 18px; margin-bottom: 6px;">Electronic Commerce Research (Springer)</h3>
-                <p style="color: #166534; font-size: 15px;">
-                    <strong>Editor-in-Chief (2013–present)</strong> | Impact Factor: <strong>4.9 (2025)</strong> | CiteScore: <strong>11</strong> | Acceptance Rate: <strong>13%</strong> | ~300 articles/year | ~900K annual downloads (2026).
-                </p>
+            <!-- Education -->
+            <div style="margin-bottom: 30px;">
+                <h3 style="color: var(--primary); margin-bottom: 14px;">Education</h3>
+                <ul style="padding-left: 20px;">
+                    <li><strong>Ph.D.</strong>, Computers & Information Systems, University of Michigan, 1987</li>
+                    <li><strong>MBA</strong>, Accounting, Indiana University, 1973</li>
+                    <li><strong>BA</strong>, Mathematics (Physics & Chemistry minors), Indiana University, 1971</li>
+                    <li><strong>Languages:</strong> English, Mandarin Chinese, Spanish</li>
+                </ul>
             </div>
 
-            <ol style="padding-left: 20px; line-height: 1.8;">
-                <li><strong>Electronic Commerce Research</strong> (Editor-in-Chief, 2013–present)</li>
-                <li><strong>Electronic Commerce Research and Applications</strong> (Editor, 2006–2014)</li>
-                <li><strong>Scientific Reports</strong>, Associate Editor (IF: 4.6, 5th most-cited journal in the world)</li>
-                <li><strong>Information and Management</strong> (2011), Associate Editor</li>
-                <li><strong>Social Science Research Network: Information Systems & eBusiness</strong> (2004–2014), Board</li>
-                <li><strong>Management Science</strong> (1995–2002), Associate Editor</li>
-                <li><strong>Information Systems Research</strong> (1996–2000), Associate Editor</li>
-                <li><strong>Electronic Markets</strong> (2001–present), Associate Editor</li>
-                <li><strong>Telecommunications Systems</strong> (2003–present), Associate Editor</li>
-                <li><strong>International Journal of Online Marketing</strong> (2010–present), Associate Editor</li>
-                <li><strong>International Journal of Electronic Commerce</strong> (1996–present), Associate Editor</li>
-                <li><strong>Electronic Commerce Research Journal</strong> (2001–present), Associate Editor</li>
-                <li><strong>International Journal of Internet & Enterprise Management</strong> (2003–present), Associate Editor</li>
-                <li><strong>International Journal of E-Entrepreneurship and Innovation</strong> (2011), Associate Editor</li>
-                <li><strong>International Review of Management</strong> (2004–present), Associate Editor</li>
-            </ol>
-        </section>
-
-        <!-- Ph.D. Students & Advising -->
-        <section class="section-card">
-            <div class="section-header">
-                <h2>Ph.D. Students & Advising</h2>
-                <p>Graduates and academic advising</p>
+            <!-- Awards & Credentials -->
+            <div style="margin-bottom: 30px;">
+                <h3 style="color: var(--primary); margin-bottom: 14px;">Awards, Certificates & Honoraries</h3>
+                <ol style="padding-left: 20px;">
+                    <li>Certified Public Accountant (Illinois License 065.035982)</li>
+                    <li>Illinois CPA Society</li>
+                    <li>Beta Gamma Sigma (Business Honorary Society)</li>
+                    <li>Mensa International; American Mensa</li>
+                    <li>Fulbright Specialist Award, Colombia, 2024</li>
+                    <li>Fulbright Specialist Roster appointment by U.S. Department of State</li>
+                    <li><strong>Fulbright-García Robles US Scholar, Mexico, 2026–2027</strong> *(One of only three U.S. Scholars for Mexico)*</li>
+                    <li>1000-Talents Plan Award, China, 2013–2016</li>
+                    <li>High Level Foreign Expert designation, China</li>
+                    <li>Stanford University’s list of World’s Top 2% Scientists</li>
+                </ol>
             </div>
-            <ol style="padding-left: 20px; line-height: 1.8;">
-                <li><strong>Fabiha Jalal</strong></li>
-                <li><strong>Keran Zhao</strong> (graduated 2021)</li>
-                <li><strong>Pouya Rahmati</strong> (graduated 2020)</li>
-                <li><strong>Poornima Krishnan</strong> (graduated 2010)</li>
-                <li><strong>Sanjeev Jha</strong> (graduated 2009), University of New Hampshire</li>
-                <li><strong>Kirill Yurov</strong> (graduated 2009), Nova University</li>
-                <li><strong>Carsten Paasch</strong> (graduated 2008), Senior VP – Information Security, Standard Chartered Bank</li>
-                <li><strong>Wendy Hui</strong> (graduated 2005), Nottingham University</li>
-                <li><strong>Eric See-to</strong> (graduated 2005), Research Fellow, University of Lancaster Business School, U.K.</li>
-                <li><strong>Hilton Chan</strong> (graduated 2000), Hong Kong Police, Head of Special Investigations</li>
-                <li><strong>Eric Law</strong> (graduated 1999), CEO, Boncle, Inc. (secure internet platforms) Santa Clara, CA</li>
-            </ol>
+
+            <!-- Career History -->
+            <div style="margin-bottom: 30px;">
+                <h3 style="color: var(--primary); margin-bottom: 14px;">Career History</h3>
+                <ol style="padding-left: 20px;">
+                    <li><strong>Professor</strong>, IDS, University of Illinois – Chicago, 2007–present</li>
+                    <li><strong>Fulbright-García Robles U.S. Scholar & Visiting Scholar</strong>, Universidad Anáhuac Mayab, Mérida, México, 2026–2027</li>
+                    <li><strong>High-level Foreign Expert</strong>, P.R.China (under 1000-Talents Plan) Beihang University, 2012–2017</li>
+                    <li><strong>Adjunct Professor</strong>, XiDian University, Xian, P.R.China, 2017–present</li>
+                    <li><strong>Adjunct Professor</strong>, Shanghai University, Shanghai, P.R.China, 2019</li>
+                    <li><strong>Adjunct Professor</strong>, University of Science and Technology of China, Hefei, P.R.China, 2013–2016</li>
+                    <li><strong>Adjunct Professor</strong>, Key Center for e-Health, Harbin Institute of Technology, Harbin, P.R.China, 2011–present</li>
+                    <li><strong>Adjunct Professor</strong>, SWUFE Key Lab of Financial Intelligence, Chengdu, P.R.China, 2007–present</li>
+                    <li><strong>Head</strong>, IDS, University of Illinois – Chicago, 2000–2007</li>
+                    <li><strong>Professor</strong>, HK University of Science & Technology, 1995–2007; Visiting Professor Tsinghua University, Beijing, 2002–2003</li>
+                    <li><strong>Visiting Professor</strong>, Nanyang Technological University, Singapore, 2002</li>
+                    <li><strong>Associate Professor with Tenure</strong>, Marshall School, University of Southern California, 1994–1996</li>
+                    <li><strong>Assistant Professor</strong>, Marshall School, University of Southern California, 1985–1988</li>
+                    <li><strong>Assistant Professor</strong>, Accounting, Eastern Michigan University, 1986–1987</li>
+                    <li><strong>PhD Student</strong>, Computers and Information Systems, University of Michigan, 1981–1987</li>
+                    <li><strong>Database Admin & Security Manager</strong>, Rockwell International, 1977–1981</li>
+                    <li><strong>IS Audit Manager</strong>, Republic Life, Dallas, 1976–1977</li>
+                    <li><strong>Accounts Payable / Payroll Manager</strong>, Federated Department Stores, Dallas, 1975–1976</li>
+                    <li><strong>Auditor, IS Consultant</strong>, Touche Ross, Chicago, 1973–1975</li>
+                </ol>
+            </div>
+
+            <!-- Ph.D. Students & Advising -->
+            <div>
+                <h3 style="color: var(--primary); margin-bottom: 14px;">Ph.D. Students</h3>
+                <ol style="padding-left: 20px; line-height: 1.8;">
+                    <li><strong>Fabiha Jalal</strong></li>
+                    <li><strong>Keran Zhao</strong> (graduated 2021)</li>
+                    <li><strong>Pouya Rahmati</strong> (graduated 2020)</li>
+                    <li><strong>Poornima Krishnan</strong> (graduated 2010)</li>
+                    <li><strong>Sanjeev Jha</strong> (graduated 2009), University of New Hampshire</li>
+                    <li><strong>Kirill Yurov</strong> (graduated 2009), Nova University</li>
+                    <li><strong>Carsten Paasch</strong> (graduated 2008), Senior VP – Information Security, Standard Chartered Bank</li>
+                    <li><strong>Wendy Hui</strong> (graduated 2005), Nottingham University</li>
+                    <li><strong>Eric See-to</strong> (graduated 2005), Research Fellow, University of Lancaster Business School, U.K.</li>
+                    <li><strong>Hilton Chan</strong> (graduated 2000), Hong Kong Police, Head of Special Investigations</li>
+                    <li><strong>Eric Law</strong> (graduated 1999), CEO, Boncle, Inc. (secure internet platforms) Santa Clara, CA</li>
+                </ol>
+            </div>
         </section>
 
     </main>
