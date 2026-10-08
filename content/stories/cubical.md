@@ -1,0 +1,17 @@
++++
+title = 'Office Cubicals'
+date = 2023-10-21T20:28:09-05:00
+draft = false
++++
+
+
+
+The ‘Action Office’ grew out of design exercises at the fine arts department of the University of Colorado in late 1960s. The objective was to create a private yet egalitar- ian workspace that unleashed the creative potential of its inhabitants. During the apotheosis of the countercul- ture movement, campus Marxists were keen to end the pervasive corporate ‘bull pens’ (rows of desks in huge open spaces) where most white-collar employees then lived out their working days under the watchful eyes of managers. The birth of the ‘cubicle’ offered both privacy and a way to individualize employee workspace. Intel CEO Andy Grove famously foreswore his suite for an 8 by 9 foot cubicle next to his subordinates. Consultants, who are out of the office a notoriously high percentage of their time, carried this one step further, making the cubicle a movable one, where all their personal effects were stored in portable cabinets which they would roll to whichever cubicle was available. Savings accrued to employers from squeezing employees into tiny cubicles in high-rent markets; productivity and creativity gains were more elusive.
+
+The cubicle was object of both praise and ridicule in equal parts – later leaning towards the latter as Scott Adams pilloried cubicle life in his comic strip Dilbert (many char- acters and situations in Dilbert were drawn from Adams’ own experience in the cubicles of Pacific Bell). Adams felt the cubicle culture stifled creativity rather than pro- moting it, observing that ‘creativity is allowing yourself to make mistakes; art is knowing which ones to keep’.
+
+Surveys by Tom Davenport of Babson College have found that three factors determine white-collar
+
+performance: management and organization, infor- mation technology and workplace design. The open offices typified by bull pens and cubicles can, in fact, lead to more unstructured communication; but can also create problems for employee focus and concen- tration. Davenport called cubicles ‘the attention-deficit office’.
+
+One of the foremost cubicle manufacturers, Herman Miller, is reluctant to abandon a lucrative market, and is rethinking the weaknesses of the cubicle (attention deficits) while trying to keep its benefits (cost and space savings). It has created cubicles with ‘busy’ lights to deter interruptions, and is experimenting with enhanced sound proofing. Others feel that designing a better cube is putting lipstick on a pig. One size doesn’t fit everyone, and the appropriate solution is to customize space to various types of work – give those who need uninter- rupted time a quiet place to work and those who need to collaborate a more social space. Square, Inc.’s offices in San Francisco incorporate some of the most innova- tive solutions to the cubicle’s problems, without creat- ing enclosed spaces. Square’s space is reminiscent of an Apple store, but with comfortable seats surrounded by sound-proof glass that allow for privacy, conversa- tions or reflective thought in a more or less open area. The majority of space is modernized bull pen, but with the option for software engineers to grab their laptops and retire to private spaces. In the war for talent, office space is part of that work contract, and if you are not engaging employees, you may be prompting them to find their next employer.

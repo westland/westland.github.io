@@ -511,6 +511,137 @@
             color: #334155;
         }
 
+        /* Podcast Section Styling */
+        .podcast-hero-card {
+            background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+            border: 1px solid var(--border);
+            border-left: 5px solid var(--primary);
+            border-radius: 10px;
+            padding: 28px;
+            margin-bottom: 28px;
+        }
+        .podcast-hero-title {
+            font-size: 22px;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .podcast-meta {
+            font-size: 14px;
+            color: var(--text-muted);
+            margin-bottom: 14px;
+        }
+        .podcast-desc {
+            font-size: 15px;
+            line-height: 1.8;
+            color: var(--text-dark);
+            margin-bottom: 20px;
+        }
+        .podcast-btn-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 16px;
+        }
+        .btn-apple {
+            background: linear-gradient(135deg, #a855f7 0%, #7e22ce 100%);
+            color: white;
+            padding: 10px 18px;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 14px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: opacity 0.2s;
+        }
+        .btn-apple:hover {
+            opacity: 0.9;
+            color: white;
+            text-decoration: none;
+        }
+        .btn-podchaser {
+            background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+            color: white;
+            padding: 10px 18px;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 14px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: opacity 0.2s;
+        }
+        .btn-podchaser:hover {
+            opacity: 0.9;
+            color: white;
+            text-decoration: none;
+        }
+        .btn-spotify {
+            background: #1db954;
+            color: white;
+            padding: 10px 18px;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 14px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            transition: opacity 0.2s;
+        }
+        .btn-spotify:hover {
+            background: #1aa34a;
+            color: white;
+            text-decoration: none;
+        }
+        .episodes-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 14px;
+            margin-top: 20px;
+        }
+        .episode-pill {
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 14px;
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .episode-pill:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-sm);
+            border-color: #cbd5e1;
+        }
+        .episode-num {
+            font-size: 11px;
+            font-weight: 700;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 4px;
+        }
+        .episode-title {
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--text-dark);
+            margin-bottom: 5px;
+            line-height: 1.4;
+        }
+        .episode-summary {
+            font-size: 12px;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+
         /* Footer */
         footer.site-footer {
             background: var(--primary-dark);
@@ -575,6 +706,7 @@
                 <li><a href="#books">Books & Covers</a></li>
                 <li><a href="#editorial">Editorial & ECR</a></li>
                 <li><a href="#retrospective">Old Photos & Hobbies</a></li>
+                <li><a href="#podcasts">Podcasts</a></li>
                 <li><a href="#publications">Publications</a></li>
                 <li><a href="#curriculum-vitae">Curriculum Vitae</a></li>
                 <li><a href="https://westland.shinyapps.io/personal_website/" class="btn-launch" target="_blank" rel="noopener">Shiny App ↗</a></li>
@@ -1021,6 +1153,460 @@
                     <div class="gallery-info">
                         <div class="gallery-title">Randa and I (c. 1986)</div>
                         <div class="gallery-caption">Cherished memory from the early years of our academic journey and doctoral studies at the University of Michigan.</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Podcasts & Audio Section -->
+        <section id="podcasts" class="section-card">
+            <div class="section-header">
+                <h2>🎙️ Podcasts & Audio Series</h2>
+                <p>Original technology history podcast, thought-provoking innovation essays, and featured guest interviews.</p>
+            </div>
+
+            <!-- Show 1: Westland on Technology -->
+            <div class="podcast-hero-card">
+                <div class="podcast-hero-title">
+                    <span>Westland on Technology</span>
+                </div>
+                <div class="podcast-meta">
+                    <strong>Host:</strong> J. Christopher Westland &nbsp;|&nbsp; 
+                    <strong>Format:</strong> Audio Podcast & Historical Technology Essays &nbsp;|&nbsp;
+                    <strong>Topics:</strong> Innovation, Strategy, Seminal Inventions, Market Disruption
+                </div>
+                <div class="podcast-desc">
+                    <p>
+                        <em>Westland on Technology</em> is an acclaimed audio podcast and historical essay series that explores the fascinating history of technology, corporate strategy, innovation economics, and the often-accidental breakthroughs that shaped the modern world.
+                    </p>
+                    <p style="margin-top: 8px;">
+                        Hosted by technologist and decision-sciences professor <strong>J. Christopher Westland</strong>, each episode delivers concise, incisive narratives at the intersection of technology, finance, and human ingenuity:
+                    </p>
+                    <ul style="margin-left: 20px; margin-top: 8px; line-height: 1.7; font-size: 14px;">
+                        <li><strong>The Accidental Battery:</strong> How the demise of cassette tapes left Sony with empty plants that were repurposed to coat electrodes—commercializing the lithium-ion polymer battery.</li>
+                        <li><strong>Bebop Jazz & Chord Contrafacts:</strong> How Charlie Parker used copyright economics and chord contrafacts to revolutionize modern jazz without paying royalties.</li>
+                        <li><strong>Niche Technology Survival:</strong> Why vacuum tubes survived the solid-state transistor revolution to command luxury prices among modern audiophiles.</li>
+                        <li><strong>Cryptography & Intelligence:</strong> Alan Turing, Marian Rejewski, and the breaking of Enigma at Bletchley Park.</li>
+                        <li><strong>Everyday Inventions:</strong> The curious, unfair history of screws, fasteners, typewriter keyboards (QWERTY), and office cubicles.</li>
+                    </ul>
+                </div>
+
+                <div class="podcast-btn-group">
+                    <a href="https://podcasts.apple.com/us/podcast/westland-on-technology/id1533036496" target="_blank" rel="noopener" class="btn-apple">
+                        🍏 Listen on Apple Podcasts
+                    </a>
+                    <a href="https://www.podchaser.com/podcasts/westland-on-technology-6638012" target="_blank" rel="noopener" class="btn-podchaser">
+                        🌐 View on Podchaser
+                    </a>
+                    <a href="https://open.spotify.com/" target="_blank" rel="noopener" class="btn-spotify">
+                        🟢 Search & Listen on Spotify
+                    </a>
+                    <a href="https://westland.shinyapps.io/personal_website/#shiny-tab-forty_lives_in_bebop" target="_blank" rel="noopener" class="btn-primary" style="padding: 10px 18px; font-size: 14px;">
+                        📖 Interactive Episode Reader ↗
+                    </a>
+                </div>
+            </div>
+
+            <!-- Show 2: Million Dollar Stories Guest Interview -->
+            <div class="podcast-hero-card" style="border-left-color: #f59e0b; background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);">
+                <div class="podcast-hero-title" style="color: #92400e;">
+                    <span>Million Dollar Stories Podcast (Featured Guest Interview)</span>
+                </div>
+                <div class="podcast-meta">
+                    <strong>Host:</strong> Mike Fallat &nbsp;|&nbsp; 
+                    <strong>Guest:</strong> J. Christopher Westland &nbsp;|&nbsp;
+                    <strong>Book Feature:</strong> <em>Audit Analytics: Data Science for the Accounting Profession</em> (Springer)
+                </div>
+                <div class="podcast-desc" style="color: #78350f;">
+                    <p>
+                        In this featured interview on the <em>Million Dollar Stories Podcast</em>, Professor Chris Westland joins host Mike Fallat to discuss his book <em>Audit Analytics: Data Science for the Accounting Profession</em> (Springer <em>Use R!</em> series).
+                    </p>
+                    <p style="margin-top: 8px;">
+                        Professor Westland outlines the critical crisis in modern accounting valuation—demonstrating how reported audited "Book Value" has collapsed to less than 10% of total market capitalization for giants like Apple, Microsoft, Amazon, and Nvidia. He discusses how modern open-source analytical computing with <strong>R</strong> and <strong>Python</strong> allows forensic auditors and quantitative analysts to cut through corporate opacity and uncover anomalies in massive business datasets.
+                    </p>
+                </div>
+
+                <div class="podcast-btn-group">
+                    <a href="https://blog.milliondollarbookagency.com/j-christopher-westland-author-of-audit-analytics-data-science-for-the-accounting-profession-use-r/" target="_blank" rel="noopener" class="btn-primary" style="background: #d97706; border-color: #d97706; padding: 10px 18px; font-size: 14px;">
+                        🎙️ Listen to Episode & Read Transcript
+                    </a>
+                    <a href="https://www.amazon.com/Audit-Analytics-Science-Accounting-Profession-dp-3031474635/dp/3031474635/ref=dp_ob_title_bk" target="_blank" rel="noopener" class="btn-outline" style="border-color: #d97706; color: #92400e; padding: 10px 18px; font-size: 14px;">
+                        📚 View Audit Analytics on Amazon
+                    </a>
+                </div>
+            </div>
+
+            <!-- Complete Episode Directory -->
+            <div style="margin-top: 36px;">
+                <h3 style="color: var(--primary); font-size: 20px; margin-bottom: 8px;">📚 The 52 Episodes & Historical Essays</h3>
+                <p style="color: var(--text-muted); font-size: 14px; margin-bottom: 16px;">
+                    All 52 episodes and historical essays are available to read interactively on the <a href="https://westland.shinyapps.io/personal_website/#shiny-tab-forty_lives_in_bebop" target="_blank" rel="noopener">Shiny Dashboard Episode Reader</a>.
+                </p>
+
+                <div class="episodes-grid">
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 01</div>
+                            <div class="episode-title">40 Lives in Bebop</div>
+                            <div class="episode-summary">Psychological analysis and substance patterns among 40 post-war jazz innovators.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 02</div>
+                            <div class="episode-title">19th Century Green Economy</div>
+                            <div class="episode-summary">Early energy transitions, whale oil depletion, and historical ecological shifts.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 03</div>
+                            <div class="episode-title">Automation of Accounting</div>
+                            <div class="episode-summary">From Hollerith punch cards and Compustat tapes to algorithmic auditing.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 04</div>
+                            <div class="episode-title">Bebop</div>
+                            <div class="episode-summary">Charlie Parker, contrafacts, harmonic substitution, and avoiding pop royalties.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 05</div>
+                            <div class="episode-title">Brains of Great Bolsheviks</div>
+                            <div class="episode-summary">The Soviet Moscow Brain Institute and historical neurology of leaders.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 06</div>
+                            <div class="episode-title">Business Strategy</div>
+                            <div class="episode-summary">Porter's competitive frameworks, resource-based views, and dynamic capabilities.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 07</div>
+                            <div class="episode-title">Coca-Cola's Devious Competitors</div>
+                            <div class="episode-summary">Secrecy, cola wars, and brand protection strategies in soft drinks.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 08</div>
+                            <div class="episode-title">Continuous Improvement in the Mongol Empire</div>
+                            <div class="episode-summary">Information logistics, the Yam postal relay, and rapid iterative warfare.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 09</div>
+                            <div class="episode-title">Creative Minds</div>
+                            <div class="episode-summary">Cognitive habits and psychological paradoxes of seminal inventors.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 10</div>
+                            <div class="episode-title">Dell's War on Inventory</div>
+                            <div class="episode-summary">Build-to-order assembly, zero inventory, and negative working capital cycles.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 11</div>
+                            <div class="episode-title">Distance from New York to Boston</div>
+                            <div class="episode-summary">Latency, steam transport, and telecommunication revolutions.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 12</div>
+                            <div class="episode-title">Einstein's Brain</div>
+                            <div class="episode-summary">The anatomical examination and scientific myths surrounding Albert Einstein.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 13</div>
+                            <div class="episode-title">Electrical Standards</div>
+                            <div class="episode-summary">Edison vs. Westinghouse, AC vs. DC, and the War of the Currents.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 14</div>
+                            <div class="episode-title">Elephant in the Drawing Room</div>
+                            <div class="episode-summary">Overlooked realities and cognitive blind spots in technological adoption.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 15</div>
+                            <div class="episode-title">Enigma</div>
+                            <div class="episode-summary">Bletchley Park, the Bombe, and mathematical decryption of naval ciphers.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 16</div>
+                            <div class="episode-title">Fall of MySpace</div>
+                            <div class="episode-summary">ColdFusion bottlenecks, spam epidemics, and the sudden rise of Facebook.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 17</div>
+                            <div class="episode-title">Father of Sudoku</div>
+                            <div class="episode-summary">Maki Kaji, puzzle architecture, and international viral publication.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 18</div>
+                            <div class="episode-title">Fender's Tube Amplifiers</div>
+                            <div class="episode-summary">Leo Fender, tweed circuitry, harmonic distortion, and rock 'n' roll tone.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 19</div>
+                            <div class="episode-title">First Network Bubble</div>
+                            <div class="episode-summary">The British Railway Mania of the 1840s and speculative contagion.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 20</div>
+                            <div class="episode-title">From R to D</div>
+                            <div class="episode-summary">Bridging the dangerous chasm between basic discovery and product rollout.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 21</div>
+                            <div class="episode-title">Information</div>
+                            <div class="episode-summary">Claude Shannon, bit entropy, and mathematical foundations of communication.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 22</div>
+                            <div class="episode-title">Internet of Things</div>
+                            <div class="episode-summary">RFID tracking, ambient sensor networks, and ubiquitous computing.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 23</div>
+                            <div class="episode-title">Iridium</div>
+                            <div class="episode-summary">The $5 billion low-Earth orbit satellite network and its bankruptcy.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 24</div>
+                            <div class="episode-title">It's a Wonderful Life</div>
+                            <div class="episode-summary">Fractional reserve banking, depression-era panics, and liquidity dilemmas.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 25</div>
+                            <div class="episode-title">Lenin and Bogdanov</div>
+                            <div class="episode-summary">Science fiction, tectology, and fatal rejuvenation blood transfusions.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 26</div>
+                            <div class="episode-title">Lightbulbs and Standards</div>
+                            <div class="episode-summary">The Phoebus cartel, 1,000-hour life caps, and planned obsolescence.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 27</div>
+                            <div class="episode-title">Mighty Wurlitzer</div>
+                            <div class="episode-summary">Electro-pneumatic pipe organs, silent movie sound effects, and theatre design.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 28</div>
+                            <div class="episode-title">Moore's Law</div>
+                            <div class="episode-summary">Photolithography scaling, planar transistors, and semiconductor economics.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 29</div>
+                            <div class="episode-title">Natural Monopolies</div>
+                            <div class="episode-summary">Infrastructure economics, decreasing marginal costs, and regulatory capture.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 30</div>
+                            <div class="episode-title">Network Family</div>
+                            <div class="episode-summary">Metcalfe's law, network externalities, and social graph topology.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 31</div>
+                            <div class="episode-title">Numbers Guys</div>
+                            <div class="episode-summary">Robert McNamara, the Ford Whiz Kids, and hazards of blind quantitative control.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 32</div>
+                            <div class="episode-title">Office Cubicles</div>
+                            <div class="episode-summary">Robert Propst's idealistic Action Office and how it morphed into cubicle farms.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 33</div>
+                            <div class="episode-title">One-Click</div>
+                            <div class="episode-summary">Jeff Bezos, Amazon patent #5,960,411, and eliminating checkout friction.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 34</div>
+                            <div class="episode-title">Open Source</div>
+                            <div class="episode-summary">Richard Stallman, Linus Torvalds, the GNU GPL, and open collaboration.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 35</div>
+                            <div class="episode-title">Parable of the Fish</div>
+                            <div class="episode-summary">Tacit knowledge versus codified organizational memory.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 36</div>
+                            <div class="episode-title">Pirates of Istanbul</div>
+                            <div class="episode-summary">Contraband technology, black markets, and historical trade choke points.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 37</div>
+                            <div class="episode-title">Politics of Innovation</div>
+                            <div class="episode-summary">Institutional inertia, guild opposition, and creative destruction.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 38</div>
+                            <div class="episode-title">Post-Industrial Prophet</div>
+                            <div class="episode-summary">Daniel Bell and the transition from manufacturing to the knowledge economy.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 39</div>
+                            <div class="episode-title">Prototype</div>
+                            <div class="episode-summary">Rapid prototyping, fail-fast engineering, and validating physical models.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 40</div>
+                            <div class="episode-title">QWERTY</div>
+                            <div class="episode-summary">Christopher Sholes, typewriter mechanical jamming, and keyboard lock-in.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 41</div>
+                            <div class="episode-title">Rocket Science and Reachability</div>
+                            <div class="episode-summary">Tsiolkovsky's rocket equation, delta-v, and the economics of orbit.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 42</div>
+                            <div class="episode-title">Secret Ingredients</div>
+                            <div class="episode-summary">Trade secrets, reverse engineering, and formulation barriers to entry.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 43</div>
+                            <div class="episode-title">Selling the Potato</div>
+                            <div class="episode-summary">Parmentier's reverse psychology marketing in pre-revolutionary France.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 44</div>
+                            <div class="episode-title">Shifting Time and Space</div>
+                            <div class="episode-summary">Asynchrony, telecommuting, and spatial dispersion in digital firms.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 45</div>
+                            <div class="episode-title">Sony's Batteries</div>
+                            <div class="episode-summary">Repurposing audio tape plants to commercialize the lithium-ion polymer battery.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 46</div>
+                            <div class="episode-title">Stealing the Company</div>
+                            <div class="episode-summary">Corporate spin-offs, trade secret disputes, and employee mobility.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 47</div>
+                            <div class="episode-title">Theremin</div>
+                            <div class="episode-summary">Léon Theremin, early electronic synthesis, and Soviet listening devices.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 48</div>
+                            <div class="episode-title">Too Small for Humans</div>
+                            <div class="episode-summary">MEMS sensors, nanotech fabrication, and microfluidics.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 49</div>
+                            <div class="episode-title">Vacuum Tubes: The Market for Niche Innovations</div>
+                            <div class="episode-summary">Why audiophiles pay 10x premiums for vintage vacuum tube tone.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 50</div>
+                            <div class="episode-title">Viagra – The First Blockbuster Drug</div>
+                            <div class="episode-summary">Accidental clinical trial side-effects and the birth of direct-to-consumer pharma.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 51</div>
+                            <div class="episode-title">Waves of Innovation</div>
+                            <div class="episode-summary">Kondratiev long waves and Joseph Schumpeter's creative destruction cycles.</div>
+                        </div>
+                    </div>
+                    <div class="episode-pill">
+                        <div>
+                            <div class="episode-num">Episode 52</div>
+                            <div class="episode-title">Wife-o-Meter</div>
+                            <div class="episode-summary">The polygraph, galvanic skin response, and flawed pseudoscience of lie detection.</div>
+                        </div>
                     </div>
                 </div>
             </div>
