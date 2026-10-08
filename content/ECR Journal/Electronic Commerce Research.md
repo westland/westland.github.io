@@ -20,6 +20,7 @@ _Electronic Commerce Research_ is a peer-reviewed journal that disseminates the 
 ### Journal Leadership & Key Metrics (Q2 2026)
 
 - **Editor-in-Chief:** J. Christopher Westland
+- **Acceptance Rate:** **11%**
 - **2025 Impact Factor:** **4.9** (1,254 Citations from 256 Articles)
 - **2024 Impact Factor:** **4.7** (1,176 Citations from 251 Articles)
 - **Submissions (Q1–Q2 2026):** **1,393 Submissions** (up from 895 in Q1-Q2 2025 and 668 in Q1-Q2 2024)
