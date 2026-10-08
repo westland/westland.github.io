@@ -2,14 +2,873 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://westland.shinyapps.io/personal_website/">
-    <title>Redirecting...</title>
-    <link rel="canonical" href="https://westland.shinyapps.io/personal_website/">
-    <script>
-        window.location.href = "https://westland.shinyapps.io/personal_website/";
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Primary SEO Meta Tags -->
+    <title>J. Christopher Westland | Professor, Fulbright-García Robles Scholar, UIC</title>
+    <meta name="title" content="J. Christopher Westland | Professor, Fulbright-García Robles Scholar, UIC">
+    <meta name="description" content="Official academic website and curriculum vitae of J. Christopher Westland, Professor of Information & Decision Sciences at University of Illinois Chicago, Fulbright-García Robles U.S. Scholar (Mexico, 2026–2027) at Universidad Anáhuac Mayab, and Editor-in-Chief of Electronic Commerce Research.">
+    <meta name="keywords" content="J. Christopher Westland, Christopher Westland, Chris Westland, Fulbright Garcia Robles, Fulbright Mexico, Anahuac Mayab, TecniA, UIC, University of Illinois Chicago, Electronic Commerce Research, Economic Complexity, Yucatan Connectome, Audit Analytics, Structural Equation Modeling">
+    <meta name="author" content="J. Christopher Westland">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <link rel="canonical" href="https://westland.github.io/">
+
+    <!-- Open Graph / Facebook / LinkedIn -->
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://westland.github.io/">
+    <meta property="og:title" content="J. Christopher Westland | Professor, Fulbright-García Robles Scholar, UIC">
+    <meta property="og:description" content="Official academic website and CV of Professor J. Christopher Westland. Fulbright-García Robles U.S. Scholar to Mexico (2026–2027), Professor at UIC, and Editor-in-Chief of Electronic Commerce Research.">
+    <meta property="og:image" content="https://westland.github.io/westland.png">
+    <meta property="og:site_name" content="J. Christopher Westland">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://westland.github.io/">
+    <meta property="twitter:title" content="J. Christopher Westland | Professor, Fulbright-García Robles Scholar, UIC">
+    <meta property="twitter:description" content="Official academic website and CV of Professor J. Christopher Westland. Fulbright-García Robles U.S. Scholar to Mexico (2026–2027) at Universidad Anáhuac Mayab.">
+    <meta property="twitter:image" content="https://westland.github.io/westland.png">
+    <meta name="twitter:site" content="@e_Comm_Research">
+
+    <!-- JSON-LD Structured Data for Google Knowledge Graph & Rich Snippets -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Person",
+          "@id": "https://westland.github.io/#person",
+          "name": "J. Christopher Westland",
+          "alternateName": ["Christopher Westland", "Chris Westland"],
+          "url": "https://westland.github.io/",
+          "image": "https://westland.github.io/westland.png",
+          "jobTitle": "Professor of Information & Decision Sciences",
+          "worksFor": {
+            "@type": "CollegeOrUniversity",
+            "name": "University of Illinois Chicago",
+            "url": "https://www.uic.edu/"
+          },
+          "alumniOf": [
+            {
+              "@type": "CollegeOrUniversity",
+              "name": "University of Michigan"
+            },
+            {
+              "@type": "CollegeOrUniversity",
+              "name": "Indiana University"
+            }
+          ],
+          "award": [
+            "Fulbright-García Robles U.S. Scholar Award (Mexico, 2026-2027)",
+            "Fulbright Specialist Award (Colombia, 2024)",
+            "Fulbright Specialist Roster (U.S. Department of State)",
+            "Stanford University World's Top 2% Scientists",
+            "1000-Talents Plan Award, China",
+            "High Level Foreign Expert, China"
+          ],
+          "knowsLanguage": ["English", "Mandarin Chinese", "Spanish"],
+          "sameAs": [
+            "https://westland.shinyapps.io/personal_website/",
+            "https://business.uic.edu/profiles/westland-james-christopher/",
+            "https://github.com/westland",
+            "https://twitter.com/e_Comm_Research",
+            "https://scholar.google.com/citations?user=westland"
+          ]
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://westland.github.io/",
+          "url": "https://westland.github.io/",
+          "name": "J. Christopher Westland | Personal & Academic Website",
+          "mainEntity": { "@id": "https://westland.github.io/#person" },
+          "description": "Comprehensive academic profile, curriculum vitae, books, publications, and Fulbright research of J. Christopher Westland."
+        }
+      ]
+    }
     </script>
+
+    <style>
+        :root {
+            --primary: #1e3c72;
+            --primary-dark: #122549;
+            --secondary: #2a5298;
+            --accent: #4338ca;
+            --accent-light: #eef2ff;
+            --text-dark: #1e293b;
+            --text-muted: #64748b;
+            --bg-light: #f8fafc;
+            --white: #ffffff;
+            --border: #e2e8f0;
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+            --shadow-md: 0 4px 14px rgba(0,0,0,0.08);
+            --shadow-lg: 0 10px 25px rgba(0,0,0,0.1);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            color: var(--text-dark);
+            background-color: var(--bg-light);
+            line-height: 1.7;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        a {
+            color: var(--secondary);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+        a:hover {
+            color: var(--primary-dark);
+            text-decoration: underline;
+        }
+
+        /* Top Bar & Navigation */
+        .top-banner {
+            background: linear-gradient(90deg, #1e3c72, #3b82f6);
+            color: white;
+            text-align: center;
+            padding: 10px 16px;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        .top-banner a {
+            color: #fef08a;
+            font-weight: 700;
+            margin-left: 8px;
+            text-decoration: underline;
+        }
+        .top-banner a:hover {
+            color: #ffffff;
+        }
+
+        header.site-header {
+            background: var(--white);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: var(--shadow-sm);
+        }
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 16px 24px;
+        }
+        .site-logo {
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .nav-links {
+            display: flex;
+            gap: 20px;
+            list-style: none;
+        }
+        .nav-links a {
+            color: var(--text-dark);
+            font-size: 15px;
+            font-weight: 500;
+            padding: 6px 10px;
+            border-radius: 6px;
+        }
+        .nav-links a:hover {
+            color: var(--primary);
+            background: var(--accent-light);
+            text-decoration: none;
+        }
+        .btn-launch {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white !important;
+            padding: 8px 16px !important;
+            border-radius: 20px !important;
+            font-weight: 600 !important;
+            box-shadow: 0 2px 6px rgba(30, 60, 114, 0.25);
+        }
+        .btn-launch:hover {
+            background: linear-gradient(135deg, #15294f, #1e3c72) !important;
+            box-shadow: 0 4px 10px rgba(30, 60, 114, 0.35);
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 24px;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: var(--white);
+            border-radius: 12px;
+            padding: 48px;
+            box-shadow: var(--shadow-md);
+            border: 1px solid var(--border);
+            display: flex;
+            gap: 40px;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+        .hero-img-wrap {
+            flex-shrink: 0;
+            text-align: center;
+        }
+        .hero-avatar {
+            width: 220px;
+            height: 220px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 5px solid #ffffff;
+            box-shadow: var(--shadow-lg);
+        }
+        .hero-content h1 {
+            font-size: 34px;
+            font-weight: 800;
+            color: var(--primary);
+            line-height: 1.2;
+            margin-bottom: 8px;
+        }
+        .hero-title {
+            font-size: 20px;
+            color: var(--secondary);
+            font-weight: 600;
+            margin-bottom: 12px;
+        }
+        .hero-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+        .badge {
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+        .badge-fulbright {
+            background: #eef2ff;
+            color: #3730a3;
+            border: 1px solid #c7d2fe;
+        }
+        .badge-info {
+            background: #f1f5f9;
+            color: #334155;
+            border: 1px solid #cbd5e1;
+        }
+        .hero-desc {
+            font-size: 16px;
+            color: #475569;
+            margin-bottom: 24px;
+            line-height: 1.8;
+        }
+        .hero-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-size: 15px;
+            font-weight: 600;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+        .btn-primary:hover {
+            background: var(--primary-dark);
+            color: white;
+            text-decoration: none;
+        }
+        .btn-outline {
+            border: 1.5px solid var(--primary);
+            color: var(--primary);
+            background: transparent;
+        }
+        .btn-outline:hover {
+            background: var(--accent-light);
+            text-decoration: none;
+        }
+
+        /* Section Cards */
+        .section-card {
+            background: var(--white);
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: var(--shadow-sm);
+            border: 1px solid var(--border);
+            margin-bottom: 40px;
+        }
+        .section-header {
+            margin-bottom: 28px;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 16px;
+        }
+        .section-header h2 {
+            font-size: 26px;
+            font-weight: 700;
+            color: var(--primary);
+        }
+        .section-header p {
+            color: var(--text-muted);
+            font-size: 15px;
+            margin-top: 4px;
+        }
+
+        /* Fulbright Feature */
+        .callout-fulbright {
+            background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%);
+            border-left: 5px solid #4338ca;
+            padding: 24px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        .callout-fulbright h3 {
+            color: #312e81;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        .callout-fulbright p {
+            font-size: 16px;
+            color: #1e1b4b;
+            line-height: 1.8;
+        }
+
+        /* Image Gallery */
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 24px;
+            margin: 30px 0;
+        }
+        .gallery-card {
+            background: var(--white);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+            border: 1px solid var(--border);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .gallery-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-md);
+        }
+        .gallery-img {
+            width: 100%;
+            height: 220px;
+            object-fit: cover;
+            display: block;
+        }
+        .gallery-info {
+            padding: 16px;
+        }
+        .gallery-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 6px;
+        }
+        .gallery-caption {
+            font-size: 13px;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+
+        /* Tags */
+        .tags-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 20px;
+        }
+        .tag {
+            background: #f1f5f9;
+            color: #334155;
+            padding: 6px 12px;
+            border-radius: 16px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+
+        /* Lists and typography */
+        .item-list {
+            list-style: none;
+        }
+        .item-list li {
+            padding: 12px 0;
+            border-bottom: 1px solid #f1f5f9;
+        }
+        .item-list li:last-child {
+            border-bottom: none;
+        }
+        .item-num {
+            font-weight: 700;
+            color: var(--secondary);
+            margin-right: 8px;
+        }
+
+        /* Publication styling */
+        .pub-item {
+            margin-bottom: 16px;
+            padding-bottom: 14px;
+            border-bottom: 1px solid #f1f5f9;
+            line-height: 1.6;
+        }
+        .pub-title {
+            font-weight: 600;
+            color: var(--text-dark);
+        }
+        .pub-journal {
+            font-style: italic;
+            color: #334155;
+        }
+
+        /* Footer */
+        footer.site-footer {
+            background: var(--primary-dark);
+            color: #94a3b8;
+            padding: 40px 24px;
+            text-align: center;
+            font-size: 14px;
+            margin-top: 60px;
+        }
+        footer a {
+            color: #cbd5e1;
+        }
+        footer a:hover {
+            color: white;
+        }
+
+        /* Responsive */
+        @media (max-width: 868px) {
+            .hero {
+                flex-direction: column;
+                text-align: center;
+                padding: 30px 20px;
+            }
+            .hero-badges {
+                justify-content: center;
+            }
+            .hero-actions {
+                justify-content: center;
+            }
+            .nav-container {
+                flex-direction: column;
+                gap: 16px;
+            }
+            .nav-links {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+        }
+    </style>
 </head>
 <body>
-    <p>Redirecting to <a href="https://westland.shinyapps.io/personal_website/">my personal website</a>...</p>
+
+    <!-- Top Announcement Bar -->
+    <div class="top-banner">
+        <span>🚀 Explore the interactive dashboard at shinyapps.io:</span>
+        <a href="https://westland.shinyapps.io/personal_website/" target="_blank" rel="noopener">Launch Interactive Shiny App →</a>
+    </div>
+
+    <!-- Navigation Header -->
+    <header class="site-header">
+        <div class="nav-container">
+            <a href="#" class="site-logo">
+                <span>J. Christopher Westland</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#fulbright">Fulbright Grant</a></li>
+                <li><a href="#curriculum-vitae">Curriculum Vitae</a></li>
+                <li><a href="#books">Books</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#editorial">Editorial</a></li>
+                <li><a href="https://westland.shinyapps.io/personal_website/" class="btn-launch" target="_blank" rel="noopener">Shiny App ↗</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- Hero Section -->
+        <section id="about" class="hero">
+            <div class="hero-img-wrap">
+                <img src="westland.png" alt="J. Christopher Westland" class="hero-avatar">
+            </div>
+            <div class="hero-content">
+                <div class="hero-badges">
+                    <span class="badge badge-fulbright">🏅 Fulbright-García Robles U.S. Scholar (2026–2027)</span>
+                    <span class="badge badge-info">Top 2% Scientists (Stanford)</span>
+                    <span class="badge badge-info">Editor-in-Chief, Electronic Commerce Research</span>
+                </div>
+                <h1>J. Christopher Westland</h1>
+                <div class="hero-title">Professor of Information & Decision Sciences</div>
+                <p class="hero-desc">
+                    Professor at the <strong>University of Illinois Chicago (UIC)</strong>. Named a recipient of the prestigious 
+                    <strong>Fulbright-García Robles U.S. Scholar Award for Mexico (2026–2027)</strong> — one of only three U.S. scholars selected. 
+                    Currently visiting scholar at <strong>Universidad Anáhuac Mayab</strong> in Mérida, Yucatán, focusing on economic complexity networks, satellite and trade analytics, and technology commercialization with the <strong>TecniA</strong> incubator.
+                </p>
+                <div class="hero-actions">
+                    <a href="westland_cv.pdf" class="btn btn-primary" download>📄 Download CV (PDF)</a>
+                    <a href="https://westland.shinyapps.io/personal_website/" class="btn btn-outline" target="_blank" rel="noopener">🌐 Interactive Shiny Dashboard</a>
+                    <a href="#fulbright" class="btn btn-outline">Explore Fulbright Grant</a>
+                </div>
+                <div style="margin-top: 18px; font-size: 14px; color: var(--text-muted); display: flex; flex-wrap: wrap; gap: 16px;">
+                    <span>📍 University of Illinois Chicago</span>
+                    <span>✉️ <a href="mailto:westland@uic.edu">westland@uic.edu</a></span>
+                    <span>📞 +1.312.860.0587</span>
+                    <span>🐦 <a href="https://twitter.com/e_Comm_Research" target="_blank">@e_Comm_Research</a></span>
+                    <span>💻 <a href="https://github.com/westland" target="_blank">github.com/westland</a></span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Fulbright Section -->
+        <section id="fulbright" class="section-card">
+            <div class="section-header">
+                <h2>Fulbright-García Robles U.S. Scholar (2026–2027)</h2>
+                <p>Host Institution: Universidad Anáhuac Mayab, Mérida, Yucatán, México</p>
+            </div>
+
+            <div class="callout-fulbright">
+                <h3>Prestigious Bilateral Appointment</h3>
+                <p>
+                    I am honored to share that I have been named a recipient of the <strong>Fulbright-García Robles award for the 2026–2027 academic year</strong>. 
+                    I am serving as <strong>one of only three Fulbright-García Robles U.S. Scholars selected for Mexico</strong> for this award cycle 
+                    (the other two recipients are Anthropologists).
+                </p>
+            </div>
+
+            <div style="margin-bottom: 24px;">
+                <h3 style="color: var(--primary); margin-bottom: 12px;">About the Fulbright-García Robles (COMEXUS) Award</h3>
+                <p style="margin-bottom: 14px;">
+                    The <strong>Fulbright-García Robles (COMEXUS)</strong> grant is an esteemed bilateral program between the United States and Mexico. Named after Nobel Peace Prize winner <strong>Alfonso García Robles</strong>, it is considered one of the <em>"Crown Jewels"</em> of the global Fulbright program due to the depth of diplomatic, economic, and cultural relationships it fosters between the two nations.
+                </p>
+                <p style="margin-bottom: 14px;">
+                    Because of the <strong>USMCA</strong> and our extensive shared border, this grant is viewed by both the <strong>U.S. Department of State</strong> and the private sector as a high-level training ground for the future of the North American corridor. I am grateful for the opportunity to contribute to the academic and professional links uniting our two countries.
+                </p>
+            </div>
+
+            <div style="margin-bottom: 24px;">
+                <h3 style="color: var(--primary); margin-bottom: 12px;">Research: Economic Complexity Networks in the Yucatán</h3>
+                <p style="margin-bottom: 14px;">
+                    During my Fulbright year, I am based at <strong>Universidad Anáhuac Mayab</strong> in Mérida, Mexico. The Yucatán is currently the <strong>fastest-growing economy in Mexico</strong>. My research focuses on economic complexity networks across the region:
+                </p>
+                <ul style="padding-left: 24px; margin-bottom: 16px;">
+                    <li style="margin-bottom: 8px;"><strong>Trade & Satellite Analytics:</strong> Mapping municipal product spaces, revealed comparative advantage (RCA), and industrial concentration using firm-level census records (DENUE/IMSS) and nighttime lights satellite data (VIIRS).</li>
+                    <li style="margin-bottom: 8px;"><strong>The "Yucatán Connectome" Project:</strong> Evaluating how major transport infrastructure—specifically the <strong>Tren Maya</strong> rail network—reshapes regional economic geography and labor-market informality.</li>
+                    <li style="margin-bottom: 8px;"><strong>Market Access Diagnostics:</strong> Modeling market-access gain against travel friction and train waiting times to identify true regional economic multipliers.</li>
+                </ul>
+            </div>
+
+            <div style="margin-bottom: 24px;">
+                <h3 style="color: var(--primary); margin-bottom: 12px;">Collaborating with TecniA Technology Incubator</h3>
+                <p>
+                    I also look forward to collaborating with Mexico’s technology incubator, <strong>TecniA</strong>, at Universidad Anáhuac Mayab to help promote, evaluate, and commercialize Mexican STEM innovations. This initiative bridges academic research with venture capital, patent analysis, and cross-border commercialization along the North American economic corridor.
+                </p>
+            </div>
+
+            <!-- Campus Gallery -->
+            <div class="gallery-grid">
+                <div class="gallery-card">
+                    <img src="anahuac_campus_aerial.jpg" alt="Universidad Anáhuac Mayab Campus Aerial View" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Campus Aerial View</div>
+                        <div class="gallery-caption">Aerial vista of Universidad Anáhuac Mayab in Mérida, Yucatán, showcasing its modernist academic complex and lush peninsula setting.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="anahuac_tecnia_exterior.jpg" alt="Parque Tecnológico TecniA Exterior" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">Parque Tecnológico TecniA</div>
+                        <div class="gallery-caption">Dusk architecture of TecniA—Universidad Anáhuac Mayab's premier technology park and high-impact incubator.</div>
+                    </div>
+                </div>
+
+                <div class="gallery-card">
+                    <img src="anahuac_tecnia_interior.jpg" alt="TecniA Innovation Hub Interior" class="gallery-img">
+                    <div class="gallery-info">
+                        <div class="gallery-title">TecniA Innovation Hub</div>
+                        <div class="gallery-caption">Modern interior collaboration spaces where university researchers, venture incubators, and STEM startups collaborate.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tags-container">
+                <span class="tag">#UICBusiness</span>
+                <span class="tag">#Fulbright</span>
+                <span class="tag">#InternationalRelations</span>
+                <span class="tag">#EconomicComplexity</span>
+                <span class="tag">#STEM</span>
+                <span class="tag">#Mexico</span>
+                <span class="tag">#USMCA</span>
+                <span class="tag">#AnahuacMayab</span>
+                <span class="tag">#TecniA</span>
+            </div>
+        </section>
+
+        <!-- Curriculum Vitae Section -->
+        <section id="curriculum-vitae" class="section-card">
+            <div class="section-header" style="display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap;">
+                <div>
+                    <h2>Curriculum Vitae</h2>
+                    <p>Updated September 2026 | J. Christopher Westland</p>
+                </div>
+                <a href="westland_cv.pdf" class="btn btn-primary" download style="margin-top: 10px;">📄 Download CV (PDF)</a>
+            </div>
+
+            <!-- Education -->
+            <div style="margin-bottom: 30px;">
+                <h3 style="color: var(--primary); margin-bottom: 14px;">Education</h3>
+                <ul style="padding-left: 20px;">
+                    <li><strong>Ph.D.</strong>, Computers & Information Systems, University of Michigan, 1987</li>
+                    <li><strong>MBA</strong>, Accounting, Indiana University, 1973</li>
+                    <li><strong>BA</strong>, Mathematics (Physics & Chemistry minors), Indiana University, 1971</li>
+                    <li><strong>Languages:</strong> English, Mandarin Chinese, Spanish</li>
+                </ul>
+            </div>
+
+            <!-- Awards & Credentials -->
+            <div style="margin-bottom: 30px;">
+                <h3 style="color: var(--primary); margin-bottom: 14px;">Awards, Certificates & Honoraries</h3>
+                <ol style="padding-left: 20px;">
+                    <li>Certified Public Accountant (Illinois License 065.035982)</li>
+                    <li>Illinois CPA Society</li>
+                    <li>Beta Gamma Sigma (Business Honorary Society)</li>
+                    <li>Mensa International; American Mensa</li>
+                    <li>Fulbright Specialist Award, Colombia, 2024</li>
+                    <li>Fulbright Specialist Roster appointment by U.S. Department of State</li>
+                    <li><strong>Fulbright-García Robles US Scholar, Mexico, 2026–2027</strong> *(One of only three U.S. Scholars for Mexico)*</li>
+                    <li>1000-Talents Plan Award, China, 2013–2016</li>
+                    <li>High Level Foreign Expert designation, China</li>
+                    <li>Stanford University’s list of World’s Top 2% Scientists</li>
+                </ol>
+            </div>
+
+            <!-- Career History -->
+            <div style="margin-bottom: 30px;">
+                <h3 style="color: var(--primary); margin-bottom: 14px;">Career History</h3>
+                <ol style="padding-left: 20px;">
+                    <li><strong>Professor</strong>, IDS, University of Illinois – Chicago, 2007–present</li>
+                    <li><strong>Fulbright-García Robles U.S. Scholar & Visiting Scholar</strong>, Universidad Anáhuac Mayab, Mérida, México, 2026–2027</li>
+                    <li><strong>High-level Foreign Expert</strong>, P.R.China (under 1000-Talents Plan) Beihang University, 2012–2017</li>
+                    <li><strong>Adjunct Professor</strong>, XiDian University, Xian, P.R.China, 2017–present</li>
+                    <li><strong>Adjunct Professor</strong>, Shanghai University, Shanghai, P.R.China, 2019</li>
+                    <li><strong>Adjunct Professor</strong>, University of Science and Technology of China, Hefei, P.R.China, 2013–2016</li>
+                    <li><strong>Adjunct Professor</strong>, Key Center for e-Health, Harbin Institute of Technology, Harbin, P.R.China, 2011–present</li>
+                    <li><strong>Adjunct Professor</strong>, SWUFE Key Lab of Financial Intelligence, Chengdu, P.R.China, 2007–present</li>
+                    <li><strong>Head</strong>, IDS, University of Illinois – Chicago, 2000–2007</li>
+                    <li><strong>Professor</strong>, HK University of Science & Technology, 1995–2007; Visiting Professor Tsinghua University, Beijing, 2002–2003</li>
+                    <li><strong>Visiting Professor</strong>, Nanyang Technological University, Singapore, 2002</li>
+                    <li><strong>Associate Professor with Tenure</strong>, Marshall School, University of Southern California, 1994–1996</li>
+                    <li><strong>Assistant Professor</strong>, Marshall School, University of Southern California, 1985–1988</li>
+                    <li><strong>Assistant Professor</strong>, Accounting, Eastern Michigan University, 1986–1987</li>
+                    <li><strong>PhD Student</strong>, Computers and Information Systems, University of Michigan, 1981–1987</li>
+                    <li><strong>Database Admin & Security Manager</strong>, Rockwell International, 1977–1981</li>
+                    <li><strong>IS Audit Manager</strong>, Republic Life, Dallas, 1976–1977</li>
+                    <li><strong>Accounts Payable / Payroll Manager</strong>, Federated Department Stores, Dallas, 1975–1976</li>
+                    <li><strong>Auditor, IS Consultant</strong>, Touche Ross, Chicago, 1973–1975</li>
+                </ol>
+            </div>
+        </section>
+
+        <!-- Books and Software Section -->
+        <section id="books" class="section-card">
+            <div class="section-header">
+                <h2>Books and Software</h2>
+                <p>Authored books, monographs, and computational software systems</p>
+            </div>
+
+            <ol style="padding-left: 20px; line-height: 1.8;">
+                <li><strong>Audit Analytics with Python</strong>, Springer (forthcoming 2027)</li>
+                <li><strong>Bayesian A/B Decision Models</strong>, World Scientific, ISBN-13: 978-9819802050 (2025)</li>
+                <li><strong>Audit Analytics: Data Science for the Accounting Profession</strong> (in R. Gentleman, et al. <em>"Use R!"</em> series), Springer 2021; 2nd edition 2024</li>
+                <li><strong>Structural Equation Modeling: from paths to networks</strong>, Springer, 2nd edition (2019); 1st ed. (2016); reviewed in <em>Psychometrika</em> (2020)</li>
+                <li><strong>Global Innovation Management: A Strategic Approach</strong> (2nd ed.), Palgrave / Macmillan 2018; 1st ed. (2008)</li>
+                <li><strong>Financial Auditing with Information Technology</strong>, Creder Press, ISBN-13: 978-1490448732 (2015)</li>
+                <li><strong>Red Wired: China’s Internet Revolution</strong>, London: Cyan (Marshall Cavendish), 2010 (with S. So); Kindle edition (2012)</li>
+                <li><strong>Financial Dynamics: A System for Valuing Technology Companies</strong>, John Wiley & Sons (2003) with Financial Dynamics software</li>
+                <li><strong>Valuing Technology: The New Science of Wealth in the Knowledge Economy</strong>, John Wiley & Sons (2002)</li>
+                <li><strong>Global Electronic Commerce: Theory and Case Studies</strong>, (with Ted Clark) MIT Press (2000)</li>
+                <li><strong>Information Technology Risk: A Guide for Accountants and Auditors</strong>, Hong Kong Society of Accountants monograph (HKICPA) (1996)</li>
+            </ol>
+
+            <h3 style="color: var(--primary); margin-top: 24px; margin-bottom: 12px;">Young Adult Books</h3>
+            <ol style="padding-left: 20px; line-height: 1.8;">
+                <li><strong>Revolutionary Bites: Bite-Size Tales from Science, Industry and Politics</strong>, KDP (Dec 2023)</li>
+                <li><strong>The Book of Light</strong>, KDP (Feb 2024)</li>
+                <li><strong>The Teenage Guide to Artificial Intelligence</strong>, KDP (March 2024)</li>
+                <li><strong>The Teenage Guide to Cryptocurrency</strong>, KDP (March 2024)</li>
+            </ol>
+        </section>
+
+        <!-- Refereed Publications Section -->
+        <section id="publications" class="section-card">
+            <div class="section-header">
+                <h2>Refereed Publications (102 Publications)</h2>
+                <p>Peer-reviewed scholarship spanning digital economics, machine learning, e-commerce, and audit analytics</p>
+            </div>
+
+            <h3 style="color: var(--secondary); margin-bottom: 16px;">Recent Publications (2025–2026)</h3>
+            <div class="pub-item">
+                <span class="pub-title">1. Extreme value estimators for censored inventory demand.</span>
+                <span class="pub-journal">International Journal of Systems Science: Operations & Logistics</span>, 13(1), with Martinez, L. F., López-López, D., & Torres-Pruñonosa, J. (2026).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">2. Winners and losers in the platform revolution.</span>
+                <span class="pub-journal">PLoS One</span> 21(2): e0340459. doi:10.1371/journal.pone.0340459 (2025).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">3. Financial Returns of Customer Experience Enhancement Initiatives: An Event Study of 35 Major Corporations.</span>
+                <span class="pub-journal">Journal of Logistics, Informatics and Service Science</span> (2025).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">4. The Economic Impact of Remote Work Post-COVID-19: Value Creation and Destruction.</span>
+                <span class="pub-journal">Asia Pacific Journal of Information Systems</span>, September 2025.
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">5. Review valence impact on jello shot sales.</span>
+                <span class="pub-journal">Journal of Marketing Analytics</span>, doi:10.1057/s41270-025-00412-8 (2025).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">6. Building Lovemarks with Social Media Marketing: A Methodological Comparison.</span>
+                <span class="pub-journal">Journal of Retailing and Consumer Services</span> (2025).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">7. Reflections on a year of significant achievements.</span>
+                <span class="pub-journal">Electronic Commerce Research</span>, doi:10.1007/s10660-025-10031-1 (2025).
+            </div>
+
+            <h3 style="color: var(--secondary); margin-top: 24px; margin-bottom: 16px;">High-Impact Selected Articles</h3>
+            <div class="pub-item">
+                <span class="pub-title">8. Periodicity, Elliott Waves, and Fractals in the NFT Market.</span>
+                <span class="pub-journal">Nature: Scientific Reports</span>, doi:10.1038/s41598-024-55011-x (2024).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">9. Amazon Review Valence Impact.</span>
+                <span class="pub-journal">Digital Marketing & eCommerce Conference</span>, Springer (2024).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">10. A Stochastic Model of the Economics of Internet Search.</span>
+                <span class="pub-journal">Journal of Electronic Business & Digital Economics</span>, 3(3) (2024).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">11. Predicting the cryptocurrency market using social media metrics and search trends during COVID-19.</span>
+                <span class="pub-journal">Electronic Commerce Research</span>, 1-27 (2024).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">18. Blockchain for sustainable supply chain management: trends and ways forward.</span>
+                <span class="pub-journal">Electronic Commerce Research</span>, doi:10.1007/s10660-022-09569-1 (2022).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">21. Information loss and bias in Likert survey responses.</span>
+                <span class="pub-journal">PLoS ONE</span> 17(7): e0271949 (2022).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">25. When all products are digital: Complexity and intangible value in the ecosystem of digitizing firms.</span>
+                <span class="pub-journal">MIS Quarterly</span> 45(3): 1025-1058 (2021).
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">55. Lower Bounds on Sample Size in Structural Equation Modeling.</span>
+                <span class="pub-journal">Electronic Commerce Research and Applications</span>, Dec 2010. <em>(Top 10 Most Downloaded in ECRA)</em>
+            </div>
+            <div class="pub-item">
+                <span class="pub-title">86. Congestion and Network Externalities in the Short Run Pricing of Information Systems Services.</span>
+                <span class="pub-journal">Management Science</span>, 38(6): 992-1099 (1992).
+            </div>
+
+            <div style="margin-top: 24px; padding: 16px; background: var(--bg-light); border-radius: 8px;">
+                <p><em>The full catalog of all 102 refereed publications, book chapters, and proceedings is documented in the downloadable <a href="westland_cv.pdf" download>Curriculum Vitae (PDF)</a> and the interactive <a href="https://westland.shinyapps.io/personal_website/" target="_blank">Shiny Web App</a>.</em></p>
+            </div>
+        </section>
+
+        <!-- Editorial Section -->
+        <section id="editorial" class="section-card">
+            <div class="section-header">
+                <h2>Editorial Appointments</h2>
+                <p>Journal editorships and advisory boards</p>
+            </div>
+
+            <div style="background: linear-gradient(135deg, #f0fdf4, #dcfce7); border-left: 5px solid #16a34a; padding: 20px; border-radius: 8px; margin-bottom: 24px;">
+                <h3 style="color: #14532d; font-size: 18px; margin-bottom: 6px;">Electronic Commerce Research (Springer)</h3>
+                <p style="color: #166534; font-size: 15px;">
+                    <strong>Editor-in-Chief (2013–present)</strong> | Impact Factor: <strong>4.9 (2025)</strong> | CiteScore: <strong>11</strong> | Acceptance Rate: <strong>13%</strong> | ~300 articles/year | ~900K annual downloads (2026).
+                </p>
+            </div>
+
+            <ol style="padding-left: 20px; line-height: 1.8;">
+                <li><strong>Electronic Commerce Research</strong> (Editor-in-Chief, 2013–present)</li>
+                <li><strong>Electronic Commerce Research and Applications</strong> (Editor, 2006–2014)</li>
+                <li><strong>Scientific Reports</strong>, Associate Editor (IF: 4.6, 5th most-cited journal in the world)</li>
+                <li><strong>Information and Management</strong> (2011), Associate Editor</li>
+                <li><strong>Social Science Research Network: Information Systems & eBusiness</strong> (2004–2014), Board</li>
+                <li><strong>Management Science</strong> (1995–2002), Associate Editor</li>
+                <li><strong>Information Systems Research</strong> (1996–2000), Associate Editor</li>
+                <li><strong>Electronic Markets</strong> (2001–present), Associate Editor</li>
+                <li><strong>Telecommunications Systems</strong> (2003–present), Associate Editor</li>
+                <li><strong>International Journal of Online Marketing</strong> (2010–present), Associate Editor</li>
+                <li><strong>International Journal of Electronic Commerce</strong> (1996–present), Associate Editor</li>
+                <li><strong>Electronic Commerce Research Journal</strong> (2001–present), Associate Editor</li>
+                <li><strong>International Journal of Internet & Enterprise Management</strong> (2003–present), Associate Editor</li>
+                <li><strong>International Journal of E-Entrepreneurship and Innovation</strong> (2011), Associate Editor</li>
+                <li><strong>International Review of Management</strong> (2004–present), Associate Editor</li>
+            </ol>
+        </section>
+
+        <!-- Ph.D. Students & Advising -->
+        <section class="section-card">
+            <div class="section-header">
+                <h2>Ph.D. Students & Advising</h2>
+                <p>Graduates and academic advising</p>
+            </div>
+            <ol style="padding-left: 20px; line-height: 1.8;">
+                <li><strong>Fabiha Jalal</strong></li>
+                <li><strong>Keran Zhao</strong> (graduated 2021)</li>
+                <li><strong>Pouya Rahmati</strong> (graduated 2020)</li>
+                <li><strong>Poornima Krishnan</strong> (graduated 2010)</li>
+                <li><strong>Sanjeev Jha</strong> (graduated 2009), University of New Hampshire</li>
+                <li><strong>Kirill Yurov</strong> (graduated 2009), Nova University</li>
+                <li><strong>Carsten Paasch</strong> (graduated 2008), Senior VP – Information Security, Standard Chartered Bank</li>
+                <li><strong>Wendy Hui</strong> (graduated 2005), Nottingham University</li>
+                <li><strong>Eric See-to</strong> (graduated 2005), Research Fellow, University of Lancaster Business School, U.K.</li>
+                <li><strong>Hilton Chan</strong> (graduated 2000), Hong Kong Police, Head of Special Investigations</li>
+                <li><strong>Eric Law</strong> (graduated 1999), CEO, Boncle, Inc. (secure internet platforms) Santa Clara, CA</li>
+            </ol>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <p style="margin-bottom: 8px;"><strong>J. Christopher Westland</strong> — Professor of Information & Decision Sciences, University of Illinois Chicago</p>
+        <p style="margin-bottom: 8px;">Fulbright-García Robles U.S. Scholar (2026–2027) | Universidad Anáhuac Mayab, Mérida, Yucatán</p>
+        <p>
+            <a href="https://westland.github.io/">westland.github.io</a> &bull; 
+            <a href="https://westland.shinyapps.io/personal_website/" target="_blank">Interactive Shiny Portal</a> &bull; 
+            <a href="westland_cv.pdf" download>Curriculum Vitae (PDF)</a> &bull; 
+            <a href="https://business.uic.edu/profiles/westland-james-christopher/" target="_blank">UIC Faculty Profile</a>
+        </p>
+        <p style="margin-top: 14px; font-size: 12px; color: #64748b;">&copy; September 2026 J. Christopher Westland. All rights reserved.</p>
+    </footer>
+
 </body>
 </html>

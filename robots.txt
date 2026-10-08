@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://westland.github.io/sitemap.xml
